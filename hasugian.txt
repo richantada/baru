@@ -1,17 +1,9 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-chno="577" tvg-id="HBO.id" tvg-name="HBO.id" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="Best of HBO",HBO
-https://www.dropbox.com/s/u9sl0gs70gaerc5/HBOhd.m3u8?dl=1
 #EXTINF:-1 tvg-chno="578" tvg-id="HBOFamily.id" tvg-name="HBOFamily.id" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="Best of HBO",HBO Family
-https://www.dropbox.com/s/3zf4muo1uxuk62k/HBOfamily.m3u8?dl=1
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
 #EXTINF:-1 tvg-chno="579" tvg-id="HBOHits.id" tvg-name="HBOHits.id" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png" group-title="Best of HBO",HBO Hits
-https://www.dropbox.com/s/z4rqa5n4951ecm9/HBOhit.m3u8?dl=1
-#EXTINF:-1 tvg-chno="580" tvg-id="HBOSignature.id" tvg-name="HBOSignature.id" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="Best of HBO",HBO Signature
-https://www.dropbox.com/s/mn75f719q2166pm/HBOsig.m3u8?dl=1
-#EXTINF:-1 tvg-chno="581" tvg-id="CineMax.id" tvg-name="CineMax.id" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png" group-title="Best of HBO",Cinemax
-https://www.dropbox.com/s/ntu21okj71tq50a/HBOcinemax.m3u8?dl=1
-#EXTINF:-1 tvg-chno="582" tvg-id="RED.id" tvg-name="RED.id" tvg-logo="https://macan.live/img/red_hbo.png" group-title="Best of HBO",red by HBO
-https://www.dropbox.com/s/t25hkfgxfpbdjeg/HBOred.m3u8?dl=1
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
 
 #EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="MNCTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
