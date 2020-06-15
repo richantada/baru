@@ -1,7 +1,16 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-chno="579" tvg-id="HBOHits.id" tvg-name="HBOHits.id" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png" group-title="Best of HBO",HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="film", HBO Hits
+http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="film", FOX
+http://203.153.218.28:9981/stream/channelid/1910872088
+#EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="film", HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766
+#EXTINF: -1 tvg-logo="http://stgiptv.online/LogoTV/logo_hbo_hd.png" group-title="Film", HBO
+http://62.4.22.68:25461/X97VCfMw8S/21gNEt858S/34793?play_token=4rbbwFQFxF&token=HhVYAkpZQF8XUlMJAARdBQtSUAAGXAVYVgNbW1VRDwUEBAZWAABSAAATThtFQ0pVUlk6X1QaWVJRBQFWG0dDEgBFbwpdE1hHAAVVDQEGGhwRQAxbVRpZUFAKAVoBVAdXVhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1454466814_logo-celestial-classic-movies.jpg" group-title="Film", CCM Clasic indo
+http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28802?token=HhVYAkpZQF8XBVRaBgJaVgYEBgQBXlADUAIMAAIEAVFWBlECWwdVBAMTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoDUwRXUhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
 
 #EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="MNCTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
