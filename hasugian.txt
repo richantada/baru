@@ -11,7 +11,46 @@ http://203.153.218.28:9981/stream/channelid/1316004766
 http://62.4.22.68:25461/X97VCfMw8S/21gNEt858S/34793?play_token=4rbbwFQFxF&token=HhVYAkpZQF8XUlMJAARdBQtSUAAGXAVYVgNbW1VRDwUEBAZWAABSAAATThtFQ0pVUlk6X1QaWVJRBQFWG0dDEgBFbwpdE1hHAAVVDQEGGhwRQAxbVRpZUFAKAVoBVAdXVhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
 #EXTINF: -1 tvg-id="Dummy" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1454466814_logo-celestial-classic-movies.jpg" group-title="Film", CCM Clasic indo
 http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28802?token=HhVYAkpZQF8XBVRaBgJaVgYEBgQBXlADUAIMAAIEAVFWBlECWwdVBAMTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoDUwRXUhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
-
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="TV Islam", Al Quran Al Kareem TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="TV Islam", Al Sunnah Al Nabawiyah TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="TV Islam", Ayat live
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/hypp-inspirasi.png" group-title="TV Islam", TV Muslim
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28768.ts?token=HhVYAkpZQF8XBlJaDwdeCQUGVQFVWlMDB1AAUVQHD1VQUwNaXAZaVlcTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUQBXUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d%2FYUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/aqshatv.png" group-title="TV Islam", Aqsha TV
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/wesal.png" group-title="TV Islam", Wesal TV Cipayung
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/surautv.png" group-title="TV Islam", Surau TV Padang
+http://119.235.249.58:1935/surautv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/ahsan.png" group-title="TV Islam", Ahsan TV Cikarang
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="TV Islam", Rodja TV Cileungsi
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png" group-title="TV Islam", Rodja TV backup
+https://tv.rodja.live/live/smil:rodjatv.smil/chunklist_w955375744_b1564000.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/insantv.png" group-title="TV Islam", Insan TV Pondok Kelapa
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="TV Islam", Puldapii TV Bekasi
+http://103.77.106.227:8080/hls/web.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/mgitv.png" group-title="TV Islam", MGI TV Tasikmalaya
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/sntivi.png" group-title="TV Islam", Sabilun Najah TV Batam
+http://wowza58.indostreamserver.com:1935/sntv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="TV Islam", Salam TV Deli Serdang
+http://wowza60.beetecmedia.com:1935/salamtv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="TV Islam", Al-Iman TV Surabaya
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/niagatv.png" group-title="TV Islam", Niaga TV Jagakarsa
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/ashiiltv.png" group-title="TV Islam", Ashiil TV Pekanbaru
+http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/erjetv.png" group-title="TV Islam", Erje TV Pekanbaru
+http://live.beetecmedia.com:1936/live/erjetv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.1mdb.my/wp-content/uploads/2015/03/Bernama.png" group-title="TV Islam", BERNAMA TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="MNCTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 virtualDomain=000001.live_hls.zte.com
