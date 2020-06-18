@@ -52,7 +52,7 @@ http://live.beetecmedia.com:1936/live/erjetv/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://www.1mdb.my/wp-content/uploads/2015/03/Bernama.png" group-title="TV Islam", BERNAMA TV
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="MNCTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+https://dl.dropbox.com/s/1evj6ayn5eibry1/mnctvsd.m3u8?dl=0
 virtualDomain=000001.live_hls.zte.com
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESOFKiybUvkFuLbjTY3-UF3-ETXB5JJ9nlv671K2bbyv8OTv6-w&s" group-title="LOKAL", GLOBAL TV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
