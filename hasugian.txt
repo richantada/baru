@@ -1381,7 +1381,7 @@ https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_03.m3u8
 #EXTINF:-1 tvg-chno="819" tvg-id="" tvg-name="ASTRO GOSHOP GAAYA" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png?dl=1" group-title="Antar Negara",ASTRO GOSHOP GAAYA
 https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
-#EXTINF:-1 tvg-chno="820" tvg-id="" tvg-name="group-title="Malaysia",ASTRO AWANI" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png?dl=1" group-title="Antar Negara",group-title="Malaysia",ASTRO AWANI
+#EXTINF:-1 tvg-chno="820" tvg-id="" tvg-name="group-title="Malaysia",ASTRO AWANI" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png?dl=1" group-title="Antar Negara",ASTRO AWANI
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-chno="821" tvg-id="" tvg-name="ASTRO MALAYSIA SURIA" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png?dl=1" group-title="Antar Negara",ASTRO MALAYSIA SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
@@ -2118,7 +2118,7 @@ https://media-vidio-com.akamaized.net/uploads/1887838/ets-vidio-231-20riritimunm
 https://media-vidio-com.akamaized.net/uploads/1887847/ets-vidio-232-20ririkancildanpaktani-200d_e4910499_high.mp4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/Geeeer.jpg" group-title="Warkop DKI",Ge¡­er (Gede Rasa) (1980)
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/Geeeer.jpg" group-title="Warkop DKI",Geï¿½ï¿½er (Gede Rasa) (1980)
 https://www.googleapis.com/drive/v3/files/16JMKnAVy4MnK0BHAIsloQ7RvvfCKoTOq?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pJV3RJW7n4QF3FDedHcHHAWwupU.jpg" group-title="Warkop DKI",Manusia 6.000.000 Dolar (1981)
 https://www.googleapis.com/drive/v3/files/1YSgvf2zvR0rskn4P6HO9oEVHXVEjxE8K?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
@@ -2154,7 +2154,7 @@ https://bit.ly/2VF98Nm
 https://bit.ly/2V2vpV0
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE0NDc1MWUtYmZmOC00YmM1LTk4MmYtZGNlOTg3ZjI5YzRiXkEyXkFqcGdeQXVyMTA2MjY3NjQ1._V1_.jpg" group-title="Movie On-Demand: A",A Night Of Horror : Nightmare Radio (2019)
 https://bit.ly/2wSkyFf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hw5FcJA.jpg" group-title="Movie On-Demand: A" description="Drama | Music | Romance | 7.8 | 136 Menit | Musisi kawakan Jackson Maine menemukan ¡ª dan jatuh cinta dengan ¡ª artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi ¡ª sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas-- sisi pribadi dari hubungan mereka hancur-- ketika Jack berjuang terus-menerus dengan iblis internalnya sendiri.",A Star Is Born (2018)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hw5FcJA.jpg" group-title="Movie On-Demand: A" description="Drama | Music | Romance | 7.8 | 136 Menit | Musisi kawakan Jackson Maine menemukan ï¿½ï¿½ dan jatuh cinta dengan ï¿½ï¿½ artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi ï¿½ï¿½ sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas-- sisi pribadi dari hubungan mereka hancur-- ketika Jack berjuang terus-menerus dengan iblis internalnya sendiri.",A Star Is Born (2018)
 -
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcJFfO5.png" group-title="Movie On-Demand: A" description="Drama | Horror | Sci-Fi |  8.1 | A family is forced to live in silence while hiding from creatures that hunt by sound.",A Quiet Place (2018)
 -
@@ -2198,7 +2198,7 @@ https://bit.ly/2Vn2Xif
 https://www.dropbox.com/s/q6rltmelij3486t/Angels%20Fallen.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movie On-Demand: A",Angle Has Fallen
 https://www.dropbox.com/s/4sxnnsjxruw0ec0/TERBIT21.COM%20-%20Angel%20Has%20Fallen%20%282019%29.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg" group-title="Movie On-Demand: A" description=" Horror | IMDb: 6.4 | 106 Menit | Bertekad untuk menjaga Annabelle dari membuat lebih banyak kekacauan, ahli demonologi Ed dan Lorraine Warren membawa boneka kesurupan ke ruang artefak yang terkunci di rumah mereka, menempatkannya dengan aman di balik kaca suci dan meminta berkah suci seorang imam. Tetapi malam ngeri yang tidak suci menunggu ketika Annabelle membangunkan roh-roh jahat di ruangan itu, yang semuanya mengarahkan pandangan mereka pada target baru ¡ª anak perempuan Warrens yang berusia sepuluh tahun, Judy, dan teman-temannya.",Annabelle Comes Home (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg" group-title="Movie On-Demand: A" description=" Horror | IMDb: 6.4 | 106 Menit | Bertekad untuk menjaga Annabelle dari membuat lebih banyak kekacauan, ahli demonologi Ed dan Lorraine Warren membawa boneka kesurupan ke ruang artefak yang terkunci di rumah mereka, menempatkannya dengan aman di balik kaca suci dan meminta berkah suci seorang imam. Tetapi malam ngeri yang tidak suci menunggu ketika Annabelle membangunkan roh-roh jahat di ruangan itu, yang semuanya mengarahkan pandangan mereka pada target baru ï¿½ï¿½ anak perempuan Warrens yang berusia sepuluh tahun, Judy, dan teman-temannya.",Annabelle Comes Home (2019)
 -
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f7/d3/a4/f7d3a47705e12b3d541dbe0dd9a5e96d.jpg" group-title="Movie On-Demand: A",Apocalypse (2004)
 https://bit.ly/3bmW4mB
@@ -2594,13 +2594,13 @@ https://bit.ly/3amRXWk
 
 ############### Movie On-Demand: O ###############
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eozo5h8kzxI/XB2QMGgP5UI/AAAAAAAABjg/-CORP3_Pslo3n45eC8XsonLyKm0gtMNsgCLcBGAs/s1600/images.jpeg" group-title="Movie On-Demand: O",Ocean¡¯s Eleven (2001)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eozo5h8kzxI/XB2QMGgP5UI/AAAAAAAABjg/-CORP3_Pslo3n45eC8XsonLyKm0gtMNsgCLcBGAs/s1600/images.jpeg" group-title="Movie On-Demand: O",Oceanï¿½ï¿½s Eleven (2001)
 https://bit.ly/2XOc6BX
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d4/ce/c8/d4cec8e6d283ead36e22957c27fbefa1.jpg" group-title="Movie On-Demand: O",Ocean¡¯s Twelve (2004)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d4/ce/c8/d4cec8e6d283ead36e22957c27fbefa1.jpg" group-title="Movie On-Demand: O",Oceanï¿½ï¿½s Twelve (2004)
 https://bit.ly/3eD8zMH
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyNTc1NzY5MV5BMl5BanBnXkFtZTcwNDM4NTQzMw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="Movie On-Demand: O",Ocean's Thirteen (2007)
 https://bit.ly/2VILe3I
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyNDEyMzc4Ml5BMl5BanBnXkFtZTgwMjEzNjM0NTM@._V1_.jpg" group-title="Movie On-Demand: O",Ocean¡¯s Eight (2018)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyNDEyMzc4Ml5BMl5BanBnXkFtZTgwMjEzNjM0NTM@._V1_.jpg" group-title="Movie On-Demand: O",Oceanï¿½ï¿½s Eight (2018)
 https://bit.ly/2z9BfN1
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-q5xPqrLwz10/WYn-NmlffbI/AAAAAAAAWc4/O4_zOHgZ3fkKCTYRIAjh5cm2H6JbL9DLQCLcBGAs/s1600/okja.jpg" group-title="Movie On-Demand: O",Okja (2017)
 https://bit.ly/3eD8vfV
@@ -2882,9 +2882,9 @@ https://bit.ly/2RTMD6l
 https://bit.ly/2KnC7zX
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1_.jpg" group-title="Movie On-Demand: T",The Twilight Saga: Eclipse (2010)
 https://bit.ly/3br8jOO
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-33_ghYAIkrE/Tsju9IiVXNI/AAAAAAAACGE/RYWNVo4lgJA/s1600/the_twilight_saga_breaking_dawn_-_part_1_2011_5584_poster.jpg" group-title="Movie On-Demand: T",The Twilight Saga: Breaking Dawn ¨C Part 1 (2011)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-33_ghYAIkrE/Tsju9IiVXNI/AAAAAAAACGE/RYWNVo4lgJA/s1600/the_twilight_saga_breaking_dawn_-_part_1_2011_5584_poster.jpg" group-title="Movie On-Demand: T",The Twilight Saga: Breaking Dawn ï¿½C Part 1 (2011)
 https://bit.ly/3araikQ
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="Movie On-Demand: T",The Twilight Saga: Breaking Dawn ¨C Part 2 (2012)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="Movie On-Demand: T",The Twilight Saga: Breaking Dawn ï¿½C Part 2 (2012)
 https://bit.ly/3aq0S9o
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EDOWDhpXkAIQ1ua.jpg" group-title="Movie On-Demand: T",The Two Popes (2019)
 https://bit.ly/3cwSFBG
@@ -2937,7 +2937,7 @@ https://bit.ly/2wUFBHf
 
 ############### Movie On-Demand: W ###############
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Okko%27s_inn_poster.jpg/220px-Okko%27s_inn_poster.jpg" group-title="Movie On-Demand: W",Waka Okami wa Sh¨­gakusei! (2018)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Okko%27s_inn_poster.jpg/220px-Okko%27s_inn_poster.jpg" group-title="Movie On-Demand: W",Waka Okami wa Shï¿½ï¿½gakusei! (2018)
 https://bit.ly/352skZX
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71oscvxVygL._AC_SY500_.jpg" group-title="Movie On-Demand: W",War for The Planet of The Apes (2017)
 https://bit.ly/2XQpyoN
