@@ -1,9 +1,16 @@
 EXTM3U
-####### ADMIN STV #######
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png"group-title="ADMIN STV", UPDATE KODE GRATIS STV TERBARU MINGGU INI STV ADALAH SEMANGKE IPTV INDONESIA COPY RIGHT 2020
-https://jwp.io/s/xpad3ehi
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Lv1TFtJ/20200519-082931.png"group-title="ADMIN STV",  SUBSCRIBE YOUTUBE DHANK CHANNEL 
-https://jwp.io/s/3Qec88OJ
+#EXTINF:-1,Bein-Sport-HD-1
+http://130.193.165.50:4000/play/a004/index.m3u8
+#EXTINF:-1,Bein-Sport-HD-2
+http://130.193.165.50:4000/play/a005/index.m3u8
+#EXTINF:-1,Bein-Sport-HD-3
+http://130.193.165.50:4000/play/a006/index.m3u8
+#EXTINF:-1,Bein-Sport-HD-4
+http://130.193.165.50:4000/play/a007/index.m3u8
+#EXTINF:-1,Bein-Sport-HD-5
+http://130.193.165.50:4000/play/a008/index.m3u8
+#EXTINF:-1,NRT-TEST
+http://130.193.165.50:4000/play/a003/index.m3u8
 
 ####### TV INDONESIA ####### 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/rcti.png" group-title="TV INDONESIA", PRO TV: RCTI (ORI) 
