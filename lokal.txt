@@ -1,0 +1,244 @@
+﻿
+#XTM3U  
+
+#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR 
+
+http://45.126.83.51/session/14634f0e-8cad-11ea-b612-a356856d6632/qwr9ew/s/s04/01.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",TRANS TV HD 
+
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",MNC TV HD 
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",RCTI HD 
+
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",SCTV 
+
+http://45.126.83.51/session/d80df878-8cad-11ea-bfcb-b2cb8b1764b3/qwr9ew/s/s03/01.m3u8  
+
+#EXTINF:-1 group-title="TV NASIONAL",GLOBALTV HD 
+
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8  
+
+#EXTINF:-1 group-title="TV NASIONAL",TV ONE 
+
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",TRANS7 HD 
+
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
+
+#EXTINF:0 group-title="TV NASIONAL",METRO TV 
+
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",METRO TV 
+
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",INEWS HD 
+
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",NET TV 
+
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",NET TV 
+
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd 
+
+#EXTINF:-1 group-title="TV NASIONAL",RTV 
+
+http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/01.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL", KOMPAS TV 
+
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",TVRI 
+
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",TVRI HD 
+
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
+
+#EXTINF:-1 group-title="TV NASIONAL",BERITA SATU 
+
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL", CNN INDONESIA HD 
+
+https://dl.dropbox.com/s/1tno4ahlb36dxd5/CNN%20Indo.m3u8?dl=0
+
+#EXTINF:-1 group-title="RELIGI",NABAWI TV 
+
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8 
+
+#EXTINF:-1 group-title="RELIGI",SALINGSAPA 
+
+http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8 
+#EXTINF:-1 group-title="RELIGI",TV 9 Nusantara 
+
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8 
+
+#EXTINF:-1 group-title="RELIGI",Inspira TV 
+
+http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8 
+
+#EXTINF:-1 group-title="RELIGI",INSAN TV 
+
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8 
+
+#EXTINF:-1 group-title="RELIGI",TAHFIDZ TV 
+
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8 
+
+#EXTINF:-1 group-title="RELIGI",TAWAFTV 
+
+http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8 
+
+#EXTINF:-1 group-title="RELIGI",MAKKAH 
+
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8 
+
+#EXTINF:0 group-title="RELIGI",MADINAH 
+
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8 
+
+#EXTINF:-1 group-title="RELIGI",NU Channel 
+
+http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8 
+
+#EXTINF:-1 group-title="KIDS",MIAO MI 
+
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8 
+
+#EXTINF:-1 group-title="KIDS",BOOMERANG http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8 
+
+#EXTINF:-1 group-title="KIDS",My KIDS 
+
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8 
+
+#EXTINF:-1 group-title="KIDS",NICK ASIA 
+
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass 
+
+#EXTINF:-1 group-title="KIDS",Animax 
+
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index.m3u8
+
+#EXTINF:-1 group-title="KIDS",Aniplus ID 
+
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8 
+
+#EXTINF:-1 group-title="KIDS",Disney Junior 
+
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8 
+
+#EXTINF:-1 group-title="KIDS",SPACETOON 
+
+http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8 
+
+#EXTINF:-1 group-title="KIDS",Nickelodeon Asia 
+
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass 
+
+#EXTINF:-1 group-title="KIDS",Cartoon Network 
+
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+
+#EXTINF:-1 group-title="KIDS",Disney Channel 
+
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+
+#EXTINF:-1 group-title="KIDS",Disney Junior ID 
+
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8 
+
+#EXTINF:-1 group-title="KIDS",SATKIDS 
+
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8 
+
+#EXTINF:-1 group-title="KIDS",MY KID 
+
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8 
+
+#EXTINF:-1 group-title="KIDS", BABY TV 
+
+http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8 
+
+#EXTINF:-1 group-title="KIDS",DUCK TV 
+
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8 
+
+#EXTINF:-1 group-title="KIDS",NICK JR 
+
+http://213.174.8.7:9100/index.m3u8 
+
+#EXTINF:-1 group-title="KIDS",DAVINCI KIDS 
+
+http://213.174.8.7:11111/index.m3u8 
+
+#EXTINF:-1 group-title="KIDS",EBS KIDS 
+
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8 
+
+#EXTINF:-1 group-title="KIDS",MIAO MI 
+
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="Sport",Skynet Sport HD
+
+https://cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8?.ts 
+
+#EXTINF:-1 tvg-logo="https://www.tdedgolden.com/post-img/06122019142633-10102019170013-cxxc56.jpg" group-title="Sport",Skynet Sport + 
+
+http://160.119.77.50/iptv/sd-skynetsportsplus.stream/playlist.m3u8?.ts
+
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="Sport",Skynet Sport 1
+
+https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8?.ts 
+
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="Sport",Skynet Sport 2 
+
+https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8?.ts 
+
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png" group-title="Sport",Skynet Sport 3
+
+https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8?.ts #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png" group-title="Sport",Skynet Sport 4 
+
+https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8?.ts 
+
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png" group-title="Sport",Skynet Sport 5 
+
+https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8?.ts 
+
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="Sport",Skynet Sport 6
+
+https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8?.ts 
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport",True Premier 1 
+
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8?.ts 
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport",True Premier 2 
+
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8?.ts 
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport",True Premier 3 
+
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8?.ts 
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport",True Premier 4 
+
+https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8?.ts 
+
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sport",True Premier 5 
+
+https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8?.ts
