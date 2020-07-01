@@ -43,7 +43,7 @@ https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV 
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd 
+https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=U42UJ&v=20200308
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",Rajawali TV
 http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/01.m3u8 
