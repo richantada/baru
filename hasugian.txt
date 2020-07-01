@@ -1,4 +1,13 @@
 #EXTM3U 
+
+#EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="MNCTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+virtualDomain=000001.live_hls.zte.com
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESOFKiybUvkFuLbjTY3-UF3-ETXB5JJ9nlv671K2bbyv8OTv6-w&s" group-title="LOKAL", GLOBAL TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="" tvg-name="RCTI" tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL",RCTI
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+
 #EXTINF: -1 tvg-id="NetTV.MACAN" tvg-logo="https://cdn.macan.live/img/net.png" group-title="Lokal FTA", NET.
 https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=U42UJ&v=20200308
 #EXTINF: -1 tvg-id="Indosiar.MACAN" tvg-logo="https://cdn.macan.live/img/indosiar.png" group-title="Lokal FTA", INDOSIAR
