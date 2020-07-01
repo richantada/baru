@@ -1,7 +1,13 @@
 #XTM3U  
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar 
+https://delivery.macan.live/stream/id_indosiar/playlist.m3u8?token=U42UJ&v=20200308
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar 
 http://45.126.83.51/session/14634f0e-8cad-11ea-b612-a356856d6632/qwr9ew/s/s04/01.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-logo="https://cdn.macan.live/img/antv.png" group-title="TV Nasional", ANTV
+https://delivery.macan.live/stream/id_antv/playlist.m3u8?token=U42UJ&v=20200308
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",Trans TV 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8 
