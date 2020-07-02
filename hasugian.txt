@@ -454,3 +454,22 @@ https://ott-live.olympicchannel.com/out/u/OC1_11.m3u8
 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="FEED SPORT", Olympic Channel 12
 https://ott-live.olympicchannel.com/out/u/OC1_12.m3u8
 
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="KOREA", Sony One HD
+https://fikrul.my.id/~andriant/tv/sone.m3u8
+#EXTINF: -1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="KOREA", K+
+https://fikrul.my.id/~andriant/tv/k+.m3u8
+#EXTINF: -1 tvg-logo="https://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" group-title="KOREA", K-Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Vy0PPFD.jpg" group-title="KOREA", Gem TV Asia
+https://fikrul.my.id/~andriant/tv/gem.m3u8
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="KOREA", TVN
+https://fikrul.my.id/~andriant/tv/tvn.m3u8
+#EXTINF: -1 tvg-logo="https://tvkita.my.id/img/tvnmovies.png" group-title="KOREA", TVN Movies
+https://fikrul.my.id/~andriant/tv/tvnm.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="KOREA", KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF: -1 tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="KOREA", CHOSUN
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="KOREA", KTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
