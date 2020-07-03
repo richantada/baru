@@ -1,0 +1,1029 @@
+#EXTM3U
+#EXTINF:-1,RCTI
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+
+#EXTINF:-1,SCTV2
+https://dl.dropbox.com/s/9fqsjx833gxbyyu/sctv.m3u8?dl=0
+
+#EXTINF:-1,MNC
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:-1,INEWS
+https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
+
+#EXTINF:-1,DIGDAYATV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+
+#EXTINF:-1,TVONE HD
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+
+#EXTINF:-1,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
+
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w713173730_b1492000_sleng.m3u8
+
+#EXTINF:-1,TVRI 3
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI NASIONAL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1,BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1,BERITA_SATU_WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:-1,INDOSIAR HD
+https://dl.dropbox.com/s/puigzo029f0qscp/indosiar.m3u8?dl=0
+
+#EXTINF:-1,SCTV
+https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
+
+#EXTINF:-1,TRANS 7 HD
+https://dl.dropbox.com/s/e5si1bmmtx4hgq9/trans7.m3u8?dl=0
+
+#EXTINF:-1,TRANS TV HD
+https://dl.dropbox.com/s/hk7utortqj7x18x/transtv.m3u8?dl=0
+
+#EXTINF:-1,TVRI SD
+http://stream1.ninmedia.tv:1935/tvrinasional/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
+
+#EXTINF:-1,METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1,NET TV
+https://dl.dropbox.com/s/b1czwxfwgaopeqz/net.m3u8?dl=0
+
+#EXTINF:-1,NET TV HD
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
+
+#EXTINF:-1,MYTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+
+#EXTINF:-1,CNN Indonesia SD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1,CANEL NEWS ASIA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1,TVRI 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1,BEIN SPORT EXSTRA
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+
+#EXTINF:-1,TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Viasat Sport East
+http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1,Mola sport
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8
+
+#EXTINF:-1,Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Real Madrid 2
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1,RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+
+#EXTINF:-1,Extremadura TV
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
+
+#EXTINF:-1,FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1,Varzesh TV
+http://51.158.66.44/hls/stream.m3u8
+
+#EXTINF:-1,Varzesh TV 3
+http://51.15.236.137/hls/stream.m3u8
+
+#EXTINF:-1,Varzesh TV 4
+http://163.172.138.186/hls/stream.m3u8
+
+#EXTINF:-1,AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1,AL-IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:-1,SALAM TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+
+#EXTINF:-1,NABAWI TV
+http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1,Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+
+#EXTINF:-1,AL Bahjah
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+
+#EXTINF:-1,ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1,Iqraa TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
+#EXTINF:-1,Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+
+#EXTINF:-1,Nabawi TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1,Hidup TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+
+#EXTINF:-1,I AM Channel
+http://iamchannel.org:1935/tes/1/chunklist.m3u8
+
+#EXTINF:-1,Hore
+https://dl.dropbox.com/s/63s89rm1bggmna6/hore.m3u8?dl=0
+
+#EXTINF:-1,DISNEY JUNIOR Indo SD Indo
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+
+#EXTINF:-1,DISNEY JUNIOR Indo HD Indo
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1,EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1,nick
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:-1,Ben 10
+http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
+
+#EXTINF:-1,GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
+
+#EXTINF:-1,GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+
+#EXTINF:-1,GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1049727759.m3u8
+
+#EXTINF:-1,KBS2HD LARVA
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+#EXTINF:-1,3ABNKIDS.TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+
+#EXTINF:-1,GEM KID
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w1290919452.m3u8
+
+#EXTINF:-1,GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+
+#EXTINF:-1,NAT GEO PEOPLE
+https://dl.dropbox.com/s/z07i4ue96t6loi0/ngp.m3u8?dl=0
+
+#EXTINF:-1,HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+
+#EXTINF:-1,HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+
+#EXTINF:-1,NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+
+#EXTINF:-1,CINEMACHI MOVIES
+http://active.h2t.cx:2082/chamour2_260374/JwfbKkKN/49260?checkedby:iptvcat.com
+
+#EXTINF:-1,BEIN MOVIES COMEDY HD
+http://active.h2t.cx:2082/chamour2_260374/JwfbKkKN/12360?checkedby:iptvcat.com
+
+#EXTINF:-1,BEIN MOVIES FESTIVAL HD
+http://active.h2t.cx:2082/chamour2_260374/JwfbKkKN/12359?checkedby:iptvcat.com
+
+#EXTINF:-1,BEINMOVIES ACTION
+http://active.h2t.cx:2082/chamour2_260374/JwfbKkKN/27834?checkedby:iptvcat.com
+
+#EXTINF:-1,BEINMOVIES FAMILY HD
+http://active.h2t.cx:2082/chamour2_260374/JwfbKkKN/27833?checkedby:iptvcat.com
+
+#EXTINF:-1,MOVIESMART FAMLY HD+
+http://active.h2t.cx:2082/chamour2_260374/JwfbKkKN/12372?checkedby:iptvcat.com
+
+#EXTINF:-1,HBO HITS b
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
+
+#EXTINF:-1,HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766
+
+#EXTINF:-1,FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=49DA2BA4E5AD744321A0A9A18B14BBD86901A8A2&profile=pass
+
+#EXTINF:-1,FOX FAMILY MOVIES
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+
+#EXTINF:-1,FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+
+#EXTINF:-1,AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+
+#EXTINF:-1,РORTAL FOX MIX TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+
+#EXTINF:-1,Fox Bulgaria
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+
+#EXTINF:-1,History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pas
+
+#EXTINF:-1,TVONE
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/05.m3u8
+
+#EXTINF:-1,Karaoke
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
+
+#EXTINF:-1,9XO
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
+
+#EXTINF:-1,9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1,CTV BANTEN
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1,BANDUNG TV
+http://202.150.153.254/bandungtv720p.m3u8
+
+#EXTINF:-1,JAWA POS
+https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
+
+#EXTINF:-1,AREK TV
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1,MGS TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+
+#EXTINF:-1,HOME AND LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1,LOMBOK TV
+http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
+
+#EXTINF:-1,BETV Bengkulu
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+
+#EXTINF:-1,Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,BayuTV Nganjuk
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+
+#EXTINF:-1,RTV Riau
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+
+#EXTINF:-1,SBO TV Surabaya
+http://122.248.43.138:1935/ch13/myStream/live.m3u8
+
+#EXTINF:-1,Jek TV Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+
+#EXTINF:-1,Jambi TV
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+
+#EXTINF:-1,NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377
+
+#EXTINF:-1,National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355
+
+#EXTINF:-1,History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562
+
+#EXTINF:-1,HI TV
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
+
+#EXTINF:-1,Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456
+
+#EXTINF:-1,AXN
+http://203.153.218.28:9981/stream/channelid/882386103
+
+#EXTINF:-1,TLC
+http://203.153.218.28:9981/stream/channelid/391618553
+
+#EXTINF:-1,BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723
+
+#EXTINF:-1,DISNEY
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+
+#EXTINF:-1,Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608
+
+#EXTINF:-1,Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170
+
+#EXTINF:-1,DISNEY CHANNEL
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=7067922419741D51CC687FB596AF9C5D3C913703&profile=pass
+
+#EXTINF:-1,FOX MOVISE
+http://203.153.218.28:9981/stream/channelid/1744735983
+
+#EXTINF:-1,BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
+
+#EXTINF:-1,FC Bayern Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Dsports HD
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:-1,RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1,TENIS 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1,TENIS 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1,FLOW SPORT
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:-1,SPORT MAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:-1,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1,ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1,REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+#EXTINF:-1,KUWAIT ONE
+http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
+
+#EXTINF:-1,REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,PPTV
+http://183.182.100.184/live/pptvthai/chunklist.m3u8
+
+#EXTINF:-1,Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
+#EXTINF:-1,DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+
+#EXTINF:-1,RTV Sport (San Marino)
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
+
+#EXTINF:-1,Eurosport 2
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
+
+#EXTINF:-1,Real Madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+#EXTINF:-1,SPORTS MAX
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+
+#EXTINF:-1,AD SPORTS 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+
+#EXTINF:-1,AD SPORTS 3
+https://ch.iptvmate.net/1ec5b741b123b92a09d8e494e024f354.m3u8
+
+#EXTINF:-1,Action Sports 4U
+https://ch.iptvmate.net/90e7f3c97b9567f05ceb7b5c6f03d535.m3u8
+
+#EXTINF:-1,AUTOMOTO TV
+https://ch.iptvmate.net/21bf9e14f8e4d9d9b9745d7ef8640872.m3u8
+
+#EXTINF:-1,Bahrain Sport
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1452818509.m3u8
+
+#EXTINF:-1,Bahrain Sport 2
+http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
+
+#EXTINF:-1,BRT Sport
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+
+#EXTINF:-1,CBC SPORT HD
+http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+
+#EXTINF:-1,CCTV 5 Sport HD
+http://111.40.205.107/PLTV/88888888/224/3221225689/index.m3u8
+
+#EXTINF:-1,Dubai Sports
+https://ch.iptvmate.net/f32f55c9a8d97a4bd8fa6d07fb13637d.m3u8
+
+#EXTINF:-1,Dubai Sports 2 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,Varzesh TV 2
+http://51.158.176.190/hls/stream.m3u8
+
+#EXTINF:-1,SPORTKOOL
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+
+#EXTINF:-1,Flow Sports 1
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+
+#EXTINF:-1,Olympic Channel
+https://ch.iptvmate.net/e6b6bd5952108d0ff8f61a598a28668c.m3u8
+
+#EXTINF:-1,Olympic Channel HD
+https://ch.iptvmate.net/dec3c15c68791d42c300e6880135500c.m3u8
+
+#EXTINF:-1,TELE MONTE NEVE
+http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
+
+#EXTINF:-1,TELE MONTE NEVE 3
+http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8
+
+#EXTINF:-1,Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1,NEWTV Super sports HD
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
+
+#EXTINF:-1,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1,SportsMax TV HD
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+
+#EXTINF:-1,SportsMax TV
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+
+#EXTINF:-1,Flow Sports 1
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
+
+#EXTINF:-1,NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1,Sport 720 HD
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1,SPORTS MAX
+http://161.0.157.9/PLTV/88888888/224/3221226766/04.m3u8
+
+#EXTINF:-1,Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+
+#EXTINF:-1,Sport en France
+https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Adjarasport 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Adjarasport 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,KTV Sport Plus
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Al Kass1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Dubai sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943&checkedby:iptvcat.com
+
+#EXTINF:-1,RTA Sport (New!)
+http://212.47.252.54/hls/stream.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494&checkedby:iptvcat.com
+
+#EXTINF:-1,Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033&checkedby:iptvcat.com
+
+#EXTINF:-1,Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+
+#EXTINF:-1,Real Madrid TV (English)
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,CCTV-5+
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,WWE LIVE 2
+http://cdnak10.cast4u.info/channels/3/10803.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,THE WORK
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1,RAI MOVIES
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1,Bollywood HD
+http://109.95.47.162:8080/Bollywood_HD/mono.m3u8
+
+#EXTINF:-1,Canal 2 (Молдова)
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+
+#EXTINF:-1,TLC Russia
+http://178.217.72.66:80/225.201.2.92/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TVM Channel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+
+#EXTINF:-1,VIP Comedy
+http://178.217.72.66:80/225.201.2.170/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,VIP Comedy HD
+http://178.217.72.66/225.201.2.170/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,VIP Megahit
+http://178.217.72.66:80/225.201.2.171/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,VIP Megahit HD
+http://178.217.72.66/225.201.2.171/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,VIP Premiere
+http://178.217.72.66:80/225.201.2.172/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ViP Premiere HD
+http://178.217.72.66/225.201.2.172/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,VRT.TV
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
+
+#EXTINF:-1,Shot TV
+http://178.217.72.66/225.201.2.107/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,The Addams Family
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Addams.Family.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,The Hidden World
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/How.to.Train.Your.Dragon.The.Hidden.World.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Kingdom of Music
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Swan.Princess.Kingdom.of.Music.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Batman: Hush
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.Hush.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Batman vs. Teenage Mutant Ninja Turtles
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.vs.Teenage.M.N.T.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Asterix: The Secret of the Magic Potion
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Asterix.The.Secret.Of.The.Magic.Potion.2018.mp4/playlist.m3u8
+
+#EXTINF:-1,Justice League vs. the Fatal Five
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Justice-League-Vs-The-Fatal-Five-2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Howard Lovecraft and the Kingdom of Madness
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Howard.Lovecraft.2018.mp4/playlist.m3u8
+
+#EXTINF:-1,Spider-Man: Into the Spider-Verse
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Spider-Man-Into-the-Spider-Verse-2018.mp4/playlist.m3u8
+
+#EXTINF:-1,Ralph Breaks the Internet
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ralph.Breaks.the.Internet.2018.mp4/playlist.m3u8
+
+#EXTINF:-1,Henchmen
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Henchmen-2018.mp4/playlist.m3u8
+
+#EXTINF:-1,Christopher Robin
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Christopher.Robin.2018.mp4/playlist.m3u8
+
+#EXTINF:-1,Two Tails
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Two-Tails-2018.mp4/playlist.m3u8
+
+#EXTINF:-1,Smallfoot
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Smallfoot.2018.mp4/playlist.m3u8
+
+#EXTINF:-1,Cars 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Cars.3.2017.mp4/playlist.m3u8
+
+#EXTINF:-1,Starship Troopers: Traitor of Mars
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Starship.Troopers.Traitor.of.Mars.2017.mp4/playlist.m3u8
+
+#EXTINF:-1,Smurfs: The Lost Village 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Smurfs.The.Lost.Village.2017.mp4/playlist.m3u8
+
+#EXTINF:-1,Sahara 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Sahara.2017.mp4/playlist.m3u8
+
+#EXTINF:-1,The LEGO Batman Movie 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Lego.Batman.The.Movie.2017.mp4/playlist.m3u8
+
+#EXTINF:-1,The Boss Baby 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Boss.Baby.2017.mp4/playlist.m3u8
+
+#EXTINF:-1,Cloudy with a Chance of Meatballs 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Cloudy.with.a.Chance.of.Meatballs.2.2013.mp4/playlist.m3u8
+
+#EXTINF:-1,Bunyan and Babe 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Bunyan.and.Babe.2017.mp4/playlist.m3u8
+
+#EXTINF:-1,Leap! 2016
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Ballerina.2016.mp4/playlist.m3u8
+
+#EXTINF:-1,My Life as a Zucchini 2016
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/My.Life.as.a.Zucchini.2016.mp4/playlist.m3u8
+
+#EXTINF:-1,Surf's Up 2: WaveMania
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Surfs.Up.2.WaveMania.2017.mp4/playlist.m3u8
+
+#EXTINF:-1,The Secret World of Arrietty
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Arrietty.2010.mp4/playlist.m3u8
+
+#EXTINF:-1,The Wind Rises
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Wind.Rises.2013.mp4/playlist.m3u8
+
+#EXTINF:-1,The Girl Who Leapt Through Time
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Girl.Who.Leapt.Through.Time.2006.mp4/playlist.m3u8
+
+#EXTINF:-1,Howl's Moving Castle
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Howls.Moving.Castle.2004.mp4/playlist.m3u8
+
+#EXTINF:-1,My Neighbor Totoro
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/My.Neighbor.Totoro.1988.mp4/playlist.m3u8
+
+#EXTINF:-1,Spirited Away
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Spirited.Away.2001.mp4/playlist.m3u8
+
+#EXTINF:-1,Sing 2016
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Sing.2016.mp4/playlist.m3u8
+
+#EXTINF:-1,The Lorax
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/The.Lorax.2012.mp4/playlist.m3u8
+
+#EXTINF:-1,Justice League Dark
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Justice.League.Dark.2017.mp4/playlist.m3u8
+
+#EXTINF:-1,Moana
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/movies/Moana.2016.aflamy.ps.mp4/playlist.m3u8
+
+#EXTINF:-1,Wreck-It Ralph
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/movies/Wreck.it.Ralph.2012.mp4/playlist.m3u8
+
+#EXTINF:-1,Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+
+#EXTINF:-1,Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:-1,Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+
+#EXTINF:-1,The Three Stooges
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The.Three.Stooges.2012.mp4/playlist.m3u8
+
+#EXTINF:-1,ROGUE WARFARE 2
+https://sarontna.club/f/videos/1578058141/bda3469f3a56c4fc9d6bfc83b08ad601/1080p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1,Terminator: Dark Fate
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Terminator.Dark.Fate.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Maleficent: Mistress of Evil
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Maleficent.Mistress.of.Evil.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Maleficent 2014
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-7/movies/Maleficent.2014.mp4/playlist.m3u8
+
+#EXTINF:-1,فيلم Underwater مترجم HD انتاج 2020
+https://cdn.alarab.com/h264/153976_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1,The Night Clerk
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Night.Clerk.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,The Last Thing He Wanted
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Last.Thing.He.Wanted.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Siccin 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Siccin.6.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,I Am Fear
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/I.Am.Fear.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Sniper Corpse
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sniper.Corpse.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Guns Akimbo
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Guns.Akimbo.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Richard Jewell
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/richard-jewell.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,A Hidden Life
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/a-hidden-life.mp4/playlist.m3u8
+
+#EXTINF:-1,A Wakefield Project
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/a-wakefield-project.mp4/playlist.m3u8
+
+#EXTINF:-1,Mr Jones
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mr.Jones.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,The Dare
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/the-dare.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Anastasia: Once Upon a Time
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Anastasia.Once.Upon.a.Time.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,The Warrant
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Warrant.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,By Light of Desert Night
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/by-light-of-desert-night.mp4/playlist.m3u8
+
+#EXTINF:-1,Final Kill
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Final.Kill.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,The Lurker
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Lurker.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Mistakes Were Made
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Timmy.Failure.Mistakes.Were.Made.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Agramon's Gate
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Agramons.Gate.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Alien Outbreak
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Alien.Outbreak.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Charlie's Angels
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Charlies.Angels.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Cruel Hearts
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Cruel.Hearts.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,The Next Level
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jumanji.The.Next.Level.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,VFW
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/VFW.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Eve
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Eve.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Spy Intervention
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Spy.Intervention.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Isi & Ossi
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Isi.and.Ossi.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,The Kindness of Strangers
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Kindness.of.Strangers.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Fantasy Island - HDCAM
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Fantasy.Island.2020.HDCAM..mp4/playlist.m3u8
+
+#EXTINF:-1,Sadistic Intentions
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sadistic.Intentions.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Island of Shadows
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Is.There.A.Killer.In.My.Family.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Friends Who Kill
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Friends.Who.Kill.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Sisters in Arms
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Soeurs.D.Armes.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Untitled Chris Watts Project
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Chris.Watts.Confessions.Of.A.Killer.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,The Windermere Children
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Windermere.Children.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,21 Bridges
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/21.Bridges.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,S.W.A.T
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/S.W.A.T.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Harriet
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Harriet.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Jojo Rabbit
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jojo.Rabbit.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,A Beautiful Day in the Neighborhood
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A-Beautiful-Day-in-the-Neighborhood-2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Dragonheart: Vengeance
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dragonheart.Vengeance.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Black Flowers
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Atomic.Apocalypse.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,A Pilgrim's Progress
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Heavenquest.A.Pilgrims.Progress.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Bait
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Bait.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Dolittle
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dolittle.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,The Coldest Game
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Coldest.Game.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Adventure Force 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Adventure.Force.5.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Playing with Fire
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Playing.with.Fire.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Kindred Spirits
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kindred.Spirits.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,The VelociPastor
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Velocipastor.2018.mp4/playlist.m3u8
+
+#EXTINF:-1,Just Mercy
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Just.Mercy.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Little Women
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Little.Woman.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Stardust
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Stardust.2007.mp4/playlist.m3u8
+
+#EXTINF:-1,Ford v Ferrari
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ford.v.Ferrari.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,The Last Full Measure
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Last.Full.Measure.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Fight for Justice
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Trigonal.Fight.For.Justice.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Battle Star Wars
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Battle.Star.Wars.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,The Great Alaskan Race
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Great.Alaskan.Race.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,By Dawn
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/By.Dawn.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Jessica Forever
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jessica.Forever.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Coda
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Coda.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Sleeping with My Student
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sleeping.With.My.Student.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Ride Like a Girl
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ride.Like.A.Girl.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Motherless Brooklyn
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Motherless.Brooklyn.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Blank
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Blank.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Midway
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Midway.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,24 Little Hours
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/24.Hours.In.London.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Dark Waters
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dark.Waters.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Epiphany
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Epiphany.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Disturbing The Peace
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Disturbing.The.Peace.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,A Fall from Grace
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A.Fall.from.Grace.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,1917
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/1917-2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Nation's Fire
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Nations.Fire.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Heritage
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Heritage.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,The Wave
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Wave.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Nancy Drew and the Hidden Staircase
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Nancy.Drew.and.the.Hidden.Staircase.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Inmate Zero - Patients of a Saint
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Inmate.Zero.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Gemini Man
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Gemini.Man.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Death of a Nation
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Rogue.Warfare.3.Death.of.a.Nation.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Ghost Stories
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ghost.Stories.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Toxicity
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Toxicity.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,The Mercenary
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Mercenary.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Love Once
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Live.Twice.Love.Once.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Countdown
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Countdown.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Mine 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mine.9.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Where We Disappear
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Where.We.Disappear.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Abducted on Air - The Lead
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Abducted.on.Air.2020.mp4/playlist.m3u8
+
+#EXTINF:-1,Inherit the Viper
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Inherit.The.Viper.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,The Courier
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Courier.2019.mp4/playlist.m3u8
+
+#EXTINF:-1,Three Christs
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Three.Christs.2019.mp4/playlist.m3u8
