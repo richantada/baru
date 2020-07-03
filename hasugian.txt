@@ -195,7 +195,7 @@ https://khairin.my.id/sctv.m3u8/
 #EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Astro Malaysia", TVc
 https://dl.dropboxusercontent.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="Khusus Indihome", HBO
-http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
+https://delivery.macan.live/stream/hbo/playlist.m3u8?token=U42UJ&v=20200308
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="Khusus Indihome", FOX
 http://203.153.218.28:9981/stream/channelid/1910872088
 #EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="Khusus Indihome", FOX Family Movies
@@ -206,6 +206,7 @@ http://203.153.218.28:9981/stream/channelid/756717990
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.pngg" group-title="Khusus Indihome", HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Khusus Indihome", HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Khusus Indihome", HBO Signature
@@ -213,7 +214,8 @@ http://203.153.218.28:9981/stream/channelid/1197019186
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Khusus Indihome", Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374
 #EXTINF: -1 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="Khusus Indihome", Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623
+https://delivery.macan.live/stream/id_animalplanet/playlist.m3u8?token=U42UJ&v=20200308
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Khusus Indihome", Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="Khusus Indihome", AXN
