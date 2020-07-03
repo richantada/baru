@@ -19,6 +19,7 @@ https://khairin.my.id/vidio/indosiarsd.m3u8
 http://103.148.44.22:5650/SCTV
 #EXTINF: -1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="TV Nasional", SCTV HD
 https://khairin.my.id/vidio/sctv.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV Nasional", ANTV
 http:103.148.44.22:8876/play/a0aw
 
@@ -65,8 +66,52 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 #EXTINF: -1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="TV Nasional", THE INDONESIA CHANNEL
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-id="NetTV.MACAN" tvg-logo="https://cdn.macan.live/img/net.png" group-title="TV Nasional", NET.
+https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="Indosiar.MACAN" tvg-logo="https://cdn.macan.live/img/indosiar.png" group-title="TV Nasional", INDOSIAR
+https://delivery.macan.live/stream/id_indosiar/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="SCTV.MACAN" tvg-logo="https://cdn.macan.live/img/sctv.png" group-title="TV Nasional", SCTV
+https://delivery.macan.live/stream/id_sctv/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="Trans7.MACAN" tvg-logo="https://cdn.macan.live/img/trans7.png" group-title="TV Nasional", TRANS 7
+https://delivery.macan.live/stream/id_trans7/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="TransTV.MACAN" tvg-logo="https://cdn.macan.live/img/transtv.png" group-title="TV Nasional", TRANS TV
+https://delivery.macan.live/stream/id_transtv/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="CNNIndonesia.MACAN" tvg-logo="https://cdn.macan.live/img/cnn.png" group-title="TV Nasional", CNN Indonesia
+https://delivery.macan.live/stream/id_cnn/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="CNBCIndonesia.MACAN" tvg-logo="https://cdn.macan.live/img/cnbc.png" group-title="TV Nasional", CNBC Indonesia
+https://delivery.macan.live/stream/id_cnbc/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="ANTV.MACAN" tvg-logo="https://cdn.macan.live/img/antv.png" group-title="TV Nasional", ANTV
+https://delivery.macan.live/stream/id_antv/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="JTV.MACAN" tvg-logo="https://cdn.macan.live/img/jtv.png" group-title="TV Nasional", JTV
+https://delivery.macan.live/stream/id_jtv/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="TVOne.MACAN" tvg-logo="https://cdn.macan.live/img/tvone.png" group-title="TV Nasional", TVOne
+https://delivery.macan.live/stream/id_tvone/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="KompasTv.MACAN" tvg-logo="https://cdn.macan.live/img/kompastv.png" group-title="TV Nasional", KOMPAS TV
+https://delivery.macan.live/stream/id_kompastv/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="MetroTV.MACAN" tvg-logo="https://cdn.macan.live/img/metrotv.png" group-title="TV Nasional", METRO TV
+https://delivery.macan.live/stream/id_metrotv/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="DaaiTv.MACAN" tvg-logo="https://cdn.macan.live/img/daaitv.png" group-title="TV Nasional", DAAI TV
+https://delivery.macan.live/stream/id_daai/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="JakTV.MACAN" tvg-logo="https://cdn.macan.live/img/jaktv.png" group-title="TV Nasional", JAKTV
+https://delivery.macan.live/stream/id_jaktv/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="BeritaSatu.MACAN" tvg-logo="https://cdn.macan.live/img/beritasatu.png" group-title="TV Nasional", BeritaSatu
+https://delivery.macan.live/stream/id_beritasatu/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="RTV.MACAN" tvg-logo="https://cdn.macan.live/img/rtv.png" group-title="TV Nasional", RTV
+https://delivery.macan.live/stream/id_rajawalitv/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="TVRI.MACAN" tvg-logo="https://cdn.macan.live/img/tvri.png" group-title="TV Nasional", TVRI Nasional
+https://delivery.macan.live/stream/id_tvri/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="TVRI.MACAN" tvg-logo="https://cdn.macan.live/img/tvri.png" group-title="TV Nasional", TVRI Sport HD
+https://delivery.macan.live/stream/tvrisport_hd/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="SinemaIndonesia.MACAN" tvg-logo="https://cdn.macan.live/img/sinema_indonesia.png" group-title="TV Nasional", Sinema Indonesia
+https://delivery.macan.live/stream/sinema_indonesia/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="GalaxyPremium.id" tvg-logo="https://cdn.macan.live/img/galaxy_premium.jpg" group-title="TV Nasional", Galaxy Premium
+https://delivery.macan.live/stream/galaxy_premium/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="Jowo.MACAN" tvg-logo="https://cdn.macan.live/img/jowo.png" group-title="TV Nasional", Jowo Channel
+https://delivery.macan.live/stream/jowo/playlist.m3u8?token=U42UJ&v=20200308
+#EXTINF: -1 tvg-id="IDX.MACAN" tvg-logo="https://cdn.macan.live/img/idx.png" group-title="TV Nasional", IDX
+https://delivery.macan.live/stream/idx/playlist.m3u8?token=U42UJ&v=20200308
 
- 
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Astro Malaysia", RTM Sport
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Astro Malaysia", RTB
