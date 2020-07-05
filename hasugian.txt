@@ -20,534 +20,281 @@ http://103.148.44.22:5650/SCTV
 #EXTINF: -1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="TV Nasional", SCTV HD
 https://khairin.my.id/vidio/sctv.m3u8
 
- 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="https://x1.cdn.broiptv.online/img/bein1.png" group-title="SPORTS", beIN Sports 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/bein_sport_1_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="https://x1.cdn.broiptv.online/img/bein2.png" group-title="SPORTS", beIN Sports 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/bein_sport_2_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UseeSports" tvg-logo="https://x1.cdn.broiptv.online/img/useesports1.png" group-title="SPORTS", UseeSports
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/useesports_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UseeSports 2" tvg-logo="https://x1.cdn.broiptv.online/img/useesports2.png" group-title="SPORTS", UseeSports 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/useesports2_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Champion TV 1" tvg-logo="https://x1.cdn.broiptv.online/img/champions1.png" group-title="SPORTS", Champion TV 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/champion_tv_1_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Champion TV 2" tvg-logo="https://x1.cdn.broiptv.online/img/champions2.png" group-title="SPORTS", Champion TV 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/champion_tv_2_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports" tvg-logo="https://x1.cdn.broiptv.online/img/foxsports1.png" group-title="SPORTS", FOX Sports
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/fox_sport_1_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="https://x1.cdn.broiptv.online/img/foxsports2.png" group-title="SPORTS", FOX Sports 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/fox_sport_2_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="https://x1.cdn.broiptv.online/img/foxsports3.png" group-title="SPORTS", FOX Sports 3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/fox_sport_3_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Channel" tvg-logo="https://x1.cdn.broiptv.online/img/natgeo.png" group-title="KNOWLEDGE", National Geographic Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/nat_geo_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic People" tvg-logo="https://x1.cdn.broiptv.online/img/natgeopeople.png" group-title="KNOWLEDGE", National Geographic People
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/nat_geo_people_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="https://x1.cdn.broiptv.online/img/natgeowild.png" group-title="KNOWLEDGE", National Geographic Wild
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/nat_geo_wild_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://x1.cdn.broiptv.online/img/discovery.png" group-title="KNOWLEDGE", Discovery Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/discovery_channel_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://x1.cdn.broiptv.online/img/nba.png" group-title="SPORTS", NBA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/nba_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ruang Trampil" tvg-logo="https://x1.cdn.broiptv.online/img/ruangterampil.png" group-title="LOCAL", Ruang Trampil
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/ruang_trampil_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Usee Photo" tvg-logo="https://x1.cdn.broiptv.online/img/useephoto.png" group-title="LOCAL", Usee Photo
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/usee_photo_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UseePrime" tvg-logo="https://x1.cdn.broiptv.online/img/useeprime.png" group-title="LOCAL", UseePrime
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/useeprime_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Idku" tvg-logo="https://x1.cdn.broiptv.online/img/idku.png" group-title="LOCAL", Idku
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/idku_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://x1.cdn.broiptv.online/img/tvri.png" group-title="LOCAL", TVRI
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/tvri_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://x1.cdn.broiptv.online/img/indosiar.png" group-title="LOCAL", Indosiar
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/indosiar_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JITV" tvg-logo="https://x1.cdn.broiptv.online/img/jitv.png" group-title="LOCAL", JITV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/jitv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://x1.cdn.broiptv.online/img/kompastv.png" group-title="LOCAL", Kompas TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/kompas_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://x1.cdn.broiptv.online/img/metrotv.png" group-title="LOCAL", Metro TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/metro_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="https://x1.cdn.broiptv.online/img/net.png" group-title="LOCAL", Net TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/net._rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="https://x1.cdn.broiptv.online/img/rtv.png" group-title="LOCAL", Rajawali TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/rajawali_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="https://x1.cdn.broiptv.online/img/rri.png" group-title="LOCAL", RRI NET
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/rri_net_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://x1.cdn.broiptv.online/img/sctv.png" group-title="LOCAL", SCTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/sctv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://x1.cdn.broiptv.online/img/trans7.png" group-title="LOCAL", Trans 7
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/trans7_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="https://x1.cdn.broiptv.online/img/transtv.png" group-title="LOCAL", Trans TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/transtv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M Shop" tvg-logo="https://x1.cdn.broiptv.online/img/mshop.png" group-title="LOCAL", M Shop
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/m_shop_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="https://x1.cdn.broiptv.online/img/crimeinvestigation.png" group-title="KNOWLEDGE", Crime Investigation
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/crime_investigation_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antara" tvg-logo="https://x1.cdn.broiptv.online/img/antara.png" group-title="LOCAL", Antara
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/antara_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://x1.cdn.broiptv.online/img/idx.png" group-title="NEWS", IDX
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/idx_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://x1.cdn.broiptv.online/img/babyfirst.png" group-title="KIDS", Baby First
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/baby_first_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://x1.cdn.broiptv.online/img/balitv.png" group-title="LOCAL", Bali TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/bali_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://x1.cdn.broiptv.online/img/beritasatu.png" group-title="NEWS", Berita Satu
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/berita_satu_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://x1.cdn.broiptv.online/img/citradrama.png" group-title="ENTERTAINMENT", Citra Drama
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/citra_drama__rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://x1.cdn.broiptv.online/img/duck.png" group-title="KIDS", Duck TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/duck_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://x1.cdn.broiptv.online/img/dunialain.png" group-title="ENTERTAINMENT", Dunia Lain
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/dunia_lain_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW (English)" tvg-logo="https://x1.cdn.broiptv.online/img/dwtv.png" group-title="NEWS", DW (English)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/dw_(english)_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://x1.cdn.broiptv.online/img/france24.png" group-title="NEWS", France 24
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/france_24_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://x1.cdn.broiptv.online/img/horee.png" group-title="KIDS", Horee
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/horee_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://x1.cdn.broiptv.online/img/imc.png" group-title="MOVIES", IMC
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/imc_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JakTV" tvg-logo="https://x1.cdn.broiptv.online/img/jaktv.png" group-title="LOCAL", JakTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/jaktv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://x1.cdn.broiptv.online/img/jtv.png" group-title="LOCAL", JTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/jtv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="https://x1.cdn.broiptv.online/img/tvmui.png" group-title="RELIGI", MUI TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/mui_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="https://x1.cdn.broiptv.online/img/mytv.png" group-title="LOCAL", MyTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/mytv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://x1.cdn.broiptv.online/img/mtvlive.png" group-title="MUSIC", MTV Live
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/mtv_live_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="https://x1.cdn.broiptv.online/img/citradangdut.png" group-title="MUSIC", Citra Dangdut
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/citra_dangdut_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="https://x1.cdn.broiptv.online/img/tvedukasi.png" group-title="LOCAL", TV Edukasi
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/tv_edukasi_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV9 NU" tvg-logo="https://x1.cdn.broiptv.online/img/tv9.png" group-title="RELIGI", TV9 NU
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/tv9_nu_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UChannel" tvg-logo="https://x1.cdn.broiptv.online/img/uchannel.png" group-title="RELIGI", UChannel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/uchannel_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://x1.cdn.broiptv.online/img/aljazeera.png" group-title="NEWS", Aljazeera
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/aljazeera_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AlQuran Kareem" tvg-logo="https://x1.cdn.broiptv.online/img/alquran.png" group-title="RELIGI", AlQuran Kareem
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/alquran_kareem_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://x1.cdn.broiptv.online/img/arirang.png" group-title="ENTERTAINMENT", Arirang
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/arirang_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="https://x1.cdn.broiptv.online/img/tawaftv.png" group-title="RELIGI", Tawaf TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/tawaf_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://x1.cdn.broiptv.online/img/boomerang.png" group-title="KIDS", Boomerang
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/boomerang_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://x1.cdn.broiptv.online/img/mqtv.png" group-title="RELIGI", MQTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/mqtv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="https://x1.cdn.broiptv.online/img/celestialmovie.png" group-title="MOVIES", Celestial Movies
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/celestial_movie_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTATV" tvg-logo="https://x1.cdn.broiptv.online/img/mtatv.png" group-title="RELIGI", MTATV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/mtatv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muhammadiyah TV" tvg-logo="https://x1.cdn.broiptv.online/img/muhammadiyahtv.png" group-title="RELIGI", Muhammadiyah TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/muhammadiyah_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://x1.cdn.broiptv.online/img/cinemaworld.png" group-title="MOVIES", Cinema World
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/cinema_world_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://x1.cdn.broiptv.online/img/rodjatv.png" group-title="RELIGI", Rodja TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/rodja_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://x1.cdn.broiptv.online/img/animax.png" group-title="ENTERTAINMENT", Animax
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/animax_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://x1.cdn.broiptv.online/img/axn.png" group-title="ENTERTAINMENT", AXN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/axn_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://x1.cdn.broiptv.online/img/tvn.png" group-title="ENTERTAINMENT", TVN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/tvn_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://x1.cdn.broiptv.online/img/kbsworld.png" group-title="ENTERTAINMENT", KBS World
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/kbs_world_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant" tvg-logo="https://x1.cdn.broiptv.online/img/blueant.png" group-title="ENTERTAINMENT", Blue Ant
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/blue_ant_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme" tvg-logo="https://x1.cdn.broiptv.online/img/blueantext.png" group-title="ENTERTAINMENT", Blue Ant Extreme
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/blue_ant_extreme_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="https://x1.cdn.broiptv.online/img/abc_australia.png" group-title="NEWS", ABC Australia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/abc_australia_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://x1.cdn.broiptv.online/img/bioskopindonesia.png" group-title="MOVIES", Bioskop Indonesia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/bioskop_indonesia_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://x1.cdn.broiptv.online/img/cartoonnetwork.png" group-title="KIDS", Cartoon Network
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/cartoon_network_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://x1.cdn.broiptv.online/img/chinesedrama.png" group-title="ENTERTAINMENT", Chinese Drama
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/chinese_drama_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://x1.cdn.broiptv.online/img/cnnindonesia.png" group-title="NEWS", CNN Indonesia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/cnn_indonesia_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://x1.cdn.broiptv.online/img/cnninternational.png" group-title="NEWS", CNN International
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/cnn_international_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://x1.cdn.broiptv.online/img/lifetime.png" group-title="ENTERTAINMENT", Lifetime
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/lifetime_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Daai TV" tvg-logo="https://x1.cdn.broiptv.online/img/daaitv.png" group-title="LOCAL", Daai TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/daai_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dunia anak" tvg-logo="https://x1.cdn.broiptv.online/img/duniaanak.png" group-title="KIDS", Dunia anak
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/dunia_anak_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eat & Go" tvg-logo="https://x1.cdn.broiptv.online/img/eatgo.png" group-title="ENTERTAINMENT", Eat & Go
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/eat_&_go_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://x1.cdn.broiptv.online/img/flik.png" group-title="MOVIES", Flik
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/flik_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://x1.cdn.broiptv.online/img/galaxy.png" group-title="MOVIES", Galaxy
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/galaxy_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://x1.cdn.broiptv.online/img/thrill.png" group-title="ENTERTAINMENT", Thrill
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/thrill_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://x1.cdn.broiptv.online/img/history.png" group-title="KNOWLEDGE", History
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/history_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://x1.cdn.broiptv.online/img/insert.png" group-title="LOCAL", Insert
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/insert_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kix" tvg-logo="https://x1.cdn.broiptv.online/img/kix.png" group-title="ENTERTAINMENT", Kix
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/kix_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://x1.cdn.broiptv.online/img/nickjr.png" group-title="KIDS", Nick Junior
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/nick_junior_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://x1.cdn.broiptv.online/img/nickelodeon.png" group-title="KIDS", Nickelodeon
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/nickelodeon_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Prambors" tvg-logo="https://x1.cdn.broiptv.online/img/pramborstv.png" group-title="MUSIC", Prambors
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/prambors_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Waku Waku Japan" tvg-logo="https://x1.cdn.broiptv.online/img/wakuwaku.png" group-title="ENTERTAINMENT", Waku Waku Japan
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/waku_waku_japan_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://x1.cdn.broiptv.online/img/warner.png" group-title="ENTERTAINMENT", Warner
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/warner_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANIPlus" tvg-logo="https://x1.cdn.broiptv.online/img/aniplus.png" group-title="ENTERTAINMENT", ANIPlus
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/aniplus_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://x1.cdn.broiptv.online/img/bloomberg.png" group-title="NEWS", Bloomberg
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/bloomberg_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://x1.cdn.broiptv.online/img/cctv4.png" group-title="ENTERTAINMENT", CCTV4
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/cctv4_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="https://x1.cdn.broiptv.online/img/cgtndocumentary.png" group-title="KNOWLEDGE", CGTN Documentary
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/cgtn_documentary_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lingua" tvg-logo="https://x1.cdn.broiptv.online/img/linguachannel.png" group-title="KNOWLEDGE", Lingua
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/lingua_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="https://x1.cdn.broiptv.online/img/davinci.png" group-title="KIDS", Da Vinci Learning
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/da_vinci_learning_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://x1.cdn.broiptv.online/img/dreamworks.png" group-title="KIDS", Dreamworks
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/dreamworks_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="egg network" tvg-logo="https://x1.cdn.broiptv.online/img/egg.png" group-title="SPORTS", egg network
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/egg_network_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://x1.cdn.broiptv.online/img/euronews.png" group-title="NEWS", Euronews
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/euronews_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://x1.cdn.broiptv.online/img/cnbc_indonesia.png" group-title="NEWS", CNBC Indonesia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/cnbc_indonesia_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion One" tvg-logo="https://x1.cdn.broiptv.online/img/fashionone.png" group-title="ENTERTAINMENT", Fashion One
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/fashion_one_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FashionTV" tvg-logo="https://x1.cdn.broiptv.online/img/fashiontv.png" group-title="ENTERTAINMENT", FashionTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/fashiontv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kplus" tvg-logo="https://x1.cdn.broiptv.online/img/kplus.png" group-title="ENTERTAINMENT", Kplus
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/kplus_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nhk world Japan" tvg-logo="https://x1.cdn.broiptv.online/img/nhkworld.png" group-title="ENTERTAINMENT", nhk world Japan
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/nhk_world_japan_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony GEM" tvg-logo="https://x1.cdn.broiptv.online/img/sgem.png" group-title="ENTERTAINMENT", Sony GEM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/sgem_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony ONE" tvg-logo="https://x1.cdn.broiptv.online/img/sone.png" group-title="ENTERTAINMENT", Sony ONE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/sone_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV5Monde" tvg-logo="https://x1.cdn.broiptv.online/img/tv5monde.png" group-title="ENTERTAINMENT", TV5Monde
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/tv5monde_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="https://x1.cdn.broiptv.online/img/zbioskop.png" group-title="MOVIES", Zee Bioskop
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/zbioskop_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://x1.cdn.broiptv.online/img/afc.png" group-title="ENTERTAINMENT", Asian Food Network
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/asian_food_network_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El John TV" tvg-logo="https://x1.cdn.broiptv.online/img/eljohn.png" group-title="ENTERTAINMENT", El John TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/rattus/el_john_tv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO HD
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/wirok/hbo_hd_wirok/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_signature.png" group-title="MOVIES", HBO Signature
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/wirok/hbo_signature_wirok/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_hits.png" group-title="MOVIES", HBO Hits
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/wirok/hbo_hits_wirok/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_family.png" group-title="MOVIES", HBO Family
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/wirok/hbo_family_wirok/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://x1.cdn.broiptv.online/img/cinemax.png" group-title="MOVIES", Cinemax
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/wirok/cinemax_wirok/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red By HBO" tvg-logo="https://x1.cdn.broiptv.online/img/redbyhbo.png" group-title="MOVIES", Red By HBO
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/wirok/red_by_hbo_wirok/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://x1.cdn.broiptv.online/img/antv.png" group-title="LOCAL", ANTV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/antv_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="https://x1.cdn.broiptv.online/img/fox_movies.png" group-title="MOVIES", Fox Movies
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/fox_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies" tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="MOVIES", Fox Family Movies
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/fox_family_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Action Movies" tvg-logo="https://x1.cdn.broiptv.online/img/fox_action.png" group-title="MOVIES", Fox Action Movies
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/fox_action_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="MOVIES", Fox
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/fox_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="https://x1.cdn.broiptv.online/img/fox_crime.png" group-title="MOVIES", Fox Crime
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/fox_crime_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="https://x1.cdn.broiptv.online/img/fox_life.png" group-title="MOVIES", Fox Life
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/fox_life_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://x1.cdn.broiptv.online/img/fx.png" group-title="MOVIES", FX
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/fx_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tvn Movies" tvg-logo="https://x1.cdn.broiptv.online/img/tvnmovies.png" group-title="MOVIES", tvn Movies
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/tvn_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="amc" tvg-logo="https://x1.cdn.broiptv.online/img/amc.png" group-title="MOVIES", amc
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/amc_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://x1.cdn.broiptv.online/img/sonymovies.png" group-title="MOVIES", Sony Movies
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/sony_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://x1.cdn.broiptv.online/img/animal_planet.png" group-title="KNOWLEDGE", Animal Planet
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/animal_planet_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://x1.cdn.broiptv.online/img/bbc_lifestyle.png" group-title="KNOWLEDGE", BBC Lifestyle
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/bbc_lifestyle_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://x1.cdn.broiptv.online/img/hgtv.png" group-title="KNOWLEDGE", HGTV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/hgtv_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://x1.cdn.broiptv.online/img/tlc.png" group-title="KNOWLEDGE", TLC
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/tlc_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://x1.cdn.broiptv.online/img/discovery_turbo.png" group-title="KNOWLEDGE", Discovery Turbo
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/discovery_turbo_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Ria" tvg-logo="https://x1.cdn.broiptv.online/img/astro_ria.png" group-title="ENTERTAINMENT", Astro Ria
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/astro_ria_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="https://x1.cdn.broiptv.online/img/astro_ceria.png" group-title="KIDS", Astro Ceria
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/astro_ceria_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Prima" tvg-logo="https://x1.cdn.broiptv.online/img/astro_prima.png" group-title="ENTERTAINMENT", Astro Prima
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/astro_prima_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://x1.cdn.broiptv.online/img/cbeebies.png" group-title="KIDS", CBeebies
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/cbeebies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://x1.cdn.broiptv.online/img/disney.png" group-title="KIDS", Disney Channel
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/disney_channel_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://x1.cdn.broiptv.online/img/disney_xd.png" group-title="KIDS", Disney XD
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/disney_xd_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://x1.cdn.broiptv.online/img/disney_junior.png" group-title="KIDS", Disney Junior
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/disney_junior_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="https://x1.cdn.broiptv.online/img/ufc.png" group-title="SPORTS", UFC TV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/ufc_tv_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://x1.cdn.broiptv.online/img/wwe.png" group-title="SPORTS", WWE Network
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/wwe_network_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://x1.cdn.broiptv.online/img/eurosport1.png" group-title="SPORTS", Eurosport 1
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/eurosport1_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://x1.cdn.broiptv.online/img/eurosport2.png" group-title="SPORTS", Eurosport 2
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/eurosport2_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://x1.cdn.broiptv.online/img/tvri_sport.png" group-title="SPORTS", TVRI Sport
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/tvri_sport_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://x1.cdn.broiptv.online/img/discovery_asia.jpg" group-title="KNOWLEDGE", Discovery Asia
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/norvegicus/discovery_asia_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://x1.cdn.broiptv.online/img/hits_movies.png" group-title="MOVIES", HITS MOVIES
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/hits_movies_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies" tvg-logo="https://x1.cdn.broiptv.online/img/ccm.png" group-title="MOVIES", Celestial Classic Movies
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/celestial_classic_movies_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://x1.cdn.broiptv.online/img/RCTI.png" group-title="LOCAL", RCTI
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/665_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://x1.cdn.broiptv.online/img/mnc_tv.png" group-title="LOCAL", MNC TV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/870_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://x1.cdn.broiptv.online/img/gtv.png" group-title="LOCAL", GTV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/778_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="iNews TV" tvg-logo="https://x1.cdn.broiptv.online/img/inews.png" group-title="LOCAL", iNews TV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/5409_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="https://x1.cdn.broiptv.online/img/tvone.png" group-title="LOCAL", TVOne
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/tvone_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JTV (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/jtv.png" group-title="LOCAL", JTV (Backup)
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/jtv_backup_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANTV (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/antv.png" group-title="LOCAL", ANTV (Backup)
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/antv_backup_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/cnnindonesia.png" group-title="NEWS", CNN Indonesia (Backup)
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/cnn_indonesia_backup_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/cnbc_indonesia.png" group-title="NEWS", CNBC Indonesia (Backup)
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/cnbc_indonesia_backup_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOA" tvg-logo="https://x1.cdn.broiptv.online/img/voa.png" group-title="NEWS", VOA
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/voa_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jakarta Globe News" tvg-logo="https://x1.cdn.broiptv.online/img/jakartaglobenews.png" group-title="NEWS", Jakarta Globe News
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/jakarta_globe_news_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Parlemen" tvg-logo="https://x1.cdn.broiptv.online/img/tvparlemen.png" group-title="NEWS", TV Parlemen
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/tv_parlemen_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Madinah TV" tvg-logo="https://x1.cdn.broiptv.online/img/madinahtv.png" group-title="RELIGI", Madinah TV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/madinah_tv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tahfidz TV" tvg-logo="https://x1.cdn.broiptv.online/img/tahfidztv.png" group-title="RELIGI", Tahfidz TV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/tahfidz_tv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ahsan TV" tvg-logo="https://x1.cdn.broiptv.online/img/ahsantv.png" group-title="RELIGI", Ahsan TV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/ahsan_tv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Surau TV" tvg-logo="https://x1.cdn.broiptv.online/img/surautv.png" group-title="RELIGI", Surau TV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/surau_tv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/disney_junior.png" group-title="KIDS", Disney Junior (Backup)
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/disney_junior_backup_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry" tvg-logo="https://x1.cdn.broiptv.online/img/tomandjerry.png" group-title="KIDS", Tom and Jerry
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/tomandjerry_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="https://x1.cdn.broiptv.online/img/mrbean.png" group-title="KIDS", Mr. Bean
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/mrbean_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Larva" tvg-logo="https://x1.cdn.broiptv.online/img/larva.png" group-title="KIDS", Larva
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/larva_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Karaoke Channel" tvg-logo="https://x1.cdn.broiptv.online/img/karaokechannel.png" group-title="MUSIC", Karaoke Channel
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/karaoke_channel_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="One Music" tvg-logo="https://x1.cdn.broiptv.online/img/onemusic.jpg" group-title="MUSIC", One Music
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/one_music_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lapak Musik TV" tvg-logo="https://x1.cdn.broiptv.online/img/lapak_musik.png" group-title="MUSIC", Lapak Musik TV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/lapak_musik_tv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="m20 TV" tvg-logo="https://x1.cdn.broiptv.online/img/m2o.jpg" group-title="MUSIC", m20 TV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/m2o_tv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dil Se" tvg-logo="https://x1.cdn.broiptv.online/img/dilse.png" group-title="MUSIC", Dil Se
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/dil_se_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://x1.cdn.broiptv.online/img/bbc_earth.png" group-title="KNOWLEDGE", BBC Earth
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/bbc_earth_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="First Lifestyle" tvg-logo="https://x1.cdn.broiptv.online/img/first.png" group-title="KNOWLEDGE", First Lifestyle
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/first_lifestyle_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="K Drama" tvg-logo="https://x1.cdn.broiptv.online/img/kdrama.jpg" group-title="ENTERTAINMENT", K Drama
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/kdrama_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/celestialmovie.png" group-title="MOVIES", Celestial Movies (Backup)
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/celestial_movie_backup_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://x1.cdn.broiptv.online/img/hits.png" group-title="MOVIES", HITS
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/hits_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://x1.cdn.broiptv.online/img/astro_awani.png" group-title="ENTERTAINMENT", Astro Awani
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/astro_awani_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://x1.cdn.broiptv.online/img/drama_sangat.png" group-title="ENTERTAINMENT", Drama Sangat
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/drama_sangat_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="https://x1.cdn.broiptv.online/img/suria.png" group-title="ENTERTAINMENT", Suria
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/suria_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://x1.cdn.broiptv.online/img/vasantham.png" group-title="ENTERTAINMENT", Vasantham
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/vasantham_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-logo="https://x1.cdn.broiptv.online/img/ch8.png" group-title="ENTERTAINMENT", CH8
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/ch8_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://x1.cdn.broiptv.online/img/colors.png" group-title="ENTERTAINMENT", Colors
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/colors_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Naura" tvg-logo="https://x1.cdn.broiptv.online/img/naura.png" group-title="ENTERTAINMENT", Naura
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/naura_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM 1" tvg-logo="https://x1.cdn.broiptv.online/img/rtm_1.png" group-title="ENTERTAINMENT", RTM 1
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/rtm_1_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM 2" tvg-logo="https://x1.cdn.broiptv.online/img/rtm_2.png" group-title="ENTERTAINMENT", RTM 2
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/rtm_2_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM okey" tvg-logo="https://x1.cdn.broiptv.online/img/rtm_okey.png" group-title="ENTERTAINMENT", RTM okey
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/rtm_okey_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBS Plus" tvg-logo="https://x1.cdn.broiptv.online/img/sbs_plus.png" group-title="ENTERTAINMENT", SBS Plus
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/sbs_plus_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBS Star" tvg-logo="https://x1.cdn.broiptv.online/img/sbs_star.png" group-title="ENTERTAINMENT", SBS Star
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/sbs_star_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YTN" tvg-logo="https://x1.cdn.broiptv.online/img/ytn.png" group-title="ENTERTAINMENT", YTN
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/ytn_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="https://x1.cdn.broiptv.online/img/sinema_indonesia.png" group-title="MOVIES", Sinema Indonesia
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/sinema_indonesia_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/foxsports1.png" group-title="SPORTS", Fox Sports (Backup)
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/fox_sport_1_backup_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/foxsports2.png" group-title="SPORTS", Fox Sports 2 (Backup)
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/fox_sport_2_backup_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/foxsports3.png" group-title="SPORTS", Fox Sports 3 (Backup)
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/fox_sport_3_backup_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://x1.cdn.broiptv.online/img/fight_sports.png" group-title="SPORTS", Fight Sports
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/fight_sports_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="https://x1.cdn.broiptv.online/img/fight_network.png" group-title="SPORTS", Fight Network
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/fight_network_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="https://x1.cdn.broiptv.online/img/sonyten1.png" group-title="SPORTS", Sony Ten 1
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/sony_ten_1_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="https://x1.cdn.broiptv.online/img/sonyten2.png" group-title="SPORTS", Sony Ten 2
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/sony_ten_2_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="https://x1.cdn.broiptv.online/img/sonyten3.png" group-title="SPORTS", Sony Ten 3
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/sony_ten_3_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six" tvg-logo="https://x1.cdn.broiptv.online/img/sonysix.png" group-title="SPORTS", Sony Six
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/sony_six_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://x1.cdn.broiptv.online/img/rtm_sports.png" group-title="SPORTS", RTM Sports
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/rtm_sports_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="https://x1.cdn.broiptv.online/img/redbulltv.png" group-title="SPORTS", RedBull TV
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/redbull_tv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://x1.cdn.broiptv.online/img/tennis_channel.png" group-title="SPORTS", Tennis Channel
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/tennis_channel_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 1" tvg-logo="https://x1.cdn.broiptv.online/img/olympic_channel.png" group-title="SPORTS", Olympic Channel 1
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/olympic_channel_1_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 2" tvg-logo="https://x1.cdn.broiptv.online/img/olympic_channel.png" group-title="SPORTS", Olympic Channel 2
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/olympic_channel_2_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 3" tvg-logo="https://x1.cdn.broiptv.online/img/olympic_channel.png" group-title="SPORTS", Olympic Channel 3
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/olympic_channel_3_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 4" tvg-logo="https://x1.cdn.broiptv.online/img/olympic_channel.png" group-title="SPORTS", Olympic Channel 4
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/olympic_channel_4_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel 5" tvg-logo="https://x1.cdn.broiptv.online/img/olympic_channel.png" group-title="SPORTS", Olympic Channel 5
-http://salaamiptv.online/play/morotai@gmail.com/08081977/vQVc2laO/pratensis/olympic_channel_5_pratensis/playlist.m3u8
+#EXTM3U 
+#EXTINF: -1 tvg-id="NetTV.MACAN" tvg-logo="https://cdn.macan.live/img/net.png" group-title="TV Nasional", NET.
+https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Indosiar.MACAN" tvg-logo="https://cdn.macan.live/img/indosiar.png" group-title="TV Nasional", INDOSIAR
+https://delivery.macan.live/stream/id_indosiar/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="SCTV.MACAN" tvg-logo="https://cdn.macan.live/img/sctv.png" group-title="TV Nasional", SCTV
+https://delivery.macan.live/stream/id_sctv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Trans7.MACAN" tvg-logo="https://cdn.macan.live/img/trans7.png" group-title="TV Nasional", TRANS 7
+https://delivery.macan.live/stream/id_trans7/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="TransTV.MACAN" tvg-logo="https://cdn.macan.live/img/transtv.png" group-title="TV Nasional", TRANS TV
+https://delivery.macan.live/stream/id_transtv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CNNIndonesia.MACAN" tvg-logo="https://cdn.macan.live/img/cnn.png" group-title="TV Nasional", CNN Indonesia
+https://delivery.macan.live/stream/id_cnn/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CNBCIndonesia.MACAN" tvg-logo="https://cdn.macan.live/img/cnbc.png" group-title="TV Nasional", CNBC Indonesia
+https://delivery.macan.live/stream/id_cnbc/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="ANTV.MACAN" tvg-logo="https://cdn.macan.live/img/antv.png" group-title="TV Nasional", ANTV
+https://delivery.macan.live/stream/id_antv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="JTV.MACAN" tvg-logo="https://cdn.macan.live/img/jtv.png" group-title="TV Nasional", JTV
+https://delivery.macan.live/stream/id_jtv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="TVOne.MACAN" tvg-logo="https://cdn.macan.live/img/tvone.png" group-title="TV Nasional", TVOne
+https://delivery.macan.live/stream/id_tvone/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="KompasTv.MACAN" tvg-logo="https://cdn.macan.live/img/kompastv.png" group-title="TV Nasional", KOMPAS TV
+https://delivery.macan.live/stream/id_kompastv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="MetroTV.MACAN" tvg-logo="https://cdn.macan.live/img/metrotv.png" group-title="TV Nasional", METRO TV
+https://delivery.macan.live/stream/id_metrotv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="DaaiTv.MACAN" tvg-logo="https://cdn.macan.live/img/daaitv.png" group-title="TV Nasional", DAAI TV
+https://delivery.macan.live/stream/id_daai/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="JakTV.MACAN" tvg-logo="https://cdn.macan.live/img/jaktv.png" group-title="TV Nasional", JAKTV
+https://delivery.macan.live/stream/id_jaktv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="BeritaSatu.MACAN" tvg-logo="https://cdn.macan.live/img/beritasatu.png" group-title="TV Nasional", BeritaSatu
+https://delivery.macan.live/stream/id_beritasatu/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="RTV.MACAN" tvg-logo="https://cdn.macan.live/img/rtv.png" group-title="TV Nasional", RTV
+https://delivery.macan.live/stream/id_rajawalitv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="TVRI.MACAN" tvg-logo="https://cdn.macan.live/img/tvri.png" group-title="TV Nasional", TVRI Nasional
+https://delivery.macan.live/stream/id_tvri/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="TVRI.MACAN" tvg-logo="https://cdn.macan.live/img/tvri.png" group-title="TV Nasional", TVRI Sport HD
+https://delivery.macan.live/stream/tvrisport_hd/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="SinemaIndonesia.MACAN" tvg-logo="https://cdn.macan.live/img/sinema_indonesia.png" group-title="TV Nasional", Sinema Indonesia
+https://delivery.macan.live/stream/sinema_indonesia/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="GalaxyPremium.id" tvg-logo="https://cdn.macan.live/img/galaxy_premium.jpg" group-title="TV Nasional", Galaxy Premium
+https://delivery.macan.live/stream/galaxy_premium/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Jowo.MACAN" tvg-logo="https://cdn.macan.live/img/jowo.png" group-title="TV Nasional", Jowo Channel
+https://delivery.macan.live/stream/jowo/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="IDX.MACAN" tvg-logo="https://cdn.macan.live/img/idx.png" group-title="TV Nasional", IDX
+https://delivery.macan.live/stream/idx/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="SalamTV.MACAN" tvg-logo="https://cdn.macan.live/img/salam_tv.png" group-title="Religion", Salam TV
+https://delivery.macan.live/stream/salam_tv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AlQuranAlKareem.MACAN" tvg-logo="https://cdn.macan.live/img/aqak.jpg" group-title="Religion", Al Quran Al Kareem TV
+https://delivery.macan.live/stream/aqak/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="RodjaTV.MACAN" tvg-logo="https://cdn.macan.live/img/rodjatv.png" group-title="Religion", Rodja TV
+https://delivery.macan.live/stream/rodjatv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="RodjaTV.MACAN" tvg-logo="https://cdn.macan.live/img/hopechannel.png" group-title="Religion", Hope Channel
+https://delivery.macan.live/stream/hopechannel/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="UChannel.MACAN" tvg-logo="https://cdn.macan.live/img/uchannel.png" group-title="Religion", U Channel
+https://delivery.macan.live/stream/uchannel/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CitraDangdut.MACAN" tvg-logo="https://cdn.macan.live/img/citra_dangdut.png" group-title="Lokal Premium", Citra Dangdut
+https://delivery.macan.live/stream/citra_dangdut/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CitraDrama.MACAN" tvg-logo="https://cdn.macan.live/img/citra_drama.png" group-title="Lokal Premium", Citra Drama
+https://delivery.macan.live/stream/citra_drama/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="DuniaLain.MACAN" tvg-logo="https://cdn.macan.live/img/dunialain.png" group-title="Lokal Premium", Dunia Lain
+https://delivery.macan.live/stream/dunialain/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="DisneyChannel.MACAN" tvg-logo="https://cdn.macan.live/img/disneychannel.png" group-title="Kids", Disney Channel (ENG)
+https://delivery.macan.live/stream/disneychannel_en/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="DisneyChannel.MACAN" tvg-logo="https://cdn.macan.live/img/disneychannel.png" group-title="Kids", Disney Channel (IDN)
+https://delivery.macan.live/stream/disneychannel_id/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="DisneyJunior.MACAN" tvg-logo="https://cdn.macan.live/img/disneyjunior.png" group-title="Kids", Disney Junior (ENG)
+https://delivery.macan.live/stream/disneyjunior_en/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="DisneyJunior.MACAN" tvg-logo="https://cdn.macan.live/img/disneyjunior.png" group-title="Kids", Disney Junior (IDN)
+https://delivery.macan.live/stream/disneyjunior_id/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CartoonNetwork.MACAN" tvg-logo="https://cdn.macan.live/img/cartoonnetwork.png" group-title="Kids", Cartoon Network (ENG)
+https://delivery.macan.live/stream/cartoonnetwork_en/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CartoonNetwork.MACAN" tvg-logo="https://cdn.macan.live/img/cartoonnetwork.png" group-title="Kids", Cartoon Network (IDN)
+https://delivery.macan.live/stream/cartoonnetwork_id/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Dreamworks.MACAN" tvg-logo="https://cdn.macan.live/img/dreamworks.png" group-title="Kids", Dreamworks
+https://delivery.macan.live/stream/dreamworks/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="DuniaAnak.MACAN" tvg-logo="https://cdn.macan.live/img/duniaanak.png" group-title="Kids", Dunia Anak
+https://delivery.macan.live/stream/duniaanak/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="DisneyXD.MACAN" tvg-logo="https://cdn.macan.live/img/disneyxd.png" group-title="Kids", Disney XD
+https://delivery.macan.live/stream/disneyxd/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Boomerang.MACAN" tvg-logo="https://cdn.macan.live/img/boomerang.png" group-title="Kids", Boomerang
+https://delivery.macan.live/stream/boomerang/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Nickelodeon.MACAN" tvg-logo="https://cdn.macan.live/img/nickelodeon.png" group-title="Kids", Nickelodeon
+https://delivery.macan.live/stream/nickelodeon/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="NickelodeonJr.MACAN" tvg-logo="https://cdn.macan.live/img/nickjr.png" group-title="Kids", Nick Jr
+https://delivery.macan.live/stream/nickjr/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="WarnerTV.MACAN" tvg-logo="https://cdn.macan.live/img/warnertv.png" group-title="Kids", Warner TV
+https://delivery.macan.live/stream/warnertv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="BabyTV.MACAN" tvg-logo="https://cdn.macan.live/img/babytv.png" group-title="Kids", BabyTV
+https://delivery.macan.live/stream/babytv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="besmart.MACAN" tvg-logo="https://cdn.macan.live/img/besmart.jpg" group-title="Kids", BeSmart
+https://delivery.macan.live/stream/besmart/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Lingua.MACAN" tvg-logo="https://cdn.macan.live/img/lingua.png" group-title="Kids", Lingua
+https://delivery.macan.live/stream/lingua/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="ZooMoo TV" tvg-logo="https://cdn.macan.live/img/zoomoo.png" group-title="Kids", Zoomoo
+https://delivery.macan.live/stream/zoomoo/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Channel[V].MACAN" tvg-logo="https://cdn.macan.live/img/channel_v_int.png" group-title="Music", Channel V. Int
+https://delivery.macan.live/stream/id_channelv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="MTVLive.nl" tvg-logo="https://cdn.macan.live/img/mtv_live.png" group-title="Music", MTV Live HD
+https://delivery.macan.live/stream/mtv_live/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="EKonser.id" tvg-logo="https://cdn.macan.live/img/e_konser.png" group-title="Music", E-Konser
+https://delivery.macan.live/stream/e_konser/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="LoveNature.uk" tvg-logo="https://cdn.macan.live/img/love_nature.png" group-title="Knowledge", Love Nature
+https://delivery.macan.live/stream/love_nature/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="HistoryChannel.id" tvg-logo="https://cdn.macan.live/img/history.png" group-title="Knowledge", History
+https://delivery.macan.live/stream/history/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="HGTV.MACAN" tvg-logo="https://cdn.macan.live/img/hgtv.png" group-title="Knowledge", HGTV
+https://delivery.macan.live/stream/hgtv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AsianFoodChannel.MACAN" tvg-logo="https://cdn.macan.live/img/afc.png" group-title="Knowledge", AFC
+https://delivery.macan.live/stream/id_afc/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="TLC.MACAN" tvg-logo="https://cdn.macan.live/img/tlc.png" group-title="Knowledge", TLC
+https://delivery.macan.live/stream/tlc/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AnimalPlanet.MACAN" tvg-logo="https://cdn.macan.live/img/animalplanet.png" group-title="Knowledge", Animal Planet
+https://delivery.macan.live/stream/id_animalplanet/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="DiscoveryChannel.MACAN" tvg-logo="https://cdn.macan.live/img/discoverychannel.png" group-title="Knowledge", Discovery Channel
+https://delivery.macan.live/stream/id_discoverychannel/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Discovery Asia" tvg-logo="https://cdn.macan.live/img/discoveryasia.png" group-title="Knowledge", Discovery Asia
+https://delivery.macan.live/stream/id_discoveryasia/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="NationalGeographicChannel.MACAN" tvg-logo="https://cdn.macan.live/img/ngc.png" group-title="Knowledge", National Geographic
+https://delivery.macan.live/stream/id_ngc/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="NationalGeographicPeople.MACAN" tvg-logo="https://cdn.macan.live/img/natgeopeople.png" group-title="Knowledge", Nat Geo People
+https://delivery.macan.live/stream/id_netgeopeople/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="NationalGeographicWild.MACAN" tvg-logo="https://cdn.macan.live/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild
+https://delivery.macan.live/stream/id_natgeowild/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="BBCEarth.MACAN" tvg-logo="https://cdn.macan.live/img/bbc_earth.png" group-title="News", BBC Earth
+https://delivery.macan.live/stream/bbc_earth/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="BBC Lifestyle" tvg-logo="https://cdn.macan.live/img/bbc_lifestyle.png" group-title="News", BBC Lifestyle
+https://delivery.macan.live/stream/bbc_lifestyle/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="BBCWorldNews.MACAN" tvg-logo="https://cdn.macan.live/img/bbc_world_news.png" group-title="News", BBC World News
+https://delivery.macan.live/stream/id_bbcworldnews/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="NHKWorld.MACAN" tvg-logo="https://cdn.macan.live/img/nhk_world.png" group-title="News", NHK World
+https://delivery.macan.live/stream/id_nhkworld/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CNNInternational.MACAN" tvg-logo="https://cdn.macan.live/img/cnninternational.png" group-title="News", CNN International
+https://delivery.macan.live/stream/cnninternational/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Russia Today" tvg-logo="https://cdn.macan.live/img/russia_today.png" group-title="News", Russia Today (RT)
+https://delivery.macan.live/stream/russia_today/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="ChannelNewsAsia.MACAN" tvg-logo="https://cdn.macan.live/img/cna.png" group-title="News", Channel News Asia
+https://delivery.macan.live/stream/id_cna/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Bloomberg.MACAN" tvg-logo="https://cdn.macan.live/img/bloomberg.png" group-title="News", Bloomberg
+https://delivery.macan.live/stream/id_bloomberg/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Lifetime.MACAN" tvg-logo="https://cdn.macan.live/img/lifetime.png" group-title="Entertainment", Lifetime
+https://delivery.macan.live/stream/lifetime/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="BlueAntEntertainment.id" tvg-logo="https://cdn.macan.live/img/blue_ant_entertainment.png" group-title="Entertainment", Blue Ant Entertainment
+https://delivery.macan.live/stream/blue_ant_entertainment/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="BlueAntExtreme.id" tvg-logo="https://cdn.macan.live/img/blue_ant_extreme.png" group-title="Entertainment", Blue Ant Extreme
+https://delivery.macan.live/stream/blue_ant_extreme/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AXNHD.MACAN" tvg-logo="https://cdn.macan.live/img/axn.png" group-title="Entertainment", AXN
+https://delivery.macan.live/stream/id_axn/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FX.MACAN" tvg-logo="https://cdn.macan.live/img/fx.png" group-title="Entertainment", FX
+https://delivery.macan.live/stream/id_fx/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FOX.MACAN" tvg-logo="https://cdn.macan.live/img/fox.jpg" group-title="Entertainment", FOX
+https://delivery.macan.live/stream/id_fox/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FOXCrime.MACAN" tvg-logo="https://cdn.macan.live/img/fox_crime.png" group-title="Entertainment", FOX Crime
+https://delivery.macan.live/stream/id_foxcrime/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FoxLife.MACAN" tvg-logo="https://cdn.macan.live/img/fox_life.png" group-title="Entertainment", FOX Life
+https://delivery.macan.live/stream/id_foxlife/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CrimeInvestigation.MACAN" tvg-logo="https://cdn.macan.live/img/crime_investigation.png" group-title="Entertainment", Crime Investigation
+https://delivery.macan.live/stream/crimeinvestigation/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Flik" tvg-logo="https://cdn.macan.live/img/flik.png" group-title="Entertainment", Flik
+https://delivery.macan.live/stream/flik/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Hits.MACAN" tvg-logo="https://cdn.macan.live/img/hits.png" group-title="Entertainment", HITS
+https://delivery.macan.live/stream/hits/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="HITSMovies.MACAN" tvg-logo="https://cdn.macan.live/img/hits_movies.png" group-title="Entertainment", HITS Movies
+https://delivery.macan.live/stream/hits_movies/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FashionTV.id" tvg-logo="https://cdn.macan.live/img/fashiontv.png" group-title="Entertainment", Fashion TV
+https://delivery.macan.live/stream/fashiontv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FashionOne.id" tvg-logo="https://cdn.macan.live/img/fashionone.png" group-title="Entertainment", Fashion One
+https://delivery.macan.live/stream/fashionone/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_movies_premium.png" group-title="Movies", FOX Movies Premium
+https://delivery.macan.live/stream/id_foxmoviespremium/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FOXActionMoviesHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_action_movies.png" group-title="Movies", FOX Action Movies
+https://delivery.macan.live/stream/id_foxactionmovies/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_family_movies.png" group-title="Movies", FOX Family Movies (ENG)
+https://delivery.macan.live/stream/id_foxfamilymovies/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_family_movies.png" group-title="Movies", FOX Family Movies (IDN)
+https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="HBOHD.MACAN" tvg-logo="https://cdn.macan.live/img/hbo.png" group-title="Movies", HBO
+https://delivery.macan.live/stream/hbo/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://cdn.macan.live/img/hbo_family.png" group-title="Movies", HBO Family
+https://delivery.macan.live/stream/hbo_family/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://cdn.macan.live/img/hbo_hits.png" group-title="Movies", HBO Hits
+https://delivery.macan.live/stream/hbo_hits/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://cdn.macan.live/img/hbo_signature.png" group-title="Movies", HBO Signature
+https://delivery.macan.live/stream/hbo_signature/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="RED.MACAN" tvg-logo="https://cdn.macan.live/img/red_hbo.png" group-title="Movies", RED by HBO
+https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CINEMAX.MACAN" tvg-logo="https://cdn.macan.live/img/cinemaxa.png" group-title="Movies", Cinemax by HBO
+https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Thrill.MACAN" tvg-logo="https://cdn.macan.live/img/thrill.png" group-title="Movies", Thrill
+https://delivery.macan.live/stream/thrill/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="KIX.MACAN" tvg-logo="https://cdn.macan.live/img/kix.png" group-title="Movies", KIX
+https://delivery.macan.live/stream/kix/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="SonyOneHD.MACAN" tvg-logo="https://cdn.macan.live/img/sonyone.png" group-title="Korea", Sony One
+https://delivery.macan.live/stream/sonyone/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Arirang.MACAN" tvg-logo="https://cdn.macan.live/img/arirang.png" group-title="Korea", Arirang
+https://delivery.macan.live/stream/arirang/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="TVN.MACAN" tvg-logo="https://cdn.macan.live/img/tvn.png" group-title="Korea", tvN
+https://delivery.macan.live/stream/id_tvn/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="TVNMovies.MACAN" tvg-logo="https://cdn.macan.live/img/tvn_movies.png" group-title="Korea", tvN Movies
+https://delivery.macan.live/stream/tvn_movies/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="KBS World" tvg-logo="https://cdn.macan.live/img/kbs_world.png" group-title="Korea", KBS World
+https://delivery.macan.live/stream/kbs_world/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="KPlus.id" tvg-logo="https://cdn.macan.live/img/kplus.png" group-title="Korea", K+
+https://delivery.macan.live/stream/kplus/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Animax.MACAN" tvg-logo="https://cdn.macan.live/img/animax.png" group-title="Japan", Animax
+https://delivery.macan.live/stream/id_animax/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Aniplus.id" tvg-logo="https://cdn.macan.live/img/aniplus.png" group-title="Japan", Aniplus
+https://delivery.macan.live/stream/id_aniplus/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-logo="https://cdn.macan.live/img/wakuwaku.png" group-title="Japan", Waku Waku Japan
+https://delivery.macan.live/stream/wakuwaku/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="GEMChannel.id" tvg-logo="https://cdn.macan.live/img/gem.jpg" group-title="Japan", Sony GEM TV
+https://delivery.macan.live/stream/id_gem/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CelestialMovies.MACAN" tvg-logo="https://cdn.macan.live/img/cm.jpg" group-title="Chinese", Celestial Movies
+https://delivery.macan.live/stream/cm/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CCM.MACAN" tvg-logo="https://cdn.macan.live/img/ccm.png" group-title="Chinese", Celestial Classic Movies
+https://delivery.macan.live/stream/ccm/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="SCMLegend.MACAN" tvg-logo="https://cdn.macan.live/img/scmlegend.jpeg" group-title="Chinese", SCM Legend
+https://delivery.macan.live/stream/scmlegend/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="SCM.MACAN" tvg-logo="https://cdn.macan.live/img/star_chinese_movies.png" group-title="Chinese", Star Chinese Movies
+https://delivery.macan.live/stream/id_scm/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Zee.MACAN" tvg-logo="https://cdn.macan.live/img/zeebioskop.png" group-title="India", ZEE Bioskop
+https://delivery.macan.live/stream/zeebioskop/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="ZeeTV.sg" tvg-logo="https://cdn.macan.live/img/zeetv.png" group-title="India", ZEE TV
+https://delivery.macan.live/stream/zeetv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="TV1.my" tvg-logo="https://cdn.macan.live/img/tv1.png" group-title="Malaysia", tv1
+https://delivery.macan.live/stream/tv1/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="TV2.my" tvg-logo="https://cdn.macan.live/img/tv2.png" group-title="Malaysia", tv2
+https://delivery.macan.live/stream/tv2/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="TV3.my" tvg-logo="https://cdn.macan.live/img/tv3.png" group-title="Malaysia", tv3
+https://delivery.macan.live/stream/tv3/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AstroAwani.my" tvg-logo="https://cdn.macan.live/img/astro_awani.png" group-title="Malaysia", Astro Awani
+https://delivery.macan.live/stream/astro_awani/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AstroCeria.my" tvg-logo="https://cdn.macan.live/img/astro_ceria.png" group-title="Malaysia", Astro Ceria
+https://delivery.macan.live/stream/astro_ceria/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AstroOasis.my" tvg-logo="https://cdn.macan.live/img/astro_oasis.png" group-title="Malaysia", Astro Oasis
+https://delivery.macan.live/stream/astro_oasis/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AstroPrima.my" tvg-logo="https://cdn.macan.live/img/astro_prima.png" group-title="Malaysia", Astro Prima
+https://delivery.macan.live/stream/astro_prima/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AstroRia.my" tvg-logo="https://cdn.macan.live/img/astro_ria.png" group-title="Malaysia", Astro Ria
+https://delivery.macan.live/stream/astro_ria/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AstroWarna.my" tvg-logo="https://cdn.macan.live/img/astro_warna.png" group-title="Malaysia", Astro Warna
+https://delivery.macan.live/stream/astro_warna/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AstroNaura.my" tvg-logo="https://cdn.macan.live/img/astro_naura.png" group-title="Malaysia", Astro Naura
+https://delivery.macan.live/stream/astro_naura/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AstroAura.my" tvg-logo="https://cdn.macan.live/img/astro_aura.png" group-title="Malaysia", Astro Aura
+https://delivery.macan.live/stream/astro_aura/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="AstroRania.my" tvg-logo="https://cdn.macan.live/img/astro_rania.png" group-title="Malaysia", Astro Rania
+https://delivery.macan.live/stream/astro_rania/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="NBC Golf" tvg-logo="https://cdn.macan.live/img/nbc_golf.png" group-title="Sports", NBC Golf
+https://delivery.macan.live/stream/nbc_golf/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FOXSportsHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_sports_1.png" group-title="Sports", FOX Sport 1
+https://delivery.macan.live/stream/id_foxsport1/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FOXSports2.MACAN" tvg-logo="https://cdn.macan.live/img/fox_sports_2.jpg" group-title="Sports", FOX Sport 2
+https://delivery.macan.live/stream/id_foxsport2/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FOXSports3.MACAN" tvg-logo="https://cdn.macan.live/img/fox_sport_3.jpeg" group-title="Sports", FOX Sport 3
+https://delivery.macan.live/stream/id_foxsport3/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="FightSports.MACAN" tvg-logo="https://cdn.macan.live/img/fightsport.png" group-title="Sports", Fight Sport
+https://delivery.macan.live/stream/fightsport/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="beINSports1.MACAN" tvg-logo="https://cdn.macan.live/img/bein_sports_1.png" group-title="Sports", beIN Sports 1 ID
+https://delivery.macan.live/stream/macan_sport_1/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="beINSports2.MACAN" tvg-logo="https://cdn.macan.live/img/bein_sports_2.png" group-title="Sports", beIN Sports 2 ID
+https://delivery.macan.live/stream/macan_sport_2/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="UseeSports.id" tvg-logo="https://cdn.macan.live/img/useetv.png" group-title="Sports", Useesports 1
+https://delivery.macan.live/stream/macan_sport_3/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="UseeSports.id" tvg-logo="https://cdn.macan.live/img/useetv.png" group-title="Sports", Useesports 2
+https://delivery.macan.live/stream/macan_sport_4/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Champions1" tvg-logo="https://cdn.macan.live/img/champions1.png" group-title="Sports", Champions 1 TV
+https://delivery.macan.live/stream/macan_sport_5/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Champions2" tvg-logo="https://cdn.macan.live/img/champions2.png" group-title="Sports", Champions 2 TV
+https://delivery.macan.live/stream/macan_sport_6/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="NBATV.id" tvg-logo="https://cdn.macan.live/img/nbatv.png" group-title="Sports", NBA TV
+https://delivery.macan.live/stream/nbatv/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="Arena.id" tvg-logo="https://cdn.macan.live/img/arena.png" group-title="Sports", Astro Arena
+https://delivery.macan.live/stream/arena/playlist.m3u8?token=k0wnE&v=20200308
+
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV Nasional", ANTV
 http:103.148.44.22:8876/play/a0aw
 
