@@ -584,13 +584,69 @@ http://nonton.site:8888/Fikri/Zul56/3643
 #EXTINF: -1 tvg-name="FOX Action Movies" tvg-chno="431" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="FOX Movie", FOX Action Movies
 http://nonton.site:8888/Fikri/Zul56/3641
 
+#EXTM3U 
+#EXTINF: -1 tvg-name="IMC" tvg-logo="https://x1.cdn.broiptv.online/img/imc.png" group-title="MOVIES", IMC
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/rattus/imc_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Celestial Movies" tvg-logo="https://x1.cdn.broiptv.online/img/celestialmovie.png" group-title="MOVIES", Celestial Movies
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/rattus/celestial_movie_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Cinema World" tvg-logo="https://x1.cdn.broiptv.online/img/cinemaworld.png" group-title="MOVIES", Cinema World
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/rattus/cinema_world_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="TVN Movies" tvg-logo="https://x1.cdn.broiptv.online/img/tvnmovies.png" group-title="MOVIES", TVN Movies
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/rattus/tvn_movies_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Bioskop Indonesia" tvg-logo="https://x1.cdn.broiptv.online/img/bioskopindonesia.png" group-title="MOVIES", Bioskop Indonesia
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/rattus/bioskop_indonesia_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Flik" tvg-logo="https://x1.cdn.broiptv.online/img/flik.png" group-title="MOVIES", Flik
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/rattus/flik_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Galaxy" tvg-logo="https://x1.cdn.broiptv.online/img/galaxy.png" group-title="MOVIES", Galaxy
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/rattus/galaxy_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Zee Bioskop" tvg-logo="https://x1.cdn.broiptv.online/img/zbioskop.png" group-title="MOVIES", Zee Bioskop
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/rattus/zbioskop_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO HD
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/wirok/hbo_hd_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="HBO Signature" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_signature.png" group-title="MOVIES", HBO Signature
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/wirok/hbo_signature_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="HBO Hits" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_hits.png" group-title="MOVIES", HBO Hits
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/wirok/hbo_hits_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="HBO Family" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_family.png" group-title="MOVIES", HBO Family
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/wirok/hbo_family_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="Cinemax" tvg-logo="https://x1.cdn.broiptv.online/img/cinemax.png" group-title="MOVIES", Cinemax
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/wirok/cinemax_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="Red By HBO" tvg-logo="https://x1.cdn.broiptv.online/img/redbyhbo.png" group-title="MOVIES", Red By HBO
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/wirok/red_by_hbo_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Movies" tvg-logo="https://x1.cdn.broiptv.online/img/fox_movies.png" group-title="MOVIES", Fox Movies
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/norvegicus/fox_movies_norvegicus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Family Movies" tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="MOVIES", Fox Family Movies
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/norvegicus/fox_family_movies_norvegicus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Action Movies" tvg-logo="https://x1.cdn.broiptv.online/img/fox_action.png" group-title="MOVIES", Fox Action Movies
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/norvegicus/fox_action_movies_norvegicus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="MOVIES", Fox
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/norvegicus/fox_norvegicus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Crime" tvg-logo="https://x1.cdn.broiptv.online/img/fox_crime.png" group-title="MOVIES", Fox Crime
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/norvegicus/fox_crime_norvegicus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Life" tvg-logo="https://x1.cdn.broiptv.online/img/fox_life.png" group-title="MOVIES", Fox Life
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/norvegicus/fox_life_norvegicus/playlist.m3u8
+#EXTINF: -1 tvg-name="FX" tvg-logo="https://x1.cdn.broiptv.online/img/fx.png" group-title="MOVIES", FX
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/norvegicus/fx_norvegicus/playlist.m3u8
+#EXTINF: -1 tvg-name="Celestial Classic Movies" tvg-logo="https://x1.cdn.broiptv.online/img/ccm.png" group-title="MOVIES", Celestial Classic Movies
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
+#EXTINF: -1 tvg-name="amc" tvg-logo="https://x1.cdn.broiptv.online/img/amc.png" group-title="MOVIES", amc
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/norvegicus/amc_norvegicus/playlist.m3u8
+#EXTINF: -1 tvg-name="Sony Movies" tvg-logo="https://x1.cdn.broiptv.online/img/sonymovies.png" group-title="MOVIES", Sony Movies
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/norvegicus/sony_movies_norvegicus/playlist.m3u8
+#EXTINF: -1 tvg-name="HITS MOVIES" tvg-logo="https://x1.cdn.broiptv.online/img/hits_movies.png" group-title="MOVIES", HITS MOVIES
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/pratensis/hits_movies_pratensis/playlist.m3u8
+#EXTINF: -1 tvg-name="Celestial Movies (Backup)" tvg-logo="https://x1.cdn.broiptv.online/img/celestialmovie.png" group-title="MOVIES", Celestial Movies (Backup)
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/pratensis/celestial_movie_backup_pratensis/playlist.m3u8
+#EXTINF: -1 tvg-name="HITS" tvg-logo="https://x1.cdn.broiptv.online/img/hits.png" group-title="MOVIES", HITS
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/pratensis/hits_pratensis/playlist.m3u8
+#EXTINF: -1 tvg-name="Sinema Indonesia" tvg-logo="https://x1.cdn.broiptv.online/img/sinema_indonesia.png" group-title="MOVIES", Sinema Indonesia
+http://salaamiptv.online/play/tanggaleenamjuli@gmail.com/08081977/UNSf9fU2/pratensis/sinema_indonesia_pratensis/playlist.m3u8
 
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
 #https://www.dropbox.com/s/dl/gjxh34ruatqoj1t/HBOzalogi.m3u8
 #https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO.m3u8
 http://cekker.masuk.web.id/bro/m3u/hbo-acak123.m3u8
-
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
 #https://www.dropbox.com/s/dl/3yiz1jhjh5p95i7/HBOSIGNzalogi.m3u8
 #https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Sign.m3u8
