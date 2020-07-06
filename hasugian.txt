@@ -585,6 +585,7 @@ http://nonton.site:8888/Fikri/Zul56/3643
 http://nonton.site:8888/Fikri/Zul56/3641
 
 
+
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
 #https://www.dropbox.com/s/dl/gjxh34ruatqoj1t/HBOzalogi.m3u8
 #https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO.m3u8
@@ -601,9 +602,6 @@ http://cekker.masuk.web.id/bro/m3u/hits-acak123.m3u8
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family
 #https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Fam.m3u8
 http://cekker.masuk.web.id/bro/m3u/fam-acak123.m3u8
-
-#EXTINF: -1 tvg-id="HBOSignature.id" tvg-name="HBOSignature.id" tvg-chno="442" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="HBO Movie", HBO Signature
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAD4SmUwoDK6Eq8NjlAc9OqSa/HBO Signature.m3u8?dl=0
 
 #EXTINF: -1 tvg-name="Celestial Movies" tvg-chno="443" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Best of Movie", Celestial Movies
 http://210.210.155.35/session/ee3448c6-bdbf-11ea-88d4-834ab76fb252/qwr9ew/s/s33/index.m3u8
