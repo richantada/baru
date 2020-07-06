@@ -583,28 +583,11 @@ http://nonton.site:8888/Fikri/Zul56/3639
 http://nonton.site:8888/Fikri/Zul56/3643
 #EXTINF: -1 tvg-name="FOX Action Movies" tvg-chno="431" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="FOX Movie", FOX Action Movies
 http://nonton.site:8888/Fikri/Zul56/3641
-#EXTINF: -1 tvg-id="HBO.id" tvg-name="HBO.id" tvg-chno="432" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="HBO Movie", HBO
-https://www.dropbox.com/s/9rrtycvdndl80q2/HBOhd_profesionaliptv.m3u8?dl=1
-#EXTINF: -1 tvg-id="HBOFamily.id" tvg-name="HBOFamily.id" tvg-chno="433" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="HBO Movie", HBO Family
-https://www.dropbox.com/s/l9ph18okilews68/HBOfamily_profesionaliptv.m3u8?dl=1
-#EXTINF: -1 tvg-id="HBOHits.id" tvg-name="HBOHits.id" tvg-chno="434" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png" group-title="HBO Movie", HBO Hits
-https://www.dropbox.com/s/p3fhk3f3i1cswtr/HBOhit_profesionaliptv.m3u8?dl=1
-#EXTINF: -1 tvg-id="HBOSignature.id" tvg-name="HBOSignature.id" tvg-chno="435" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="HBO Movie", HBO Signature
-https://www.dropbox.com/s/ep8jvul2q5de5oj/HBOsig_profesionaliptv.m3u8?dl=1
-#EXTINF: -1 tvg-id="CineMax.id" tvg-name="CineMax.id" tvg-chno="436" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png" group-title="HBO Movie", Cinemax by HBO
-https://www.dropbox.com/s/7qqx1kqaqf8bqwo/HBOcinemax_frofesionaliptv.m3u8?dl=1
-#EXTINF: -1 tvg-id="RED.id" tvg-name="RED.id" tvg-chno="437" tvg-logo="https://macan.live/img/red_hbo.png" group-title="HBO Movie", red by HBO
-https://www.dropbox.com/s/x8zrp4fbs2c598j/HBOred_profesionaliptv.m3u8?dl=1
-#EXTINF: -1 tvg-id="CineMax.id" tvg-name="CineMax.id" tvg-chno="438" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png" group-title="HBO Movie", Cinemax by HBO (alt)
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACgT7hQtBpukLw0OfCIgthNa/Cinemax.m3u8?dl=0
-#EXTINF: -1 tvg-id="HBO.id" tvg-name="HBO.id" tvg-chno="439" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="HBO Movie", HBOHBO
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAAZUolL9kiSgoVhlwQ21zY2a/HBO.m3u8?dl=0
-#EXTINF: -1 tvg-id="HBOFamily.id" tvg-name="HBOFamily.id" tvg-chno="440" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="HBO Movie", HBO FamilyHBO FAMILY
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAAHBd21ZZF90aBXkMM6JMUTa/HBO FAMILY.m3u8?dl=0
-#EXTINF: -1 tvg-id="HBOHits.id" tvg-name="HBOHits.id" tvg-chno="441" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png" group-title="HBO Movie", HBO Hits
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AADdcRn4a09AZ7jVcI2JIXXRa/HBO HITS.m3u8?dl=0
+
+
 #EXTINF: -1 tvg-id="HBOSignature.id" tvg-name="HBOSignature.id" tvg-chno="442" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="HBO Movie", HBO Signature
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAD4SmUwoDK6Eq8NjlAc9OqSa/HBO Signature.m3u8?dl=0
+
 #EXTINF: -1 tvg-name="Celestial Movies" tvg-chno="443" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Best of Movie", Celestial Movies
 http://210.210.155.35/session/ee3448c6-bdbf-11ea-88d4-834ab76fb252/qwr9ew/s/s33/index.m3u8
 #EXTINF: -1 tvg-name="Celestial Classic Movies" tvg-chno="444" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="Best of Movie", Celestial Classic Movies
