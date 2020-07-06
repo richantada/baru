@@ -585,6 +585,23 @@ http://nonton.site:8888/Fikri/Zul56/3643
 http://nonton.site:8888/Fikri/Zul56/3641
 
 
+#EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
+#https://www.dropbox.com/s/dl/gjxh34ruatqoj1t/HBOzalogi.m3u8
+#https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO.m3u8
+http://cekker.masuk.web.id/bro/m3u/hbo-acak123.m3u8
+
+#EXTINF:-1 tvg-ID="HBOSignature.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
+#https://www.dropbox.com/s/dl/3yiz1jhjh5p95i7/HBOSIGNzalogi.m3u8
+#https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Sign.m3u8
+http://cekker.masuk.web.id/bro/m3u/sig-acak123.m3u8
+#EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits
+#https://www.dropbox.com/s/dl/rzpmej2zppxtxuz/HBOHITSZalogi.m3u8
+#https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Hits.m3u8
+http://cekker.masuk.web.id/bro/m3u/hits-acak123.m3u8
+#EXTINF:-1 tvg-ID="HBOFamily.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family
+#https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Fam.m3u8
+http://cekker.masuk.web.id/bro/m3u/fam-acak123.m3u8
+
 #EXTINF: -1 tvg-id="HBOSignature.id" tvg-name="HBOSignature.id" tvg-chno="442" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="HBO Movie", HBO Signature
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAD4SmUwoDK6Eq8NjlAc9OqSa/HBO Signature.m3u8?dl=0
 
