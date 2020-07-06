@@ -1,5 +1,282 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="VOD MOVIES",MALEFICENT
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
+
+#EXTINF:-1 group-title="VOD MOVIES", KINGSMAN GOLDEN CIRCLE
+https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD MOVIES",A MONSTER CALLS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",THE HOST
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",THE HUNGER GAMES: CATCHING FIRE
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b8bc096c-fbe9-4a96-a6b8-510fd43156d8/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",WARM BODIES
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",YOU NOW SEE ME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",YOU NOW SEE ME 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6Hb8abuuGb0A9MlZbKlswmteWwEg4amIA56i41Su148xf427i" group-title="VOD MOVIES",Si Doel The Movie
+https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGv33aquFESk8QJJUN3kC7uCrnvQR4ww7QRSkKV2rnHgYtH4NT" group-title="VOD MOVIES",Galih & Ratna
+https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN7Qimb-4Gaxufxdoe4dsy7Pf3Buu5z6erKfcXP3wWcqII5dg8" group-title="VOD MOVIES",Soekarno: Indonesia Merdeka
+https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXbOKzrhyjvxCjlAm7aHnA2RmsPFNwnEpODdxIEVfQPYurzG-p" group-title="VOD MOVIES",Habibie & Ainun
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
+
+#EXTINF:0 tvg-logo="https://citypost.id/foto_berita/5c63e16d67c26181sunyi.jpg" group-title="VOD MOVIES",Sunyi
+https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
+
+
+#EXTINF:0 group-title="VOD MOVIES", Dilan 1991
+https://hls.kotaksilver.casa/577970/720_312/playlist.m3u8?r=720p
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZjODRlNzYtNTRmZS00MjU3LWExYmEtNjYyMWZhMjQyMjY5XkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" group-title="VOD MOVIES", Yowis Ben 2
+https://hls.kotaksilver.casa/579955/480_575/playlist.m3u8?r=480p
+
+#EXTINF:0 group-title="VOD MOVIES", Terlalu Tampan
+https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
+
+#EXTINF:0 group-title="VOD MOVIES",PSP: Gaya Mahasiswa
+https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
+
+#EXTINF:0 tvg-logo="https://assets-a2.kompasiana.com/items/album/2019/02/14/okb-5c64e9ee43322f14f3499886.jpg?t=o&v=350" group-title="VOD MOVIES",Orang Kaya Baru
+https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
+
+#EXTINF:0group-title="VOD MOVIES",AQUAMAN (Sub Indo)
+https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiaZnJMuT6wI28t4yRE_rTyjKqAC3Lvg0eXF7WThdhivAf5fJQ" group-title="VOD MOVIES",VENOM 
+https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd63Ei2CAwQMv6Rouhe5q2IxO2sqiXaqHe5chHD5b541kp6NeT" group-title="VOD MOVIES",BUMBLEBEE (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSked8c1p-P0N3MkBUbDVajRszVG-eGaaPkOyDL50TRPIgieoKi" group-title="VOD MOVIES",The NuN (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsUxj_INERTndxMz1lQ0YLAHJCeURWOB-sRi8JfJFitYc-WhuG" group-title="VOD MOVIES",The Cabin (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDB6CU75s74x7NcimSJABi2ExSDMAkTxUbACEMJV3ob0YkoxHv" group-title="VOD MOVIES",THE NIGHT COMES FOR US (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
+
+#EXTINF:0 group-title="VOD MOVIES", AD Astra(2019)
+https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 group-title="VOD MOVIES", Aeronauts(2019)
+https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 group-title="VOD MOVIES", Joker (2019)
+https://www.googleapis.com/drive/v3/files/1gdsesv39yVSPlRY7WM9GyJDgTiHkeZv6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 group-title="VOD MOVIES", Men in Black: International (2019)
+https://w3.bagicdn.pro/drive//hls/b6dcfc175c0de7bdbc26f564d3c0fdca/b6dcfc175c0de7bdbc26f564d3c0fdca.m3u8
+
+
+#EXTINF:-1 group-title="VOD MOVIES", KINGSMAN GOLDEN CIRCLE
+https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD MOVIES",A MONSTER CALLS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",THE HOST
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",THE HUNGER GAMES: CATCHING FIRE
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b8bc096c-fbe9-4a96-a6b8-510fd43156d8/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",WARM BODIES
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",YOU NOW SEE ME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="VOD MOVIES",YOU NOW SEE ME 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 group-title="FILM CAMPURAN",12 YEARS A SLAVE
+http://www.deadlyblogger.com/NewRelease/12slave.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",28 DAYS LATER
+http://www.deadlyblogger.com/NewRelease/28days.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",3 DAYS TO KILL
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",300 RISE OF AN EMPIRE
+http://www.deadlyblogger.com/NewRelease/300rise.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",47 RONIN
+http://www.deadlyblogger.com/NewRelease/47ronin.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",A HAUNTED HOUSE 2 (COMEDY)
+http://www.deadlyblogger.com/NewRelease/haunted2.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",A NIGHT AT ROXBURY
+http://www.deadlyblogger.com/NewRelease/roxbury.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",A.Dog's.Way.Home.2019
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/547.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",A.Dog's.Way.Home.2019.720p.BluRay.x264-[YTS.AM]
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/581.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",AFFLICTED
+http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",AFTER EARTH
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",Air_Strike.2018.720p.WEBRip.x264-[YTS.AM]
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/553.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",Aladdin (2019)
+https://www.googleapis.com/drive/v3/files/1WgX85ihHMCU5lJ-2rO9XqKbCnlvUczY-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="FILM CAMPURAN",Alexander-DVDRip.AC3-5.1[Eng]2004_arc
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/554.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",ALI
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",Alladin 2019
+http://ftp.alphamediazone.com/Movies/Hollywood/2019/Aladdin%20%282019%29/Adventures.Of.Aladdin.2019.1080p.BluRay.mp4
+http://www.deadlyblogger.com/NewRelease/12slave.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",28 DAYS LATER
+http://www.deadlyblogger.com/NewRelease/28days.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",3 DAYS TO KILL
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",300 RISE OF AN EMPIRE
+http://www.deadlyblogger.com/NewRelease/300rise.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",47 RONIN
+http://www.deadlyblogger.com/NewRelease/47ronin.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",A HAUNTED HOUSE 2 (COMEDY)
+http://www.deadlyblogger.com/NewRelease/haunted2.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",A NIGHT AT ROXBURY
+http://www.deadlyblogger.com/NewRelease/roxbury.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",A.Dog's.Way.Home.2019
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/547.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",A.Dog's.Way.Home.2019.720p.BluRay.x264-[YTS.AM]
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/581.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",AFFLICTED
+http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",AFTER EARTH
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",Air_Strike.2018.720p.WEBRip.x264-[YTS.AM]
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/553.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",Aladdin (2019)
+https://www.googleapis.com/drive/v3/files/1WgX85ihHMCU5lJ-2rO9XqKbCnlvUczY-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="FILM CAMPURAN",Alexander-DVDRip.AC3-5.1[Eng]2004_arc
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/554.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",ALI
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",Alladin 2019
+http://ftp.alphamediazone.com/Movies/Hollywood/2019/Aladdin%20%282019%29/Adventures.Of.Aladdin.2019.1080p.BluRay.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",Alpha.2018.WEB-DL.x264-FGT
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/556.mkv
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/557.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",AMERICAN GANGSTER
+http://www.deadlyblogger.com/NewRelease/agangster.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",AMERICAN HUSTLE
+http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",An.Interview.with.God.2018
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/558.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",ANCHORMAN 2: THE LEGEND CONTINUES
+http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",ANCHORMAN THE LEGEND OF RON BURGUNDY
+http://www.deadlyblogger.com/NewRelease/anchorman.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",Angel Has Fallen (2019)
+https://www.googleapis.com/drive/v3/files/1e8zI98_BM0K4sVMo9byeInovIqfwLk7F?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="FILM CAMPURAN",Angel Of Mine (2019)
+https://www.googleapis.com/drive/v3/files/19JVSSekPOaBJhx6uATOHKuadjHVIarV7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="FILM CAMPURAN",ANIMAL
+http://www.deadlyblogger.com/NewRelease/animal.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",Aquaman.2018
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/559.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",Arctic.2019.HC.HDRip
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/560.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",Asteriks.2018.HRSink.720p-BD4YU
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/562.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",At.Middleton_arc
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/563.mkv
+#EXTINF:-1 group-title="FILM CAMPURAN",AUSTIN POWERS
+http://www.deadlyblogger.com/NewRelease/austin1.mp4
+#EXTINF:-1 group-title="FILM CAMPURAN",AUSTIN POWERS: THE SPY WHO SHAGGED ME
+http://www.deadlyblogger.com/NewRelease/austin2.mp4
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Avengement.2019.720p.WEBRip.x264-[YTS.AM]
+http://tv.fast-iptv.info:12974/movie/vQCsltW5Ie/PnSVtgXTKV/564.mkv
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",BAD BOYS 2
+http://www.deadlyblogger.com/NewRelease/badboys2.mp4
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",BAD BOYS
+http://www.deadlyblogger.com/NewRelease/badboys1.mp4
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Stray sub indo
+https://www1628.o0-4.com:443/token=-Vjj_U27v6wytX4gxPLEYg/1580656217/180.242.0.0/23/b/3c/6e244faeed9849a00b89cddde89e13cb-480p.mp4
+
+#EXTINF:-1 group-title="FILM CAMPURAN",ANGGELS FALLEN (2020) sub indo
+https://www81.uptostream.com:443/1hlxm203d01/1080/0/video.sup
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",John Henry (2020) sub indo
+https://r5---sn-npoe7ney.googlevideo.com:443/videoplayback?expire=1580651595&ei=Krg2XrqsMI-AssUP0LyXmAY&ip=2400:6180:0:d1::69c:f001&id=54b8afce30682c32&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5519.290&lmt=1580615006778541&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIhANkp69ftwIsaKj4ndEj-dw0go9DFEp9Rd6knA5-6cZOZAiA6mP735gbnlbN6hEUhf6jzEHKVGsabHOobPXzLaenMDA==&redirect_counter=1&rm=sn-npos676&req_id=2a9499f4a691a3ee&cms_redirect=yes&ipbypass=yes&mip=180.242.26.217&mm=30&mn=sn-npoe7ney&ms=nxu&mt=1580650961&mv=m&mvi=4&pl=20&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgYlzPRzV8qTLHhB41RiwXvXv_sijeXQoLZtjhzjhwCWYCIQCHiwtGvR257MkFyyheqUW4NpmQJ_Q80Ygo3p9IxCgWvw%3D%3D
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Grand Theft Auto Girls (2020) sub indo 
+https://r1---sn-npoe7nlz.googlevideo.com:443/videoplayback?expire=1580654195&ei=U8I2XpGdCOmFssUPx6y1kA4&ip=2400:6180:0:d1::69c:f001&id=91dcf74f2bd6bb42&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5229.714&lmt=1580551766706291&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRAIgbTSjvZr5ftQ0YHPreduD2S8Vgh05Ex1x1gcLl5tjXT0CIF0SAEHX3WuWE0r-h9dj1w61HtHyEw-LCW0MJLnzY5nc&mip=167.71.204.81&redirect_counter=1&rm=sn-npozs7l&req_id=68fc8c61ab3da3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoe7nlz&ms=nxu&mt=1580646920&mv=m&mvi=0&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgSualWZ7Oei26JsLYwa_W4Gza-wBoxX6zjn1QgblDW_cCIQCqHHcRGSoB72NaaE11xn6-_X1F9prhLbuxWj5hfl8ndg%3D%3D
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Danur 3: Sunyaruri (2019)
+https://r1---sn-npoe7ner.googlevideo.com:443/videoplayback?expire=1580653282&ei=wr42XofKKYy_1Abs8JegAw&ip=2400:6180:0:d1::69c:f001&id=9a3b656fdf913e17&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5162.260&lmt=1580580707933916&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAOu3vcsxZOGHFEWxgpUtcazPff3-0pZPVu_2ttE0Z-03AiEA1_v0FE3Zq4_PlON8tSL01zmK61flvMaCcLlSLIjs42M=&mip=167.71.204.81&redirect_counter=1&rm=sn-nposy7e&req_id=db8d561e98f1a3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoe7ner&ms=nxu&mt=1580645966&mv=m&mvi=0&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgQm6blkPz5XsfrjZa5m9dO7tTsH_OjNtds7-vWPQ_q1wCIBIKoe0E8T4XhV_CPPaaW2ngZDTAsiJ5WO19YIiyDRmj
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Angels Fallen (2020)
+https://r4---sn-npoe7ney.googlevideo.com:443/videoplayback?expire=1580657459&ei=E882XqHCE4-AssUP0LyXmAY&ip=2400:6180:0:d1::69c:f001&id=c30658c2170f36d7&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5200.596&lmt=1580588453288671&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIhAN33IREllGgBlMlOm3F_Lf3INYJrD7OXdfOaEENuc1UnAiA0k8zhXbXrsAxqzk_LsdjtJRgy0iL8dcq1an3ziScciw==&cm2rm=sn-npoz77z,sn-npoz77z&req_id=dacdc9bbb9dca3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-npoz77z&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoe7ney&ms=ltu&mt=1580650107&mv=m&mvi=3&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgALXo19S_6Eojutyx2KQYH_ijz-Hrtct_4kJgndpHocACID3e5VWpVf8KO_NOnUNigAfXHSK0vkCotUkp85kYw5HX
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Stalked (2019) sub indo 
+https://r3---sn-npoeenee.googlevideo.com:443/videoplayback?expire=1580658875&ei=m9Q2XsuTIemFssUPx6y1kA4&ip=2400:6180:0:d1::69c:f001&id=f96ae0a08444719a&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5125.688&lmt=1580616145622779&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAP8WR0Hg60EpGPbnhf2KXMjHioL3GdZRgkX_2dca0IwCAiEA-BVwyqCaqMwR8-IZh4mIDc_sIqQkHNRk3dkjs-OqgSk=&redirect_counter=1&rm=sn-npolk7s&req_id=3214f67ed468a3ee&ipbypass=yes&cms_redirect=yes&mip=167.71.204.81&mm=30&mn=sn-npoeenee&ms=nxu&mt=1580651602&mv=m&mvi=2&pl=21&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIhAJPPd9QtQBps51FsLGlwLW61h4xD5c31Ac8DEm9kYDDwAiAIXeC-z9ThQbiAeZy7PQvBoMkoFrlNOS_Jv_SSbf1J0g%3D%3D
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Wira (2019) 
+https://r4---sn-npoeenee.googlevideo.com:443/videoplayback?expire=1580658842&ei=etQ2XsLAI4y_1Abs8JegAw&ip=2400:6180:0:d1::69c:f001&id=19e020d70ff7f550&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6196.105&lmt=1580615594014420&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRAIgPwNoQDMg-YJLjXKEQUPuq6fW9garp_9EXmmWxRpmG7oCIHubyRnhF21By5-H3fhhtqvEjglf1tlsASvgxUa99bET&redirect_counter=1&rm=sn-npoer7z&req_id=d1bcbe16276d36e2&cms_redirect=yes&ipbypass=yes&mip=180.242.26.217&mm=30&mn=sn-npoeenee&ms=nxu&mt=1580654003&mv=m&mvi=3&pl=20&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhAOXSjU-gWtemAlYNkMya63JHCXGcbYPAeMzPUjhGPNdrAiEAjG25GA5jXMabD5lhgepNlOqboZTSDol-6o5II5C_zQc%3D
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Warrior King 2 (2013) sub indo 
+https://r3---sn-npoe7ner.googlevideo.com:443/videoplayback?expire=1580660040&ei=KNk2Xt_wMo-AssUP0LyXmAY&ip=2400:6180:0:d1::69c:f001&id=4cc0f4b5c3156215&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6283.389&lmt=1580628086968318&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIgQVVQSleeftC-mRygYoYcUwCf7dexUiKN3yCrYsdcu1gCIQCSOHU7xaTHUrkvudlwTcnbwzdpIB0XujjLeSNXSCgYFg==&mip=167.71.204.81&redirect_counter=1&rm=sn-nposy7s&req_id=bd8b3196bdda3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoe7ner&ms=nxu&mt=1580652745&mv=m&mvi=2&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIhAKlPvReLUjFCmsgleB0vYy0W3JAF_L_PDVJANTmxViNuAiBgMfF2WBl1QvTvArWYHkOk5cZQ0ubTU9YWYbv0QjM1Gg%3D%3D
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Gemini Man (2019) sub indo
+https://r2---sn-npoeene6.googlevideo.com:443/videoplayback?expire=1580656020&ei=dMk2XpjRJYe-owPhprOADw&ip=2400:6180:0:d1::69c:f001&id=b2867a1efb215752&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=7021.017&lmt=1580570014699242&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIgS79eXgiBlxxNRZ3Yao27rstG3neNaPBALb49keCRqrMCIQDLKsHReTUtzsNhPBo1TjiUqDJfcec4XE1HcfcrTzIDiA==&mip=167.71.204.81&redirect_counter=1&rm=sn-nposl7l&req_id=875521d81888a3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoeene6&ms=nxu&mt=1580648720&mv=m&mvi=1&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgcBoPs-QBtCNJYcz1aTGHjnssjdjoygUFVUxMisvVZFwCIG9CFuGHv8a0QzqodkP5PKTfZWE1zM5Iic3AHZaYQsHQ
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Alita Battle Angel (2019) sub indo 
+https://r1---sn-npoe7n7y.googlevideo.com:443/videoplayback?expire=1580660099&ei=Y9k2XsygDvqJssUP76ic-Ac&ip=2400:6180:0:d1::69c:f001&id=0f2a1a9e1b292091&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=7307.551&lmt=1580584574000624&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIhAOBsu-jcKDFalQ4IiTcaHVRQ54QnaNknKoYItUM65a5OAiAazggijDtVjtwBwv8z6E072u926wF4ZkIfxDKrYjExgA==&rm=sn-nposz7e,sn-nposz7e,sn-nposz7e&req_id=436c78ee73eca3ee&mip=167.71.204.81&ipbypass=yes&redirect_counter=3&cms_redirect=yes&mm=34&mn=sn-npoe7n7y&ms=ltu&mt=1580652864&mv=m&mvi=0&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgeIyzpNLcWN7nonDV6XhqqVhJGCTrUeiBDcNoUiiSZFcCIQDTRvl7QPtqDVBa4r7jTuvIq1j98MlurXwKj9DTOeV1ww%3D%3D
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN", 1917 (2019) sub indo 
+https://r5---sn-npoe7n76.googlevideo.com:443/videoplayback?expire=1580659216&ei=8NU2Xv2ZEOmFssUPx6y1kA4&ip=2400:6180:0:d1::69c:f001&id=36f4f779d8ecec96&itag=18&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&dur=7137.721&lmt=1580585884556267&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,dur,lmt&sig=ALgxI2wwRQIgNt4tFGpDaBBXDTHFpU1_pKdvgPndynsS9SrH3vbwVE0CIQDbJ8d9wCvpLauFEgVIfY4vPOsIO--s4ij9w4iyrtqo3w==&cm2rm=sn-npoer76,sn-npoer76&req_id=c4a6d4e70a0ba3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-npoer76&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoe7n76&ms=ltu&mt=1580651964&mv=m&mvi=4&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIhAKooEV2nqsX5D29CKTsXiunouX5SSl-58USbe4poshEZAiAx7WHA3A9cIUyJkKA0dfrezad8ONzgwlxyBIXZrG7uFw%3D%3D
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Spider Man Far from Home (2019)
+https://r5---sn-npoeen7y.googlevideo.com:443/videoplayback?expire=1580658791&ei=RtQ2Xuq-L4y_1Abs8JegAw&ip=2400:6180:0:d1::69c:f001&id=021e880c9d5f21dd&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=7723.281&lmt=1580596577716703&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIgVQT7ubDfPBhuBMF-DvLGM5XRjxg43P_P2XSWoysTc4YCIQDEcE3TYFmu8fqcxt9-ybdduYQejxytzdDuTpw-CImQsA==&cm2rm=sn-npold76,sn-npold76&req_id=6accaf4fb604a3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-npold76&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoeen7y&ms=ltu&mt=1580651542&mv=m&mvi=4&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgad0TxD_Exo_6csKwx1mBsemoh9_99r8huhO_vbhi0jICIQCcMrlIAj4l44YBSUw5cym01wvaNmV89F774yq958TF1g%3D%3D
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",The Wandering Earth (2019)
+https://r1---sn-npoeenle.googlevideo.com:443/videoplayback?expire=1580660415&ei=n9o2XvWiFoy_1Abs8JegAw&ip=2400:6180:0:d1::69c:f001&id=f0f4936ec8584e79&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=7233.921&lmt=1580550308667301&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAJXN64z7LE2DVJr3LKrfynxog9rkd-8glLr5Qq2I2M07AiEAzAuXYd36mC8cgTxAJoAKD7sXtFw99l1M4pAD34VUwoo=&cm2rm=sn-npoed7e,sn-npoed7e&req_id=d44cf43b171ea3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-npozz7e&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoeenle&ms=ltu&mt=1580653169&mv=m&mvi=0&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIhAMizc-BQScazR5CNoTnao5bjrcCqOR-fYeBtHlahZrOCAiAXibiW79rJM3tgz-qTJEdIsc8XxSaVzWjTu1br2xdjbQ%3D%3D
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Shazam! (2019)
+https://r3---sn-npoeenee.googlevideo.com:443/videoplayback?expire=1580661482&ei=yt42XtqzBLWQ1Aait4eAAQ&ip=2400:6180:0:d1::69c:f001&id=8e108b402e9d2c1f&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=7816.997&lmt=1580637183435837&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIgPsCkaMBiktQJt1m2YU-jmttl69Rr1-pdaGrCrqMpQsgCIQDpJMJYCsrSjGXsiBYwpNrLC42qXa782sfDA02ECA3mSQ==&cm2rm=sn-npolk7s,sn-nposd7s&req_id=5ac83da0e98ca3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-npolk7s&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoeenee&ms=ltu&mt=1580654248&mv=m&mvi=2&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIhAO0i_3uMXwtEjtFBvQDhL1CovWBPc5_VbRh2ue_sugEPAiAu3devKAt2iea9MWTdybTDl_YEYS1GxE-O2bWwqKur6A%3D%3D
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",Star Wars: Episode IX – The Rise of Skywalker (2019) sub indo 
+https://r4---sn-npoeener.googlevideo.com:443/videoplayback?expire=1580660365&ei=bNo2Xp2hGY2HssUP34mxuAc&ip=2400:6180:0:d1::69c:f001&id=0d641c6a5d73d290&itag=18&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&dur=8048.477&lmt=1580582673764849&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,dur,lmt&sig=ALgxI2wwRgIhAPfkk22_AQ6rbUmGIUvmq8eByfwZvagtk8iHLQCHE4evAiEAr4mWKr7Bj9VXC5SYh887GUXRKCcCyKa-jmkgdje90lY=&cm2rm=sn-nposk7z&req_id=fbcc948ab4c1a3ee&redirect_counter=2&rm=sn-nposd7z&cms_redirect=yes&ipbypass=yes&mip=180.242.26.217&mm=30&mn=sn-npoeener&ms=nxu&mt=1580656774&mv=m&mvi=3&pl=20&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgJdDlF2mX1ubGETWD_bytleMS_KbxRuIey0gjyjzK8D4CIEJXM-WH2Nsy14yFdynUZIrLPSGGDBp8UpP4MET9Thkq
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN",The Glorious Seven (2019) sub indo 
+https://r1---sn-npoeene6.googlevideo.com:443/videoplayback?expire=1580663466&ei=iuY2XsLxArWQ1Aait4eAAQ&ip=2400:6180:0:d1::69c:f001&id=003620bf28c62afc&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5644.283&lmt=1580547694281721&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIhAIsNqV1IUH1hPb8M69MVskFxlQMAeSS49p7qxIRRP6NAAiA7Sz19g0hki4YGrIBaFRJkpnWtpNn01EuTKUpo_iQqBg==&redirect_counter=1&rm=sn-nposs7e&req_id=ccae42d5f49ba3ee&cms_redirect=yes&ipbypass=yes&mip=180.242.26.217&mm=30&mn=sn-npoeene6&ms=nxu&mt=1580657183&mv=m&mvi=0&pl=20&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgfPsizOn93IlFtQ9KAyawmNzyfH47YxktCpT4uzVyTukCIHAy8nQ9Z8rEbn60gRNpziOcWtarH3jc8Fabu4SDhbcH
+
+
+#EXTINF:-1 group-title="FILM CAMPURAN", The Trigonal: Fight for Justice (2018) sub indo
+https://r1---sn-npoeener.googlevideo.com:443/videoplayback?expire=1580659131&ei=m9U2Xt6UNI-AssUP0LyXmAY&ip=2400:6180:0:d1::69c:f001&id=b2f716b8fd6d365d&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6040.137&lmt=1580616535891027&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIhAPdAYYDZ7ru77HvZ8XGPiin9m86glCE83IaSPXKOfuD7AiAhrODE4AWEDCKGoR5yG3Q3JSr8thpp6jqY8xd2LeeExg==&redirect_counter=1&rm=sn-nposs7e&req_id=909dbbc775a136e2&cms_redirect=yes&ipbypass=yes&mip=180.242.26.217&mm=30&mn=sn-npoeener&ms=nxu&mt=1580657423&mv=m&mvi=0&pl=20&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgZ05z-Ydl4MiRLZpDwqrlmmy5icmrDcChlKKoldvmMCgCIHOVzJSbBI50yn9YzB1TzYcWgF2wP8WacVanSg8BNlWY
 #EXTINF:-1 tvg-chno="922" tvg-id="ext" tvg-name="Transformers (2007)" tvg-logo="" group-title="VOD",Transformers (2007)
 https://lh3.googleusercontent.com/Kr3DVg5_cgsAXQ973lWU9zSDJlSuPP9Xe26K4h-w0Nn0WzDR-CqGABUUKox0ZSv183GER98QUo9jD78M_Q=m22
 #EXTINF:-1 tvg-chno="923" tvg-id="ext" tvg-name="Transformers: Revenge of the Fallen (2009)" tvg-logo="" group-title="VOD",Transformers: Revenge of the Fallen (2009)
