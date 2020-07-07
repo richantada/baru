@@ -28,7 +28,9 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-
 #EXTINF: -1 tvg-name="METRO_TV_HD" tvg-chno="142" tvg-logo="https://tvkita.my.id/img/metrotv.png" group-title="TV Nasional", METRO_TV_HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF: -1 tvg-name="TV_ONE" tvg-chno="143" tvg-logo="https://www.dropbox.com/s/338fu25vdztpch4/TV%20ONE.jpg?dl=1" group-title="TV Nasional", TV_ONE
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+http://ikasalon.com/cgi_bin/vidio/m3u/tvone-live.m3u8
+#https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybJ9V___GtamcweX3XztFajs)/dm/3/x619221/s/live-3.m3u8
+#https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #EXTINF: -1 tvg-id="TVRI.mnc" tvg-name="TVRI.mnc" tvg-chno="144" tvg-logo="https://assets.cdn.pandawa.live/logo/tvri.jpg" group-title="TV Nasional", TVRI Nasional
 http://www.stgiptv.online/session/stg_iptv_tech/vidio_server/TVRI.m3u
 #EXTINF: -1 tvg-name="TVRI" tvg-chno="145" tvg-logo="https://tvkita.my.id/img/tvri.png" group-title="TV Nasional", TVRI
