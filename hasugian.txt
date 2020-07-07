@@ -585,6 +585,160 @@ http://nonton.site:8888/Fikri/Zul56/3643
 http://nonton.site:8888/Fikri/Zul56/3641
 
 
+#EXTINF: -1 tvg-logo="https://cdn.macan.live/img/hbo.png" group-title="movies", HBO
+http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="movies", FOX
+http://203.153.218.28:9981/stream/channelid/1910872088
+#EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="movies", FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550
+#EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="movies", Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990
+#EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="movies", Fox Action Movies
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.pngg" group-title="movies", HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="movies", HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="movies", HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="movies", Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374
+#EXTINF: -1 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="movies", Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="movies", Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="movies", AXN
+http://203.153.218.28:9981/stream/channelid/882386103
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="movies", BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723
+#EXTINF: -1 tvg-logo="https://www.trailappliances.com/media/wysiwyg/brands/blomberg/Blomberg-logo-colour_500.png" group-title="movies", Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="movies", Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667
+#EXTINF: -1 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="movies", Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608
+#EXTINF: -1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="movies", Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170
+#EXTINF: -1 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="movies", CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983
+#EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="movies", Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232
+#EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="movies", History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562
+#EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="movies", Indosiar
+http://203.153.218.28:9981/stream/channelid/261435212
+#EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="movies", NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377
+#EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="movies", NAT GEO Wild
+http://203.153.218.28:9981/stream/channelid/1497533758
+#EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="movies", National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355
+#EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="movies", Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596
+#EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="movies", Setanta Sports
+http://203.153.218.28:9981/stream/channelid/981299476
+#EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="movies", TLC
+http://203.153.218.28:9981/stream/channelid/391618553
+#EXTINF: -1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="movies", Indosiar HD
+http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="movies", HBO
+https://fikrul.my.id/~andriant/movies/hbo.m3u8
+#EXTINF: -1 tvg-name="HBOHits.id" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="movies", HBO Hits
+https://fikrul.my.id/~andriant/movies/hbohit.m3u8
+#EXTINF: -1 tvg-name="HBOFamily.id" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png" group-title="movies", HBO Family
+https://fikrul.my.id/~andriant/movies/hbofam.m3u8
+#EXTINF: -1 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="movies", HBO Signature
+https://fikrul.my.id/~andriant/movies/hbosig.m3u8
+#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="movies", Red By HBO
+https://fikrul.my.id/~andriant/movies/red.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channeliptv/logogrey/grey_logo_citradrama_small.png" group-title="movies", Citra Drama
+http://ikasalon.com/cgi_bin/vidio/m3u/6401-citra-drama-prime.m3u8
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-mfeJx_25ejo/UsauoVd_daI/AAAAAAAAAoo/0OcxivAebQc/s1600/Galaxytv.jpg" group-title="movies", Galaxi
+https://fikrul.my.id/~andriant/tv/galaxi.m3u8
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-mfeJx_25ejo/UsauoVd_daI/AAAAAAAAAoo/0OcxivAebQc/s1600/Galaxytv.jpg" group-title="movies", Warner
+https://fikrul.my.id/~andriant/tv/warner.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="movies", Waku Waku Japan
+https://fikrul.my.id/~andriant/tv/waku.m3u8
+#EXTINF: -1 tvg-logo="https://www.k-vision.tv/uploads/2018/08/xzeebioskop.png.pagespeed.ic.jUSkZudEpF.png" group-title="movies", Zee Bioskop
+http://ikasalon.com/cgi_bin/vidio/m3u/6684-citra-bioskop-prime.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", IMC
+http://ikasalon.com/cgi_bin/vidio/m3u/6684-citra-bioskop-prime.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", FLIX
+http://ikasalon.com/cgi_bin/useetv/m3u/xyz.flik.zlgxyz.m3u8
+#EXTINF: -1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1454466814_logo-celestial-classic-movies.jpg" group-title="movies", Celestial Clasic Movie MY
+https://livedoomovies.com/02_CCM_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="movies", CELESTIAL MOVIE ID
+https://fikrul.my.id/~andriant/tv/imc.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" group-title="movies", KIX
+https://fikrul.my.id/~andriant/tv/kix.m3u8
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/9/9a/Logo-Thrill.jpg/revision/latest?cb=20130314023401" group-title="movies", thrill
+http://ikasalon.com/cgi_bin/useetv/m3u/%5e%25@%5e=&.thrill.zlg%5e%25@%5e=&.m3u8
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/774051942431612928/voB4vZ2Q_400x400.jpg" group-title="movies", AXN
+https://fikrul.my.id/~andriant/tv/axn.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="movies", BLUE ANT EXTREME
+https://dl.dropbox.com/s/f7iuf0a28cv24vy/Blue_Ant_Extreme.m3u8?dl=0
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="movies", Blue Ant Entertainment
+https://dl.dropbox.com/s/k8k5j1k3bkeyhzg/Blue_Ant.m3u8?dl=0
+#EXTINF: -1 tvg-logo="https://st2.depositphotos.com/3969727/9519/v/950/depositphotos_95197520-stock-illustration-cinema-word-written-spray-paint.jpg" group-title="movies", CINEMA WORD
+https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="movies", HITS
+http://210.210.155.66/h/h37/index2.m3u8
+#EXTINF: -1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="movies", &FLIX
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="movies", WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/raimovie.png" group-title="movies", Ray Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", FOX MOVIES HD
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", byuTV
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", SHOWTIME HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", HD1
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", HD2
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies",  MOVIE 1
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies",  MOVIE 2
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies",  MOVIE 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies",  MOVIE 4
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies",  MOVIE 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies",  MOVIE 7
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies",  MOVIE 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies",  MOVIE 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies",  MOVIE 10
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", Jackie Chan Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", Andy Lau Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", Stephen Chow Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movies", Cou Yun Fa Movies
+https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
 #https://www.dropbox.com/s/dl/gjxh34ruatqoj1t/HBOzalogi.m3u8
 #https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO.m3u8
