@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-logo="http://cekker.masuk.web.id/logo/rctiv.png" group-title="LOKAL PLUS",RCTI
 #http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.rcti.m3u8
-#https://dl.dropboxusercontent.com/s/nd2ozxyxez7wxxf/rctii.m3u8?dl=0
+
 
 #EXTINF:-1 tvg-ID="" tvg-logo="http://cekker.masuk.web.id/logo/mncc.png" group-title="LOKAL PLUS",MNC TV
 #https://ikasalon.com/cgi_bin/vidio/m3u/x23%5E&1.mnctv.m3u8
-#https://dl.dropboxusercontent.com/s/mu7lnv0py20o1as/mncc.m3u8?dl=0
 
 #EXTINF:-1 tvg-ID="" tvg-logo="http://cekker.masuk.web.id/logo/gtvv.png" group-title="LOKAL PLUS",Global TV
 #http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.globaltv.m3u8
-#https://dl.dropboxusercontent.com/s/n5z48vupb0mzj8b/gtvv.m3u8?dl=0
