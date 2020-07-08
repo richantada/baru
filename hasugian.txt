@@ -10,11 +10,11 @@ https://www.dropbox.com/s/is2caka56qvsqoj/INEWSTV_profesionaliptv.m3u8?dl=1
 #EXTINF: -1 tvg-name="MNC SPORT" tvg-chno="133" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="TV Nasional", MNC SPORT
 http://202.80.222.183/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF: -1 tvg-name="INDOSIAR" tvg-chno="134" tvg-logo="https://tvkita.my.id/img/indosiar.png" group-title="TV Nasional", INDOSIAR
-http://210.210.155.35/session/49941630-bdbe-11ea-9026-ac6fb71e06d5/qwr9ew/s/s04/02.m3u8
+http://nonton.site:8888/Fikri/Zul56/4839
 #EXTINF: -1 tvg-name="SCTV" tvg-chno="135" tvg-logo="https://tvkita.my.id/img/sctv.png" group-title="TV Nasional", SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 #EXTINF: -1 tvg-name="ANTV" tvg-chno="136" tvg-logo="https://www.dropbox.com/s/rgf2l7d64d2mn2h/ANTV.jpg?dl=1" group-title="TV Nasional", ANTV
-http://210.210.155.35/session/6e7653c2-bdbf-11ea-ab66-8370b1515f42/qwr9ew/s/s07/index.m3u8
+http://nonton.site:8888/Fikri/Zul56/31
 #EXTINF: -1 tvg-name="Trans7" tvg-chno="137" tvg-logo="https://tvkita.my.id/img/trans7.png" group-title="TV Nasional", Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b384000_sleng.m3u8
 #EXTINF: -1 tvg-name="TransTV" tvg-chno="138" tvg-logo="https://tvkita.my.id/img/transtv.png" group-title="TV Nasional", TransTV
