@@ -1177,58 +1177,6 @@ http://ikasalon.com/cgi_bin/useetv/m3u/z*&%23%2567e&.cctv4.zlgz*&%23%2567e&.m3u8
 
 
 
-#EXTINF: -1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_movies_premium.png" group-title="Movies", FOX Movies Premium
-https://delivery.macan.live/stream/id_foxmoviespremium/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="FOXActionMoviesHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_action_movies.png" group-title="Movies", FOX Action Movies
-https://delivery.macan.live/stream/id_foxactionmovies/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_family_movies.png" group-title="Movies", FOX Family Movies (ENG)
-https://delivery.macan.live/stream/id_foxfamilymovies/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_family_movies.png" group-title="Movies", FOX Family Movies (IDN)
-https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="HBOHD.MACAN" tvg-logo="https://cdn.macan.live/img/hbo.png" group-title="Movies", HBO
-https://delivery.macan.live/stream/hbo/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://cdn.macan.live/img/hbo_family.png" group-title="Movies", HBO Family
-https://delivery.macan.live/stream/hbo_family/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://cdn.macan.live/img/hbo_hits.png" group-title="Movies", HBO Hits
-https://delivery.macan.live/stream/hbo_hits/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://cdn.macan.live/img/hbo_signature.png" group-title="Movies", HBO Signature
-https://delivery.macan.live/stream/hbo_signature/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="RED.MACAN" tvg-logo="https://cdn.macan.live/img/red_hbo.png" group-title="Movies", RED by HBO
-https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="CINEMAX.MACAN" tvg-logo="https://cdn.macan.live/img/cinemaxa.png" group-title="Movies", Cinemax by HBO
-https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="Thrill.MACAN" tvg-logo="https://cdn.macan.live/img/thrill.png" group-title="Movies", Thrill
-https://delivery.macan.live/stream/thrill/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="KIX.MACAN" tvg-logo="https://cdn.macan.live/img/kix.png" group-title="Movies", KIX
-https://delivery.macan.live/stream/kix/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="SonyOneHD.MACAN" tvg-logo="https://cdn.macan.live/img/sonyone.png" group-title="Korea", Sony One
-https://delivery.macan.live/stream/sonyone/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="Arirang.MACAN" tvg-logo="https://cdn.macan.live/img/arirang.png" group-title="Korea", Arirang
-https://delivery.macan.live/stream/arirang/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="TVN.MACAN" tvg-logo="https://cdn.macan.live/img/tvn.png" group-title="Korea", tvN
-https://delivery.macan.live/stream/id_tvn/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="TVNMovies.MACAN" tvg-logo="https://cdn.macan.live/img/tvn_movies.png" group-title="Korea", tvN Movies
-https://delivery.macan.live/stream/tvn_movies/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="KBS World" tvg-logo="https://cdn.macan.live/img/kbs_world.png" group-title="Korea", KBS World
-https://delivery.macan.live/stream/kbs_world/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="KPlus.id" tvg-logo="https://cdn.macan.live/img/kplus.png" group-title="Korea", K+
-https://delivery.macan.live/stream/kplus/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="Animax.MACAN" tvg-logo="https://cdn.macan.live/img/animax.png" group-title="Japan", Animax
-https://delivery.macan.live/stream/id_animax/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="Aniplus.id" tvg-logo="https://cdn.macan.live/img/aniplus.png" group-title="Japan", Aniplus
-https://delivery.macan.live/stream/id_aniplus/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-logo="https://cdn.macan.live/img/wakuwaku.png" group-title="Japan", Waku Waku Japan
-https://delivery.macan.live/stream/wakuwaku/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="GEMChannel.id" tvg-logo="https://cdn.macan.live/img/gem.jpg" group-title="Japan", Sony GEM TV
-https://delivery.macan.live/stream/id_gem/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="CelestialMovies.MACAN" tvg-logo="https://cdn.macan.live/img/cm.jpg" group-title="Chinese", Celestial Movies
-https://delivery.macan.live/stream/cm/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="CCM.MACAN" tvg-logo="https://cdn.macan.live/img/ccm.png" group-title="Chinese", Celestial Classic Movies
-https://delivery.macan.live/stream/ccm/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="SCMLegend.MACAN" tvg-logo="https://cdn.macan.live/img/scmlegend.jpeg" group-title="Chinese", SCM Legend
-https://delivery.macan.live/stream/scmlegend/playlist.m3u8?token=ompyD&v=20200308
-#EXTINF: -1 tvg-id="SCM.MACAN" tvg-logo="https://cdn.macan.live/img/star_chinese_movies.png" group-title="Chinese", Star Chinese Movies
-https://delivery.macan.live/stream/id_scm/playlist.m3u8?token=ompyD&v=20200308
 
 
 
