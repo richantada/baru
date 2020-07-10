@@ -12,14 +12,6 @@ https://mkctv.net/vidio/rtv.m3u8/rcti.m3u8
 #EXTINF: -1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="TV Nasional", RCTI HD
 https://dl.dropbox.com/s/vq7pfqpqhqo9p5n/rctisd.m3u8?dl=0
 
-#EXTINF: -1 tvg-name=": RCTI (ORI)" tvg-chno="129" tvg-logo="https://tvkita.my.id/img/rcti.png" group-title="TV Nasional", RCTI
-https://www.dropbox.com/s/jk1o2l74btj2w9q/RCTI_profesionaliptv.m3u8?dl=1
-#EXTINF: -1 tvg-name=": MNC TV (ORI)" tvg-chno="130" tvg-logo="https://tvkita.my.id/img/mnctv.png" group-title="TV Nasional", MNC TV
-https://www.dropbox.com/s/pr0p9nsaej76k5g/MNCTV_profesionaliptv.m3u8?dl=1
-#EXTINF: -1 tvg-name="GTV" tvg-chno="131" tvg-logo="https://tvkita.my.id/img/gtv.png" group-title="TV Nasional", GTV
-https://www.dropbox.com/s/h785t2sqdf2bsh9/GTV_profesionaliptv.m3u8?dl=1
-#EXTINF: -1 tvg-name="iNEWS (ORI)" tvg-chno="132" tvg-logo="https://tvkita.my.id/img/inews.png" group-title="TV Nasional", iNEWS
-https://www.dropbox.com/s/is2caka56qvsqoj/INEWSTV_profesionaliptv.m3u8?dl=1
 #EXTINF: -1 tvg-name="MNC SPORT" tvg-chno="133" tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="TV Nasional", MNC SPORT
 http://202.80.222.183/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF: -1 tvg-name="INDOSIAR" tvg-chno="134" tvg-logo="https://tvkita.my.id/img/indosiar.png" group-title="TV Nasional", INDOSIAR
