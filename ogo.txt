@@ -1,0 +1,317 @@
+#EXTM3U 
+#EXTINF: -1 tvg-name="Ruang Trampil (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/ruangterampil.png" group-title="LOCAL", Ruang Trampil (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/useeinfo_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Usee Photo (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/useephoto.png" group-title="LOCAL", Usee Photo (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/useephoto_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="UseePrime (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/useeprime.png" group-title="LOCAL", UseePrime (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/useeprime_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Idku (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/idku.png" group-title="LOCAL", Idku (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/idku_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Indihome Shopping (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/indishopping.png" group-title="LOCAL", Indihome Shopping (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/indishopping_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="TVRI (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/tvri.png" group-title="LOCAL", TVRI (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tvri_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="JITV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/jitv.png" group-title="LOCAL", JITV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/jitv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Kompas TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/kompastv.png" group-title="LOCAL", Kompas TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/kompastv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Metro TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/metrotv.png" group-title="LOCAL", Metro TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/metrotv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Net TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/net.png" group-title="LOCAL", Net TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/net_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Rajawali TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/rtv.png" group-title="LOCAL", Rajawali TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/rtv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="RRI NET (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/rri.png" group-title="LOCAL", RRI NET (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/rrinet_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Trans 7 (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/trans7.png" group-title="LOCAL", Trans 7 (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/trans7_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Trans TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/transtv.png" group-title="LOCAL", Trans TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/transtv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="M Shop (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/mshop.png" group-title="LOCAL", M Shop (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/mncshop_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Antara (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/antara.png" group-title="LOCAL", Antara (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/antara_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Bali TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/balitv.png" group-title="LOCAL", Bali TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/balitv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="JakTV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/jaktv.png" group-title="LOCAL", JakTV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/jaktv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="JTV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/jtv.png" group-title="LOCAL", JTV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/jtv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="MyTV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/mytv.png" group-title="LOCAL", MyTV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/mytv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="TV Edukasi (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/tvedukasi.png" group-title="LOCAL", TV Edukasi (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tvedukasi_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Daai TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/daaitv.png" group-title="LOCAL", Daai TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/daaitv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Insert (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/insert.png" group-title="LOCAL", Insert (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/insert_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="IDX (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/idx.png" group-title="NEWS", IDX (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/idx_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Berita Satu (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/beritasatu.png" group-title="NEWS", Berita Satu (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/beritasatu_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="DW (English) (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/dwtv.png" group-title="NEWS", DW (English) (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/dwtv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="France 24 (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/france24.png" group-title="NEWS", France 24 (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/france24_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="News Asia (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/newsasia.png" group-title="NEWS", News Asia (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/newsasia_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="ABC Australia (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/abc_australia.png" group-title="NEWS", ABC Australia (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/abcaustralia_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Euronews (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/euronews.png" group-title="NEWS", Euronews (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/euronews_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Aljazeera (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/aljazeera.png" group-title="NEWS", Aljazeera (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/aljazeera_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="CNN Indonesia (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/cnnindonesia.png" group-title="NEWS", CNN Indonesia (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/cnnindonesia_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="CNN International (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/cnninternational.png" group-title="NEWS", CNN International (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/cnninternational_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Bloomberg (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/bloomberg.png" group-title="NEWS", Bloomberg (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/bloomberg_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="TVBS News (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/tvbsnews.png" group-title="NEWS", TVBS News (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tvbs_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="CNBC Indonesia (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/cnbc_indonesia.png" group-title="NEWS", CNBC Indonesia (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/cnbcindonesia_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="MUI TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/tvmui.png" group-title="RELIGI", MUI TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/muitv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="TV9 NU (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/tv9.png" group-title="RELIGI", TV9 NU (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tv9_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="UChannel (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/uchannel.png" group-title="RELIGI", UChannel (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/uchannel_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="AlQuran Kareem (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/alquran.png" group-title="RELIGI", AlQuran Kareem (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/alquran_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Tawaf TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/tawaftv.png" group-title="RELIGI", Tawaf TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tawaftv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="MQTV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/mqtv.png" group-title="RELIGI", MQTV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/mqtv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="MTATV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/mtatv.png" group-title="RELIGI", MTATV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/mtatv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Muhammadiyah TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/muhammadiyahtv.png" group-title="RELIGI", Muhammadiyah TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/muhammadiyahtv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Rodja TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/rodjatv.png" group-title="RELIGI", Rodja TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/rodjatv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Arirang (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/arirang.png" group-title="ENTERTAINMENT", Arirang (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/arirang_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Chinese Drama (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/chinesedrama.png" group-title="ENTERTAINMENT", Chinese Drama (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/chinesedrama_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="CCTV4 (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/cctv4.png" group-title="ENTERTAINMENT", CCTV4 (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/cctv4_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="NHK World Japan (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/nhkworld.png" group-title="ENTERTAINMENT", NHK World Japan (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/nhkworld_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="El John TV (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/eljohn.png" group-title="ENTERTAINMENT", El John TV (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/eljohn_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Astro Ria (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/astro_ria.png" group-title="ENTERTAINMENT", Astro Ria (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/astro_ria_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Astro Prima (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/astro_prima.png" group-title="ENTERTAINMENT", Astro Prima (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/astro_prima_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Citra Drama (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/citradrama.png" group-title="ENTERTAINMENT", Citra Drama (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/citra_drama__rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Dunia Lain (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/dunialain.png" group-title="ENTERTAINMENT", Dunia Lain (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/dunia_lain_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Animax (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/animax.png" group-title="ENTERTAINMENT", Animax (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/animax_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="AXN (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/axn.png" group-title="ENTERTAINMENT", AXN (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/axn_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="TVN (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/tvn.png" group-title="ENTERTAINMENT", TVN (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tvn_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="KBS World (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/kbsworld.png" group-title="ENTERTAINMENT", KBS World (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/kbsworld_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Blue Ant (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/blueant.png" group-title="ENTERTAINMENT", Blue Ant (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/blueant_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Blue Ant Extreme (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/blueantext.png" group-title="ENTERTAINMENT", Blue Ant Extreme (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/blueantextreme_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="NHK World Premium (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/nhkworldpremium.png" group-title="ENTERTAINMENT", NHK World Premium (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/nhkpremium_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Lifetime (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/lifetime.png" group-title="ENTERTAINMENT", Lifetime (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/lifetime_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Eat & Go (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/eatgo.png" group-title="ENTERTAINMENT", Eat & Go (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/eatgo_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Thrill (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/thrill.png" group-title="ENTERTAINMENT", Thrill (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/thrill_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Kix (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/kix.png" group-title="ENTERTAINMENT", Kix (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/kix_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Waku Waku Japan (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/wakuwaku.png" group-title="ENTERTAINMENT", Waku Waku Japan (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/wakuwaku_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Warner (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/warner.png" group-title="ENTERTAINMENT", Warner (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/warner_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="ANIPlus (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/aniplus.png" group-title="ENTERTAINMENT", ANIPlus (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/aniplus_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fashion One (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/fashionone.png" group-title="ENTERTAINMENT", Fashion One (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fashionone_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="FashionTV (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/fashiontv.png" group-title="ENTERTAINMENT", FashionTV (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fashiontv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Kplus (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/kplus.png" group-title="ENTERTAINMENT", Kplus (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/kplus_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Sony GEM (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/sgem.png" group-title="ENTERTAINMENT", Sony GEM (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/sgem_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Sony ONE (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/sone.png" group-title="ENTERTAINMENT", Sony ONE (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/sone_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="TV5Monde (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/tv5monde.png" group-title="ENTERTAINMENT", TV5Monde (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tv5monde_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Formosa (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/formosa.png" group-title="ENTERTAINMENT", Formosa (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/formosa_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="CTI Asia (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/ctiasia.png" group-title="ENTERTAINMENT", CTI Asia (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/ctiasia_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="EBC Asia (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/ebcasia.png" group-title="ENTERTAINMENT", EBC Asia (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/ettvasia_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Asian Food Network (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/afc.png" group-title="ENTERTAINMENT", Asian Food Network (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/afc_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Prambors (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/pramborstv.png" group-title="MUSIC", Prambors (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/pramborstv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="I-Konser (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/ikonser.png" group-title="MUSIC", I-Konser (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/ikonser_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="MTV Live (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/mtvlive.png" group-title="MUSIC", MTV Live (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/mtvlive_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Citra Dangdut (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/citradangdut.png" group-title="MUSIC", Citra Dangdut (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/citradangdut_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="CGTN Documentary (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/cgtndocumentary.png" group-title="KNOWLEDGE", CGTN Documentary (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/cgtndocumentary_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Animal Planet (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/animal_planet.png" group-title="KNOWLEDGE", Animal Planet (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/animal_planet_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="BBC Lifestyle (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/bbc_lifestyle.png" group-title="KNOWLEDGE", BBC Lifestyle (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/bbc_lifestyle_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="HGTV (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/hgtv.png" group-title="KNOWLEDGE", HGTV (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/hgtv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="TLC (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/tlc.png" group-title="KNOWLEDGE", TLC (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tlc_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Discovery Turbo (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/discovery_turbo.png" group-title="KNOWLEDGE", Discovery Turbo (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/discovery_turbo_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Discovery Asia (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/discovery_asia.jpg" group-title="KNOWLEDGE", Discovery Asia (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/discovery_asia_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="National Geographic (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/natgeo.png" group-title="KNOWLEDGE", National Geographic (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/nat_geo_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="National Geographic People (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/natgeopeople.png" group-title="KNOWLEDGE", National Geographic People (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/nat_geo_people_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="National Geographic Wild (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/natgeowild.png" group-title="KNOWLEDGE", National Geographic Wild (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/nat_geo_wild_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Discovery Channel (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/discovery.png" group-title="KNOWLEDGE", Discovery Channel (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/discovery_channel_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Crime Investigation (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/crimeinvestigation.png" group-title="KNOWLEDGE", Crime Investigation (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/crime_investigation_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="History (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/history.png" group-title="KNOWLEDGE", History (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/history_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Lingua (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/linguachannel.png" group-title="KNOWLEDGE", Lingua (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/lingua_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="My Kidz (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/mykidz.png" group-title="KIDS", My Kidz (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/mykids_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Astro Ceria (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/astro_ceria.png" group-title="KIDS", Astro Ceria (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/astro_ceria_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="CBeebies (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/cbeebies.png" group-title="KIDS", CBeebies (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/cbeebies_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Disney Channel (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/disney.png" group-title="KIDS", Disney Channel (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/disney_channel_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Disney XD (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/disney_xd.png" group-title="KIDS", Disney XD (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/disney_xd_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Disney Junior (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/disney_junior.png" group-title="KIDS", Disney Junior (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/disney_junior_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Baby First (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/babyfirst.png" group-title="KIDS", Baby First (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/baby_first_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Duck TV (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/duck.png" group-title="KIDS", Duck TV (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/duck_tv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Horee (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/horee.png" group-title="KIDS", Horee (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/horee_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Boomerang (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/boomerang.png" group-title="KIDS", Boomerang (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/boomerang_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Cartoon Network (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/cartoonnetwork.png" group-title="KIDS", Cartoon Network (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/cartoonnetwork_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Dunia anak (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/duniaanak.png" group-title="KIDS", Dunia anak (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/duniaanak_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Nick Junior (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/nickjr.png" group-title="KIDS", Nick Junior (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/nickjr_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Nickelodeon (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/nickelodeon.png" group-title="KIDS", Nickelodeon (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/nickelodeon_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Da Vinci Learning (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/davinci.png" group-title="KIDS", Da Vinci Learning (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/davinci_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Dreamworks (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/dreamworks.png" group-title="KIDS", Dreamworks (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/dreamworks_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="HBO HD (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES", HBO HD (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/wirok/hbo_hd_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="HBO Signature (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_signature.png" group-title="MOVIES", HBO Signature (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/wirok/hbo_signature_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="HBO Hits (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_hits.png" group-title="MOVIES", HBO Hits (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/wirok/hbo_hits_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="HBO Family (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_family.png" group-title="MOVIES", HBO Family (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/wirok/hbo_family_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="Cinemax (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/cinemax.png" group-title="MOVIES", Cinemax (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/wirok/cinemax_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="Red by HBO (Gratis)" tvg-logo="https://x1.cdn.broiptv.online/img/redbyhbo.png" group-title="MOVIES", Red by HBO (Gratis)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/wirok/red_by_hbo_wirok/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Movies (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/fox_movies.png" group-title="MOVIES", Fox Movies (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fox_movies_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Family Movies (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="MOVIES", Fox Family Movies (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fox_family_movies_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Action Movies (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/fox_action.png" group-title="MOVIES", Fox Action Movies (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fox_action_movies_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="MOVIES", Fox (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fox_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Crime (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/fox_crime.png" group-title="MOVIES", Fox Crime (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fox_crime_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Life (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/fox_life.png" group-title="MOVIES", Fox Life (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fox_life_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="FX (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/fx.png" group-title="MOVIES", FX (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fx_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Star Chinese Movies (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/scm.png" group-title="MOVIES", Star Chinese Movies (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/star_chinese_movies_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="HITS (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/hits.png" group-title="MOVIES", HITS (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/hits_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="HITS MOVIES (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/hits_movies.png" group-title="MOVIES", HITS MOVIES (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/hits_movies_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Celestial Classic Movies (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/ccm.png" group-title="MOVIES", Celestial Classic Movies (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/celestial_classic_movies_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="amc (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/amc.png" group-title="MOVIES", amc (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/amc_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Sony Movies (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/sonymovies.png" group-title="MOVIES", Sony Movies (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/sony_movies_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="IMC (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/imc.png" group-title="MOVIES", IMC (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/imc_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Celestial Movies (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/celestialmovie.png" group-title="MOVIES", Celestial Movies (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/celestialmovie_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Cinema World (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/cinemaworld.png" group-title="MOVIES", Cinema World (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/cinemaworld_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="TVN Movies (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/tvnmovies.png" group-title="MOVIES", TVN Movies (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tvnmovies_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Bioskop Indonesia (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/bioskopindonesia.png" group-title="MOVIES", Bioskop Indonesia (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/bioskopindonesia_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Flik (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/flik.png" group-title="MOVIES", Flik (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/flik_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Galaxy (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/galaxy.png" group-title="MOVIES", Galaxy (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/galaxy_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Zee Bioskop (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/zbioskop.png" group-title="MOVIES", Zee Bioskop (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/zbioskop_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="UFC TV (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/ufc.png" group-title="SPORTS", UFC TV (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/ufc_tv_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="WWE Network (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/wwe.png" group-title="SPORTS", WWE Network (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/wwe_network_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Eurosport 1 (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/eurosport1.png" group-title="SPORTS", Eurosport 1 (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/eurosport1_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Eurosport 2 (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/eurosport2.png" group-title="SPORTS", Eurosport 2 (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/eurosport2_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Tennis Channel (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/tennis_channel.png" group-title="SPORTS", Tennis Channel (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tennis_channel_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="TVRI Sport (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/tvri_sport.png" group-title="SPORTS", TVRI Sport (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/tvri_sport_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="beIN Sport 1 (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/bein1.png" group-title="SPORTS", beIN Sport 1 (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/bein_sport_1_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="beIN Sport 2 (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/bein2.png" group-title="SPORTS", beIN Sport 2 (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/bein_sport_2_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="UseeSports (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/useesports1.png" group-title="SPORTS", UseeSports (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/useesports_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="UseeSports 2 (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/useesports2.png" group-title="SPORTS", UseeSports 2 (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/useesports2_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Champion TV 1 (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/champions1.png" group-title="SPORTS", Champion TV 1 (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/champion_tv_1_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Champion TV 2 (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/champions2.png" group-title="SPORTS", Champion TV 2 (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/champion_tv_2_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Sport 1 (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/foxsports1.png" group-title="SPORTS", Fox Sport 1 (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fox_sport_1_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Sport 2 (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/foxsports2.png" group-title="SPORTS", Fox Sport 2 (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fox_sport_2_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Fox Sport 3 (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/foxsports3.png" group-title="SPORTS", Fox Sport 3 (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/fox_sport_3_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="Golf (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/golfchannel.png" group-title="SPORTS", Golf (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/golf_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="NBA (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/nba.png" group-title="SPORTS", NBA (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/nba_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="egg network (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/egg.png" group-title="SPORTS", egg network (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/egg_rattus/playlist.m3u8
+#EXTINF: -1 tvg-name="VOD (Khusus Donasi)" tvg-logo="https://x1.cdn.broiptv.online/img/penting.png" group-title="VOD", VOD (Khusus Donasi)
+http://b27v.broiptv.online/play/free@broiptv.online/87896070/6iQArvGQ/rattus/vod_rattus/playlist.m3u8
