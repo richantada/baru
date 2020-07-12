@@ -1,0 +1,191 @@
+﻿
+#EXTINF: -1 tvg-id="NetTV.MACAN" tvg-logo="https://cdn.macan.live/img/net.png" group-title="TV Nasional", NET.
+http://34.101.225.209:8187/iptvfree/8
+#EXTINF:-1 tvg-id="tvone.id" tvg-logo="http://cekker.masuk.web.id/logo/tvone.jpg" group-title="TV Nasional",TV ONE HD
+http://34.101.225.209:8187/iptvfree/iptvfree/131
+
+#EXTINF: -1 tvg-id="Indosiar.MACAN" tvg-logo="https://cdn.macan.live/img/indosiar.p
+ng" group-title="TV Nasional", INDOSIAR
+http://34.101.225.209:8187/iptvfree/144
+
+#EXTINF: -1 tvg-id="SCTV.MACAN" tvg-logo="https://cdn.macan.live/img/sctv.png" group-title="TV Nasional", SCTV
+http://34.101.225.209:8187/iptvfree/2
+
+#EXTINF: -1 tvg-id="Trans7.MACAN" tvg-logo="https://cdn.macan.live/img/trans7.png" group-title="TV Nasional", TRANS 7
+http://34.101.225.209:8187/iptvfree/130
+
+#EXTINF: -1 tvg-id="TransTV.MACAN" tvg-logo="https://cdn.macan.live/img/transtv.png" group-title="TV Nasional", TRANS TV
+http://34.101.225.209:8187/iptvfree/7
+
+#EXTINF: -1 tvg-id="CNNIndonesia.MACAN" tvg-logo="https://cdn.macan.live/img/cnn.png" group-title="TV Nasional", CNN Indonesia
+http://34.101.225.209:8187/iptvfree/1
+
+#EXTINF: -1 tvg-id="CNBCIndonesia.MACAN" tvg-logo="https://cdn.macan.live/img/cnbc.png" group-title="TV Nasional", CNBC Indonesia
+http://34.101.225.209:8187/iptvfree/141
+
+#EXTINF: -1 tvg-id="ANTV.MACAN" tvg-logo="https://cdn.macan.live/img/antv.png" group-title="TV Nasional", ANTV
+http://34.101.225.209:8187/iptvfree/132
+
+#EXTINF: -1 tvg-id="MetroTV.MACAN" tvg-logo="https://cdn.macan.live/img/metrotv.png" group-title="TV Nasional", METRO TV
+http://34.101.225.209:8187/iptvfree/143 
+
+#EXTINF: -1 tvg-id="SinemaIndonesia.MACAN" tvg-logo="https://cdn.macan.live/img/sinema_indonesia.png" group-title="TV Nasional", Sinema Indonesia
+http://34.101.225.209:8187/iptvfree/sinema_indonesia/134
+
+
+#EXTINF: -1 tvg-id="DisneyChannel.MACAN" tvg-logo="https://cdn.macan.live/img/disneychannel.png" group-title="Kids", Disney Channel 
+http://34.101.225.209:8187/iptvfree/127
+
+#EXTINF: -1 tvg-id="DisneyJunior.MACAN" tvg-logo="https://cdn.macan.live/img/disneyjunior.png" group-title="Kids", Disney Junior 
+http://34.101.225.209:8187/iptvfree/104
+
+#EXTINF: -1 tvg-id="Dreamworks.MACAN" tvg-logo="https://cdn.macan.live/img/dreamworks.png" group-title="Kids", Dreamworks
+http://34.101.225.209:8187/iptvfree/306
+
+
+#EXTINF: -1 tvg-id="WarnerTV.MACAN" tvg-logo="https://cdn.macan.live/img/warnertv.png" group-title="Kids", Warner TV
+http://34.101.225.209:8187/iptvfree/382
+
+#EXTINF: -1 tvg-id="Channel[V].MACAN" tvg-logo="https://cdn.macan.live/img/channel_v_int.png" group-title="Music", Channel V. Int
+http://34.101.225.209:8187/iptvfree/105
+
+#EXTINF: -1 tvg-id="LoveNature.uk" tvg-logo="https://cdn.macan.live/img/love_nature.png" group-title="Knowledge", Love Nature
+http://34.101.225.209:8187/iptvfree/141
+
+#EXTINF: -1 tvg-id="HistoryChannel.id" tvg-logo="https://cdn.macan.live/img/history.png" group-title="Knowledge", History
+http://34.101.225.209:8187/iptvfree/140
+
+#EXTINF: -1 tvg-id="HGTV.MACAN" tvg-logo="https://cdn.macan.live/img/hgtv.png" group-title="Knowledge", HGTV
+http://34.101.225.209:8187/iptvfree/390
+
+#EXTINF: -1 tvg-id="TLC.MACAN" tvg-logo="https://cdn.macan.live/img/tlc.png" group-title="Knowledge", TLC
+http://34.101.225.209:8187/iptvfree/107
+
+#EXTINF: -1 tvg-id="AnimalPlanet.MACAN" tvg-logo="https://cdn.macan.live/img/animalplanet.png" group-title="Knowledge", Animal Planet
+http://34.101.225.209:8187/iptvfree/142
+
+#EXTINF: -1 tvg-id="DiscoveryChannel.MACAN" tvg-logo="https://cdn.macan.live/img/discoverychannel.png" group-title="Knowledge", Discovery Channel
+http://34.101.225.209:8187/iptvfree/127
+
+#EXTINF: -1 tvg-id="Discovery Asia" tvg-logo="https://cdn.macan.live/img/discoveryasia.png" group-title="Knowledge", Discovery Asia
+http://34.101.225.209:8187/iptvfree/121
+
+#EXTINF: -1 tvg-id="NationalGeographicChannel.MACAN" tvg-logo="https://cdn.macan.live/img/ngc.png" group-title="Knowledge", National Geographic
+http://34.101.225.209:8187/iptvfree/126
+
+#EXTINF: -1 tvg-id="NationalGeographicPeople.MACAN" tvg-logo="https://cdn.macan.live/img/natgeopeople.png" group-title="Knowledge", Nat Geo People
+http://34.101.225.209:8187/iptvfree/113
+
+#EXTINF: -1 tvg-id="NationalGeographicWild.MACAN" tvg-logo="https://cdn.macan.live/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild
+http://34.101.225.209:8187/iptvfree/119
+
+
+#EXTINF: -1 tvg-id="BBC Lifestyle" tvg-logo="https://cdn.macan.live/img/bbc_lifestyle.png" group-title="News", BBC Lifestyle
+http://34.101.225.209:8187/iptvfree/109
+
+#EXTINF: -1 tvg-id="BBCWorldNews.MACAN" tvg-logo="https://cdn.macan.live/img/bbc_world_news.png" group-title="News", BBC World News
+http://34.101.225.209:8187/iptvfree/304
+
+#EXTINF: -1 tvg-id="NHKWorld.MACAN" tvg-logo="https://cdn.macan.live/img/nhk_world.png" group-title="News", NHK World
+http://34.101.225.209:8187/iptvfree/308
+
+#EXTINF: -1 tvg-id="CNNInternational.MACAN" tvg-logo="https://cdn.macan.live/img/cnninternational.png" group-title="News", CNN International
+http://34.101.225.209:8187/iptvfree/1
+
+#EXTINF: -1 tvg-id="Bloomberg.MACAN" tvg-logo="https://cdn.macan.live/img/bloomberg.png" group-title="News", Bloomberg
+http://34.101.225.209:8187/iptvfree/305
+  
+#EXTINF: -1 tvg-id="Lifetime.MACAN" tvg-logo="https://cdn.macan.live/img/lifetime.png" group-title="Entertainment", Lifetime
+http://34.101.225.209:8187/iptvfree/109
+
+#EXTINF: -1 tvg-id="BlueAntEntertainment.id" tvg-logo="https://cdn.macan.live/img/blue_ant_entertainment.png" group-title="Entertainment", Blue Ant Entertainment
+http://34.101.225.209:8187/iptvfree/139
+
+#EXTINF: -1 tvg-id="BlueAntExtreme.id" tvg-logo="https://cdn.macan.live/img/blue_ant_extreme.png" group-title="Entertainment", Blue Ant Extreme
+http://34.101.225.209:8187/iptvfree/136
+
+#EXTINF: -1 tvg-id="AXNHD.MACAN" tvg-logo="https://cdn.macan.live/img/axn.png" group-title="Entertainment", AXN
+http://34.101.225.209:8187/iptvfree/120
+
+#EXTINF: -1 tvg-id="FX.MACAN" tvg-logo="https://cdn.macan.live/img/fx.png" group-title="Entertainment", FX
+http://34.101.225.209:8187/iptvfree/115
+
+#EXTINF: -1 tvg-id="FOX.MACAN" tvg-logo="https://cdn.macan.live/img/fox.jpg" group-title="Entertainment", FOX
+http://34.101.225.209:8187/iptvfree/144
+
+#EXTINF: -1 tvg-id="FOXCrime.MACAN" tvg-logo="https://cdn.macan.live/img/fox_crime.png" group-title="Entertainment", FOX Crime
+http://34.101.225.209:8187/iptvfree/122
+
+#EXTINF: -1 tvg-id="FoxLife.MACAN" tvg-logo="https://cdn.macan.live/img/fox_life.png" group-title="Entertainment", FOX Life
+http://34.101.225.209:8187/iptvfree/135
+
+#EXTINF: -1 tvg-id="CrimeInvestigation.MACAN" tvg-logo="https://cdn.macan.live/img/crime_investigation.png" group-title="Entertainment", Crime Investigation
+http://34.101.225.209:8187/iptvfree/142
+
+#EXTINF: -1 tvg-id="Hits.MACAN" tvg-logo="https://cdn.macan.live/img/hits.png" group-title="Entertainment", HITS
+http://34.101.225.209:8187/iptvfree/307
+
+#EXTINF: -1 tvg-id="HITSMovies.MACAN" tvg-logo="https://cdn.macan.live/img/hits_movies.png" group-title="Entertainment", HITS Movies
+http://34.101.225.209:8187/iptvfree/138
+
+
+#EXTINF: -1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_movies_premium.png" group-title="Movies", FOX Movies Premium
+http://34.101.225.209:8187/iptvfree/146
+
+#EXTINF: -1 tvg-id="FOXActionMoviesHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_action_movies.png" group-title="Movies", FOX Action Movies
+http://34.101.225.209:8187/iptvfree/111
+
+#EXTINF: -1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_family_movies.png" group-title="Movies", FOX Family Movies 
+http://34.101.225.209:8187/iptvfree/8
+
+#EXTINF: -1 tvg-id="HBOHD.MACAN" tvg-logo="https://cdn.macan.live/img/hbo.png" group-title="Movies", HBO
+http://34.101.225.209:8187/iptvfree/391
+
+#EXTINF: -1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://cdn.macan.live/img/hbo_hits.png" group-title="Movies", HBO Hits
+http://34.101.225.209:8187/iptvfree/386
+
+#EXTINF: -1 tvg-id="RED.MACAN" tvg-logo="https://cdn.macan.live/img/red_hbo.png" group-title="Movies", RED by HBO
+http://34.101.225.209:8187/iptvfree/redhbo/
+387
+
+#EXTINF: -1 tvg-id="CINEMAX.MACAN" tvg-logo="https://cdn.macan.live/img/cinemaxa.png" group-title="Movies", Cinemax by HBO
+http://34.101.225.209:8187/iptvfree/409
+
+#EXTINF: -1 tvg-id="Thrill.MACAN" tvg-logo="https://cdn.macan.live/img/thrill.png" group-title="Movies", Thrill
+http://34.101.225.209:8187/iptvfree/thrill/
+#EXTINF: -1 tvg-id="KIX.MACAN" tvg-logo="https://cdn.macan.live/img/kix.png" group-title="Movies", KIX
+http://34.101.225.209:8187/iptvfree/kix/
+#EXTINF: -1 tvg-id="SonyOneHD.MACAN" tvg-logo="https://cdn.macan.live/img/sonyone.png" group-title="Korea", Sony One
+http://34.101.225.209:8187/iptvfree/116
+
+
+
+#EXTINF: -1 tvg-id="TVNMovies.MACAN" tvg-logo="https://cdn.macan.live/img/tvn_movies.png" group-title="Korea", tvN Movies
+http://34.101.225.209:8187/iptvfree/374
+
+#EXTINF: -1 tvg-id="KPlus.id" tvg-logo="https://cdn.macan.live/img/kplus.png" group-title="Korea", K+
+http://34.101.225.209:8187/iptvfree/389
+
+#EXTINF: -1 tvg-id="Animax.MACAN" tvg-logo="https://cdn.macan.live/img/animax.png" group-title="Japan", Animax
+http://34.101.225.209:8187/iptvfree/117
+
+#EXTINF: -1 tvg-id="Aniplus.id" tvg-logo="https://cdn.macan.live/img/aniplus.png" group-title="Japan", Aniplus
+http://34.101.225.209:8187/iptvfree/266
+
+
+#EXTINF: -1 tvg-id="GEMChannel.id" tvg-logo="https://cdn.macan.live/img/gem.jpg" group-title="Japan", Sony GEM TV
+http://34.101.225.209:8187/iptvfree/128
+
+#EXTINF: -1 tvg-id="FOXSportsHD.MACAN" tvg-logo="https://cdn.macan.live/img/fox_sports_1.png" group-title="Sports", FOX Sport 1
+http://34.101.225.209:8187/iptvfree/112
+#EXTINF: -1 tvg-id="FOXSports2.MACAN" tvg-logo="https://cdn.macan.live/img/fox_sports_2.jpg" group-title="Sports", FOX Sport 2
+http://34.101.225.209:8187/iptvfree/125
+
+#EXTINF: -1 tvg-id="FOXSports3.MACAN" tvg-logo="https://cdn.macan.live/img/fox_sport_3.jpeg" group-title="Sports", FOX Sport 3
+http://34.101.225.209:8187/iptvfree/133
+
+
+
+
+
+
