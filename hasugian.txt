@@ -2,6 +2,11 @@
 #EXTINF:-1 group-title="INFO",INFO
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/afc53720-a686-4376-8ab3-a910f1821c0e_original-4.png" group-title="Sport",True Premiere Football HD2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/afc53720-a686-4376-8ab3-a910f1821c0e_original-4.png" group-title="Sport",True Premiere Football HD1
+https://mkctv.my.id/tv/ingris.m3u8
+
 #EXTINF:-1 tvg-ID="rcti" tvg-logo="http://cekker.masuk.web.id/logo/rctiv.png" group-title="TV Nasional",RCTI
  https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8 
 
