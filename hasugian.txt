@@ -56,7 +56,7 @@ https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 #https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV 
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8 
+https://ind20.ftp.sh/ind/net.m3u8?token={{token}} 
 #http://103.148.44.22:5561/nethd
  
 
