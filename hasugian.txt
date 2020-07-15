@@ -139,8 +139,7 @@ https://ind20.ftp.sh/ind/celestialmovie.m3u8?token={{token}}
 https://ind20.ftp.sh/ind/thrill.m3u8?token={{token}}
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",Warner
-http://34.101.225.209:8187/iptvfree/iptvfree/382
-
+https://ind20.ftp.sh/ind/warner.m3u8?token={{token}}
 
 
 
