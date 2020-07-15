@@ -76,13 +76,14 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 
 #EXTINF:0 tvg-id="" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+https://ind20.ftp.sh/ind/beritasatu.m3u8?token={{token}}
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZVckB44/tmp.jpg" group-title="TV Nasional",TEMPO TV
 #http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15KfXQyr/tic.jpg" group-title="TV Nasional",THE INDONESIA CHANNEL
 #https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j20LwqWZ/hi.png" group-title="TV Nasional",HI! INDO
 #https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
 
