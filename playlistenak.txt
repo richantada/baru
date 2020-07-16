@@ -9,10 +9,10 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1704677850_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="Lokal",NET TV FHD  
-https://ind20.ftp.sh/ind/net.m3u8?token=a29udG9sIGJhcGFrIGthdQ==
+http://103.148.44.22:5561/nethd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="Lokal",ANTV HD  
-https://ind20.ftp.sh/ind/antv.m3u8?token=a29udG9sIGJhcGFrIGthdQ==
+http://103.148.44.22:8876/play/a0aw
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="Lokal",SCTV HD  
 https://etslive-2-vidio-com.akamaized.net/exp=1594882740~acl=/hls-p/ingest_204_*/*~hmac=ee34c5056d4b6f5d8876d398e9296a2c750436b4335396def545ea2ee75db938/hls-p/ingest_204_720p/index.m3u8
