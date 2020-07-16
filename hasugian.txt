@@ -8,8 +8,7 @@ https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 https://mkctv.my.id/tv/ingris.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar 
-https://ind20.ftp.sh/ind/indosiar.m3u8?token={{token}}
-#http://45.126.83.51/session/14634f0e-8cad-11ea-b612-a356856d6632/qwr9ew/s/s04/01.m3u8
+http://45.126.83.51/session/14634f0e-8cad-11ea-b612-a356856d6632/qwr9ew/s/s04/01.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://cdn.macan.live/img/antv.png" group-title="TV Nasional", ANTV
@@ -32,15 +31,13 @@ https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
-https://ind20.ftp.sh/ind/sctv.m3u8?token={{token}}
-#https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
+https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBALTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8  
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TV One
-https://ind20.ftp.sh/ind/tvone.m3u8?token={{token}}
-#https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8 
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
@@ -57,13 +54,11 @@ https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
 #https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV 
-https://ind20.ftp.sh/ind/net.m3u8?token={{token}} 
-#http://103.148.44.22:5561/nethd
+http://103.148.44.22:5561/nethd
  
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",Rajawali TV
-https://ind20.ftp.sh/ind/rtv.m3u8?token={{token}},
-#http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/01.m3u8 
+http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/01.m3u8 
 #http://103.148.44.22:8876/play/a09p
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="TV Nasional",Kompas TV 
@@ -75,8 +70,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 
-#EXTINF:0 tvg-id="" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu News
-https://ind20.ftp.sh/ind/beritasatu.m3u8?token={{token}}
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZVckB44/tmp.jpg" group-title="TV Nasional",TEMPO TV
 #http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8
@@ -123,24 +116,6 @@ http://34.101.225.209:8187/iptvfree/iptvfree/135
 #EXTINF:-1 tvg-id="zbioskop" tvg-logo="http://cekker.masuk.web.id/logo/zeeb.png" group-title="Movies",Zee Bioskop
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/logo_flik_small1.png" group-title="Movies",Flik
-https://ind20.ftp.sh/ind/flik.m3u8?token={{token}}
-
-#EXTINF:-1 tvg-ID="bioskopindonesia" group-title="Movies" tvg-logo="https://i.postimg.cc/02gPnVK8/logo_bioskopindonesia_small1.png",BioskopIndonesia
-https://ind20.ftp.sh/ind/bioskopindonesia.m3u8?token={{token}}
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies",CinemaWorld
-https://ind20.ftp.sh/ind/cinemaworld.m3u8?token={{token}}
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies",CelestialMovie
-https://ind20.ftp.sh/ind/celestialmovie.m3u8?token={{token}}
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies",Thrill
-https://ind20.ftp.sh/ind/thrill.m3u8?token={{token}}
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",Warner
-https://ind20.ftp.sh/ind/warner.m3u8?token={{token}}
-
 
 
 
@@ -166,21 +141,6 @@ http://34.101.225.209:8187/iptvfree/iptvfree/136
 
 #EXTINF:-1 tvg-ID="KBS World" group-title="Entertainment" tvg-logo="https://i.postimg.cc/Wp9D2VZ3/logo-kplus-small1.png", KPlus
 http://34.101.225.209:8187/iptvfree/iptvfree/389
-#EXTINF:-1 tvg-ID="WakuWakuUseeTV.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/T1ccSk0K/logo-wakuwaku-small.png", WakuWaku
-https://ind20.ftp.sh/ind/wakuwaku.m3u8?token={{token}}
-
-#EXTINF:-1 tvg-ID="GEMChannel.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/ncRzk4xT/logo-sgem-small.png", SGEM
-http://ikasalon.com/ekonomis/stream/sgem-54778YRZ.m3u8
-
-#EXTINF:-1 tvg-ID="KIX.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/Jz6B4WTd/kix4.png", KIX
-http://ikasalon.com/ekonomis/stream/kix-54778YRZ.m3u8
-
-#EXTINF:-1 tvg-ID="SonyOne.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/xdH1nBzF/logo-sone-small1.png", SOne
-http://ikasalon.com/ekonomis/stream/sone-54778YRZ.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Vxb8TH/logo-kbsworld-small.png" group-title="Entertainment",KBSWorld
-https://ind20.ftp.sh/ind/kbsworld.m3u8?token={{token}}
 
 #EXTINF:-1 tvg-id="foxsport1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Sports",Fox Sport 1
 http://34.101.225.209:8187/iptvfree/iptvfree/112
