@@ -1,0 +1,528 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="LOKAL",Gratis ( Tidak Diperjual Belikan) Di Kasi Percuma 
+https://dl.dropbox.com/s/qtow0qzbdptcxwn/ZALTVku.mp4?dl=0 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL",http://andriant.my.id
+
+#EXTINF:-1,MNCTV HD
+https://dl.dropbox.com/s/1evj6ayn5eibry1/mnctvsd.m3u8?dl=0
+
+#EXTINF:-1,GTV HD
+https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
+
+#EXTINF:-1,RCTI HD
+https://dl.dropbox.com/s/vq7pfqpqhqo9p5n/rctisd.m3u8?dl=0
+
+#EXTINF:-1,INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+
+#EXTINF:-1,ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1,SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1,NET TV
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
+
+#EXTINF:-1,TRANS 7
+http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
+
+#EXTINF:-1,TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1,TRANS TV
+http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
+
+#EXTINF:-1,INEWS
+https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
+
+#EXTINF:-1,RTV
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1,METRO TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
+
+#EXTINF:-1,KOMPAS TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
+
+#EXTINF:-1,TVRI
+http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1,TVRI NASIONAL
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1,TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1,BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1,JTV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
+
+#EXTINF:-1,BALI TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(3473945a-c61b-4c44-bfe7-1e09499b9cf9)/manifest.mpd
+
+#EXTINF:-1,LOMBOK TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(274d8cf1-729a-4acc-8ff2-69b1c4f70be7)/manifest.mpd
+
+#EXTINF:-1,ID KU
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
+
+#EXTINF:-1,USEE PRIME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
+
+#EXTINF:-1,USEE PHOTO
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
+
+#EXTINF:-1,RUANG TERAMPIL
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
+
+#EXTINF:-1,TEMPO TV
+http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8
+
+#EXTINF:-1,ELSINTA
+http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1,AREK TV SURABAYA
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1,ANIMAX
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
+
+#EXTINF:-1,DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1,EGG NETWORK
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1,MAX2U
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(50332677-b1c4-47d4-ab87-70956e2d1d1b)/manifest.mpd
+
+#EXTINF:-1,Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
+#EXTINF:-1,LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+#EXTINF:-1,Nick
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+
+#EXTINF:-1,NICKELODEON ASIA
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
+
+#EXTINF:-1,Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D24596A14EAFC78BC705583C9FD&profile=pass
+
+#EXTINF:-1,Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B40097870241BD99B4D3EBD89BF&profile=pass
+
+#EXTINF:-1,History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass
+
+#EXTINF:-1,Nat Geo
+http://203.153.218.28:9981/stream/channelid/681683355
+
+#EXTINF:-1,NAT GEO Wild
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,TECHSTORM
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
+
+#EXTINF:-1,ANIMAL PLANET 2
+http://164.138.90.87:4022/udp/239.191.254.32:13343
+
+#EXTINF:-1,BBC Cbeebies
+http://51.52.156.22:8888/http/003
+
+#EXTINF:-1,DMAX
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
+#EXTINF:-1,BLUE ANT EXTREME
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1,HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=4329B3E8AA7F378A734FC2AAE9B74761528954FC&profile=pass
+
+#EXTINF:-1,HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=DF89512A955211D2152BD7CAC58362C4A2463787&profile=pass
+
+#EXTINF:-1,FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9BE85B9E02EAA73CC172A985FA42CC45DE314D57&profile=pass
+
+#EXTINF:-1,FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=6B91E9D1E19FBB0CC17A0C52A388098B8EE87D81&profile=pass
+
+#EXTINF:-1,Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=8A4F5324EC2E07802B61676692E909A1065152FC&profile=pass
+
+#EXTINF:-1,HI! INDO
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
+
+#EXTINF:-1,KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1,SINEMA INDONESIA
+http://210.210.155.35:80/x6bnqe/s/s71/S4/mnf.m3u8
+
+#EXTINF:-1,TIC
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/manifest.mpd
+
+#EXTINF:-1,CELESTIAL MOVIES
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1,CINEMA WORLD
+http://210.210.155.35:80/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1,HITS
+http://210.210.155.35:80/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1,K+
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1,SONY GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1,THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1,ZEE BIOSKOP
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1,Mola Sport Free
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8?app_type=web&userid=0n128n6xf4&tkn=I8PLN5GATXUOR45HOTKC5KGF8QS3UWA1&chname=Mola_Sports_Free_Trial-
+
+#EXTINF:-1,beIN Sports Xtra
+https://bein-xtra-roku.amagi.tv/ingest/playlist.m3u8
+
+#EXTINF:-1,True Premiere Football HD2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1,S Sport 1
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/ssport/playlist.m3u8
+
+#EXTINF:-1,S Sport 2
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/ssport2/playlist.m3u8
+
+#EXTINF:-1,SKYNET SPORT HD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1,Skynetsport1
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1,Skynetsport2
+https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1,Skynetsport3
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1,Skynetsport4
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1,TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1,true sport 3
+https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
+
+#EXTINF:-1,RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1,SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:-1,Sony Six
+http://202.163.117.6:9981/stream/channelid/1986083816?ticket=1BFECC62B20282AE033F101B60D70A62AFB15BA2&profile=pass
+
+#EXTINF:-1,Sony Ten 1
+http://202.163.117.6:9981/stream/channelid/1603316717?ticket=3317A4E83514571781D0B68AC90444006A32A260&profile=pass
+
+#EXTINF:-1,Sony Ten 2
+http://202.163.117.6:9981/stream/channelid/520610693?ticket=68E2D7EFB61BEBC13C8B6EEE6A3542F803AA98F8&profile=pass
+
+#EXTINF:-1,Sony Ten 3
+http://202.163.117.6:9981/stream/channelid/1156450698?ticket=27F5869D77DA611229F0C1CFAF765431A18CAD91&profile=pass
+
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1,A MONSTER CALLS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1,ESCAPE PLAN
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e27947a8-4d65-4693-b485-903b69d674e4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1,THE IMPOSSIBLE
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/82ac8bc6-5179-4ceb-b9a2-06e0c360aad6/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1,THE HOST
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1,WARM BODIES
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1,YOU NOW SEE ME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1,YOU NOW SEE ME 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1,INDONESIAN || SUNYI(2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Sunyi.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || POCONG THE ORIGIN (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Pocong.The.Origin.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || PUSAKA (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Pusaka.2019.HDRip.480p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || ROY KIYOSHI : THE UNTOLD STORY (2019)
+https://bitball.b-cdn.net/movies/indonesia/Roy.Kiyosi.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || DANUR 3 : SUNYARURI (2019)
+https://bitball.b-cdn.net/movies/indonesia/Danur.3.Sunyaruri.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || ROH FASIK (2019)
+https://bitball.b-cdn.net/movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || MATA BATIN 2 (2019)
+https://zaccar.b-cdn.net/movies/01-10-2020/Mata.Batin.2.(2019).mp4
+
+#EXTINF:-1,INDONESIAN || SEKTE (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Sekte.2019.WEB-DL.480p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || REVA : GUNA GUNA (2019)
+https://bitball.b-cdn.net/movies/02-14-2020/Reva.Guna.Guna.2019.HDTC.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || RASUK (2018)
+https://bitball.b-cdn.net/movies/02-16-2020/Rasuk.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || BISISKAN IBLIS (2018)
+https://bitball.b-cdn.net/movies/03-01-2020/Bisikan.Iblis.2018.WEB-HD.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || KEMBANG KANTIL (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Kembang%20Kantil.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || JAGA POCONG (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Jaga.Pocong.2018.HDTC.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || BAYI GAIB (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Bayi.Gaib.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || SUZANNA : BURIED A LIVE (2018)
+https://bitball.b-cdn.net/movies/indonesia/suzzannabernapas.mp4
+
+#EXTINF:-1,INDONESIAN || SESAT (2018)
+https://bitball.b-cdn.net/movies/indonesia/sesat.mp4
+
+#EXTINF:-1,INDONESIAN || BISIKAN IBLIS (2018)
+https://bitball.b-cdn.net/movies/indonesia/bisikaniblis.mp4
+
+#EXTINF:-1,INDONESIAN || ARWAH TUMBAL NYAI (2018)
+https://bitball.b-cdn.net/movies/indonesia/arwahtumbalnyai.mp4
+
+#EXTINF:-1,INDONESIAN || GASING TENGKORAK (2017)
+https://bitball.b-cdn.net/movies/02-14-2020/Gasing.Tengkorak.2017.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || RUMAH MALAIKAT (2016)
+https://bitball.b-cdn.net/movies/02-14-2020/Rumah.Malaikat.2016.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || KAKAK (2015)
+https://bitball.b-cdn.net/movies/02-16-2020/Kakak.2015.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || DANAU HITAM (2014)
+https://bitball.b-cdn.net/movies/02-16-2020/Danau.Hitam.2014.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || MALL KLENDER (2014)
+https://bitball.b-cdn.net/movies/02-14-2020/Mall.Klender.2014.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || DRAKULA CINTA (2014)
+https://bitball.b-cdn.net/movies/02-14-2020/Drakula.Cinta.2014.DVDRip.480p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || SARANG HANTU JAKARTA (2014)
+https://bitball.b-cdn.net/movies/02-12-2020/Sarang.Hantu.Jakarta.2014.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || KAFAN SUNDEL BOLONG (2012)
+https://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || BANGKITNYA SISTER GEPENG (2012)
+https://bitball.b-cdn.net/movies/02-16-2020/Bangkitnya.Suster.Gepeng.2012.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || RUMAH BEKAS KUBURAN (2012)
+https://bitball.b-cdn.net/movies/02-12-2020/Rumah.Bekas.Kuburan.2012.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || ADA APA DENGAN POCONG (2011)
+https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || POCONG JUGA POCONG (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Poconggg.Juga.Pocong.2011.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || KEPELET KUNITLANAK (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Pelet.Kuntilanak.2011.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="LOKAL",Gratis ( Tidak Diperjual Belikan) Di Kasi Percuma 
+https://dl.dropbox.com/s/qtow0qzbdptcxwn/ZALTVku.mp4?dl=0 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL",http://andriant.my.id
+
+#EXTINF:-1,INDONESIAN || KALUNG JELANGKUNG (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Kalung.Jelangkung.2011.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1,INDONESIAN || 13 CARA MEMANGGIL SETAN (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/13.Cara.Memanggil.Setan.2011.DVDRip.720p.FMZM.mp4
+
+#EXTINF:-1,The Prodigy (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-29-2020/The.Prodigy.2019.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Riki-Oh: The Story of Ricky (1991)
+https://bitball.b-cdn.net/movies/APRIL/04-28-2020/Riki-Oh.The.Story.of.Ricky.1991.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Cold Prey II (2008)
+https://bitball.b-cdn.net/movies/APRIL/04-28-2020/Fritt.Vilt.2.2008.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,My Soul to Take (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/My.Soul.to.Take.2010.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Hannibal (2001)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/Hannibal.2001.REMASTERED.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1,The Dark (2018)
+https://bitball.se/movies/APRIL/04-26-2020/The.Dark.2018.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Polaroid (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/Polaroid.2019.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1,A Girl Walks Home Alone at Night (2014)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/A.Girl.Walks.Home.Alone.at.Night.2014.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,The Shallows (2016)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/The.Shallows.2016.720p.UHD.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1,Killer Sofa (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Killer.Sofa.2019.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1,Flatliners (1990)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Flatliners.1990.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Blade II (2002)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.II.2002.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1,Blade (1998)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.1998.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1,The Perfection (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-24-2020/The.Perfection.2018.480p.NF.WEB-DL.x264.300MB-IDFL.info.mp4
+
+#EXTINF:-1,Zoo (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-24-2020/Zoo.2018.480p.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1,The Den (2013)
+https://bitball.b-cdn.net/movies/APRIL/04-23-2020/The.Den.2013.480p.WEB-HD.x264.IDFL.info.mp4
+
+#EXTINF:-1,Salò -  or the 120 Days of Sodom (1975)
+https://bitball.b-cdn.net/movies/APRIL/04-23-2020/Salo.or.the.120.Days.of.Sodom.1975.REMASTERED.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Poker Night (2014)
+https://bitball.se/movies/APRIL/04-22-2020/Poker.Night.2014.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Await Further Instructions (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/Await.Further.Instructions.2018.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Us (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/us.2019.480p.bluray.x264.IDFL.info.mp4
+
+#EXTINF:-1,Funny Games (1997)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/Funny.Games.1997.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Another (2012)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/ANOTHER.2012.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,12 Feet Deep (2017)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/12.Feet.Deep.2017.720p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Ginger Snaps (2000)
+https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Ginger.Snaps.2000.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Evil Angel (2009)
+https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Evil.Angel.2009.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Near Dark (1987)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Near.Dark.1987.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Mutant Girls Squad (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Mutant.Girls.Squad.2010.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Leprechaun Returns (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Leprechaun.Returns.2018.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Isabelle (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Isabelle.2019.480p.WEB-HD.x264.IDFL.info.mp4
+
+#EXTINF:-1,Tokyo Slaves (2014)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tokyo.Slaves.2014.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,The Innocents (1961)
+https://bitball.b-cdn.net/movies/APRIL/04-14-2020/The.Innocents.1961.REMASTERED.480p.BluRay.X264.IDFL.info.mp4
+
+#EXTINF:-1,Antichrist (2009)
+https://bitball.b-cdn.net/movies/APRIL/04-14-2020/Antichrist.2009.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Book of Monsters (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-13-2020/Book.of.Monsters.2018.480p.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1,Silent House (2011)
+https://bitball.b-cdn.net/movies/APRIL/04-11-2020/Silent.House.2011.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Piranha (1978)
+https://bitball.b-cdn.net/movies/APRIL/04-11-2020/Piranha.1978.Remastered.720p.BluRay.x26.IDFL.info.mp4
+
+#EXTINF:-1,Horns (2013)
+https://bitball.b-cdn.net/movies/APRIL/04-08-2020/Horns.2013.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Inhuman Kiss (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-06-2020/Inhuman.Kiss.2019.480p.NF.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1,Granny of the Dead (2017)
+https://bitball.b-cdn.net/movies/APRIL/04-03-2020/Granny.of.the.Dead.2017.480p.WEB-HD.x264.300MB-IDFL.info.mp4
+
+#EXTINF:-1,Vampire Hunter D: Bloodlust (2000)
+https://bitball.b-cdn.net/movies/03-03-2020/03-30-2020/Vampire.Hunter.D.Bloodlust.2000.480p.BluRay.x264.300MB-Pahe.mp4
+
+#EXTINF:-1,Deception of the Novelist (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-02-2020/Deception.Of.The.Novelist.2019.720p.BluRay.X264.IDFL.info.mp4
+
+#EXTINF:-1,Satu Suro (2019)
+https://bitball.se/movies/APRIL/04-22-2020/Satu.Suro.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+
+#EXTINF:-1,MatiAnak (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/MatiAnak.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+
+#EXTINF:-1,Makmum (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/Makmum.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+
+#EXTINF:-1,Sekte (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Sekte.2019.WEB-HD.720p.IDFL.info.mp4
+
+#EXTINF:-1,Reuni Z (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-16-2020/Reuni.Z.2018.720p.WEB-DL.AAC2.0.H.264-IDFL.info.mp4
+
+#EXTINF:-1,Tembang Lingsir (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tembang.Lingsir.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+
+#EXTINF:-1,Reva: Guna Guna (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-12-2020/Reva.Guna.Guna.2019.WEBRip.720p.IDFL.info.mp4
+
+#EXTINF:-1,The Serpent and the Rainbow (1988)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Serpent.And.The.Rainbow.1988.REMASTERED.720p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,The Clinic (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Clinic.2010.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,Munafik 2 (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/Munafik.2.2018.720p.NF.WEB-DL.x264.IDFL.info.mp4
