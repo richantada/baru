@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="LOKAL",Gratis ( Tidak Diperjual Belikan) Di Kasi Percuma 
-https://dl.dropbox.com/s/qtow0qzbdptcxwn/ZALTVku.mp4?dl=0 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL",http://andriant.my.id
 
 #EXTINF:-1,MNCTV HD
 https://dl.dropbox.com/s/1evj6ayn5eibry1/mnctvsd.m3u8?dl=0
