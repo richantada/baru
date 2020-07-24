@@ -1,7 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="-" tvg-name="MEDIATECH" tvg-logo="" group-title="AGS VISIONS",INFO
-https://www.dropbox.com/s/ya4ndsn7o2bvi5v/BANNER%20MT%20VIDIO.mp4?dl=1
 
 #EXTINF:-1 tvg-id="-" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="Lokal FTA",GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
