@@ -1,4 +1,16 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="-" tvg-name="MEDIATECH" tvg-logo="" group-title="AGS VISIONS",INFO
+https://www.dropbox.com/s/ya4ndsn7o2bvi5v/BANNER%20MT%20VIDIO.mp4?dl=1
+
+#EXTINF:-1 tvg-id="-" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="Lokal FTA",GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="-" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg" group-title="Lokal FTA",RCTI 
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-id="-" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="Lokal FTA",MNC TV 
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NetTV.MACAN" group-title="Lokal FTA" tvg-logo="https://cdn.macan.live/img/net.png", NET.
 https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=macangratisan&v=1595610899
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV.MACAN" group-title="Lokal FTA" tvg-logo="https://cdn.macan.live/img/sctv.png", SCTV
