@@ -162,3 +162,33 @@ https://delivery.macan.live/stream/id_nhkworld/playlist.m3u8?token=macangratisan
 #EXTINF:-1 tvg-id="CNNInternational.MACAN" tvg-name="CNNInternational.MACAN" group-title="News" tvg-logo="https://cdn.macan.live/img/cnninternational.png", CNN International
 https://delivery.macan.live/stream/cnninternational/playlist.m3u8?token=macangratisan&v=1595610899
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6app7br5ggl8g1q/image.png?dl=0" group-title="Sports 2",Mola Sport Free
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8?app_type=web&userid=0n128n6xf4&tkn=I8PLN5GATXUOR45HOTKC5KGF8QS3UWA1&chname=Mola_Sports_Free_Trial-
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/t6haouj9cnh7877/31682adb-c504-409d-b2ea-d43245491a9a_320.png?dl=0" group-title="Sports 2",True Premier 1
+https://dl.dropbox.com/s/ivyg4b8lqxm07h3/gilabola1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qkt0pewpf3s31va/logo-truepremierfootballhd2.png?dl=0" group-title="Sports 2",True Premier 2
+https://dl.dropbox.com/s/jkz8v0y8uwaf4vn/gilabola2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rdvmklkbk8rttf4/truepremierfootballhd3.png?dl=0" group-title="Sports 2",True Premier 3
+https://dl.dropbox.com/s/bhbrcgsws2galln/gilabola3.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g5tiz0y7wbkq6w6/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png?dl=0" group-title="Sports 2",True Premier 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ogd5rcwfi2h6qi3/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original.png?dl=0" group-title="Sports 2",True Premier 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gi6hgw0er33wgvy/skynet1.png?dl=0" group-title="Sports 2",SKYNET 1
+https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/04vsfr5euaa2lg3/skynet2.png?dl=0" group-title="Sports 2",SKYNET 2
+https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5oqh7grt173kohe/skynet3.png?dl=0" group-title="Sports 2",SKYNET 3
+https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ew9eplor4vwrvlp/1595467324734.png?dl=0" group-title="Sports 2",SKYNET 4
+https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1r4grqs3jy4xeah/skynet5.png?dl=0" group-title="Sports 2",SKYNET 5
+https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7uqelgp824l2lyr/skynet6.png?dl=0" group-title="Sports 2",SKYNET 6
+https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8 
+#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/SmackDown%21_%2703-0.png/revision/latest/scale-to-width-down/367?cb=20161206085646" group-title="Sports 2",WWE Smackdown
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSk_XK9-PUwlbDFh3JxOW1ZBVj_V0sr8IWBNLqb--Tr2n6QIekt" group-title="Sports 2",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9TFWrdZ992V0ziRVE_1Y_upT2ZGm1NALsyzi4xUvzw3vwB_Gy" grou-title="Sports 2",Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
