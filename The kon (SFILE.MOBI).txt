@@ -1,0 +1,1380 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="LFTIME",US: DISNEY JR | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11376
+#EXTINF:-1 group-title="LFTIME",US: DISNEY XD EAST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11377
+#EXTINF:-1 group-title="LFTIME",US: DOG TV | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11380
+#EXTINF:-1 group-title="LFTIME",US: E! WEST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11383
+#EXTINF:-1 group-title="LFTIME",US: TRAVEL CHANNEL | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11604
+#EXTINF:-1 group-title="LFTIME",US: HISTORY | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11441
+#EXTINF:-1 group-title="LFTIME",US: LIFETIME | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11449
+#EXTINF:-1 group-title="LFTIME",US: MTV LIVE | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11463
+#EXTINF:-1 group-title="LFTIME",US: MTV U | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11464
+#EXTINF:-1 group-title="LFTIME",US: OUTDOOR CHANNEL | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11498
+#EXTINF:-1 group-title="LFTIME",CA: LIFETIME | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6961
+#EXTINF:-1 group-title="LFTIME",CA: Love Nature | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6962
+#EXTINF:-1 group-title="LFTIME",CA: Game TV | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6941
+#EXTINF:-1 group-title="LFTIME",CA: MTV | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6971
+#EXTINF:-1 group-title="LFTIME",CA: MUCH MUSIC | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6972
+#EXTINF:-1 group-title="LFTIME",CA: NAT GEO WILD |HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6974
+#EXTINF:-1 group-title="LFTIME",CA: NATIONAL GEOGRAPHIC | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6975
+#EXTINF:-1 group-title="LFTIME",US: CRIME & INVESTIGATION | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11363
+#EXTINF:-1 group-title="LFTIME",US: DISCOVERY CHANNEL | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11366
+#EXTINF:-1 group-title="LFTIME",US: DISCOVERY FAMILY | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11367
+#EXTINF:-1 group-title="LFTIME",US: DISCOVERY LIFE | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11368
+#EXTINF:-1 group-title="LFTIME",US: DISCOVERY SCIENCE | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11369
+#EXTINF:-1 group-title="LFTIME",US: DISCOVERY TURBO | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11370
+#EXTINF:-1 group-title="LFTIME",US: DISCOVERY VELOCITY | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11371
+#EXTINF:-1 group-title="LFTIME",US: DISCOVERY | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11372
+#EXTINF:-1 group-title="LFTIME",PT: DISCOVERY CHANNEL | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15880
+#EXTINF:-1 group-title="LFTIME",PT: DISCOVERY SHOWCASE | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15881
+#EXTINF:-1 group-title="LFTIME",PT: DISNEY CHANNEL | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15882
+#EXTINF:-1 group-title="LFTIME",PT: DISNEY JUNIOR | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15883
+#EXTINF:-1 group-title="LFTIME",PT: E! ENTERTAINMENT | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15884
+#EXTINF:-1 group-title="LFTIME",PT: FASHION TV | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15893
+#EXTINF:-1 group-title="LFTIME",PT: FOOD NETWORK | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15894
+#EXTINF:-1 group-title="LFTIME",||MyHD|| Discovery IDX HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2104
+#EXTINF:-1 group-title="LFTIME",||MyHD|| Discovery Science HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2105
+#EXTINF:-1 group-title="LFTIME",||FISHING|| World Fishing TV
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2106
+#EXTINF:-1 group-title="LFTIME",||FISHING|| Fishing and Hunting
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2108
+#EXTINF:-1 group-title="LFTIME",||FISHING|| FISHING & HUNTING
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2107
+#EXTINF:-1 group-title="LFTIME",||OSN|| ANIMAL PLANT HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2043
+#EXTINF:-1 group-title="LFTIME",CA: H2 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6952
+#EXTINF:-1 group-title="LFTIME",CA: MTV 2 | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6970
+#EXTINF:-1 group-title="LFTIME",CA: MTV | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6971
+#EXTINF:-1 group-title="LFTIME",CA: MUCH MUSIC | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6972
+#EXTINF:-1 group-title="LFTIME",CA: NAT GEO WILD |HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6974
+#EXTINF:-1 group-title="LFTIME",CA: NATIONAL GEOGRAPHIC | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6975
+#EXTINF:-1 group-title="LFTIME",||FR|| SCIENC ET VIE
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2666
+#EXTINF:-1 group-title="LFTIME",||FR|| DISNEY CHANNEL
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2689
+#EXTINF:-1 group-title="LFTIME",||FR|| CANAL J HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2690
+#EXTINF:-1 group-title="LFTIME",||FR|| PIWI HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2691
+#EXTINF:-1 group-title="LFTIME",||FR|| CARTOON NETWORK
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2692
+#EXTINF:-1 group-title="LFTIME",||FR|| NICKELODEON HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2695
+#EXTINF:-1 group-title="LFTIME",||FR|| DISNEY JUNIOR
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2696
+#EXTINF:-1 group-title="LFTIME",||FR|| DISNEY CINEMA
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2697
+#EXTINF:-1 group-title="LFTIME",||FR|| DISNEY CHANNEL 1
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2698
+#EXTINF:-1 group-title="LFTIME",||FR|| NATGEO WILD HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2699
+#EXTINF:-1 group-title="LFTIME",||FR|| ANIMAUX HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2700
+#EXTINF:-1 group-title="LFTIME",||FR|| DISCOVERY SCIENCE
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2701
+#EXTINF:-1 group-title="LFTIME",||FR|| PLANETE C.I HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2702
+#EXTINF:-1 group-title="LFTIME",||FR|| Discovery Channel SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2736
+#EXTINF:-1 group-title="LFTIME",||FR|| Discovery Science SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2737
+#EXTINF:-1 group-title="LFTIME",||ES|| NATGEO WILD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2132
+#EXTINF:-1 group-title="LFTIME",||ES|| HISTORIA
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2135
+#EXTINF:-1 group-title="LFTIME",||ES|| NatGeo Wild Spain
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2136
+#EXTINF:-1 group-title="LFTIME",||ES|| DISCOVERY
+CHANNEL http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2137
+#EXTINF:-1 group-title="LFTIME",||ES|| DISNEY JUNIOR
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2138
+#EXTINF:-1 group-title="LFTIME",||OSN|| DISCOVERY SCIENCE
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2024
+#EXTINF:-1 group-title="LFTIME",||OSN|| DISCOVERY HISTOREY
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2025
+#EXTINF:-1 group-title="LFTIME",||OSN|| DISCOVERY HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2026
+#EXTINF:-1 group-title="LFTIME",||MyHD|| Discovery HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2103
+#EXTINF:-1 group-title="LFTIME",CA: CBC CALGARY | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6869
+#EXTINF:-1 group-title="LFTIME",CA: CRIME + INVESTIGATION
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6902
+#EXTINF:-1 group-title="LFTIME",CA: Discovery Channel | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6921
+#EXTINF:-1 group-title="LFTIME",CA: Disney Channel | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6923
+#EXTINF:-1 group-title="LFTIME",CA: DIY | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6926
+#EXTINF:-1 group-title="LFTIME",CA: E! Entertainment Television | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6928
+#EXTINF:-1 group-title="LFTIME",CA: FAMILY CHARGED | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6930
+#EXTINF:-1 group-title="LFTIME",CA: Food Network | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6933
+#EXTINF:-1 group-title="LFTIME",CA: FOX NEWS | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6934
+
+#EXTINF:-1 group-title="MVMAX",||OSN|| SEEVI PRIME 1HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2027
+#EXTINF:-1 group-title="MVMAX",||OSN|| DOSCOVERY Family HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2028
+#EXTINF:-1 group-title="MVMAX",||OSN|| MOVIES ACTION 2 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2030
+#EXTINF:-1 group-title="MVMAX",||OSN|| MOVIES ACTION 1 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2031
+#EXTINF:-1 group-title="MVMAX",||OSN|| FOX ACTION MOVIES HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2055
+#EXTINF:-1 group-title="MVMAX",||OSN|| SyFy
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2062
+#EXTINF:-1 group-title="MVMAX",||MyHD|| FOX Action
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2098
+#EXTINF:-1 group-title="MVMAX",||MyHD|| FOX Family
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2099
+#EXTINF:-1 group-title="MVMAX",||MyHD|| FOX_HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2100
+#EXTINF:-1 group-title="MVMAX",||MyHD|| Star Movie HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2101
+#EXTINF:-1 group-title="MVMAX",||MyHD|| Star World HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2102
+#EXTINF:-1 group-title="MVMAX",RO | - HBO 2 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/20469
+#EXTINF:-1 group-title="MVMAX",RO | - HBO 2 HD VIP
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/20468
+#EXTINF:-1 group-title="MVMAX",RO | - HBO 3 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/20467
+#EXTINF:-1 group-title="MVMAX",RO | - HBO HD BK
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/20466
+#EXTINF:-1 group-title="MVMAX",RO | - HBO ROMANIA HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/20465
+#EXTINF:-1 group-title="MVMAX",PT: FOX Comedy | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15895
+#EXTINF:-1 group-title="MVMAX",PT: FOX LIFE | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15896
+#EXTINF:-1 group-title="MVMAX",PT: FOX MOVIES | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15897
+#EXTINF:-1 group-title="MVMAX",US: CINEMAX (East) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11350
+#EXTINF:-1 group-title="MVMAX",US: CINEMAX (West) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11351
+#EXTINF:-1 group-title="MVMAX",US: CINEMAX 5 STARMAX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11352
+#EXTINF:-1 group-title="MVMAX",US: CINEMAX ACTIONMAX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11353
+#EXTINF:-1 group-title="MVMAX",US: FX WEST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11421
+#EXTINF:-1 group-title="MVMAX",US: FX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11422
+#EXTINF:-1 group-title="MVMAX",US: FXM | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11423
+#EXTINF:-1 group-title="MVMAX",US: FXX WEST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11424
+#EXTINF:-1 group-title="MVMAX",US: FXX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11425
+#EXTINF:-1 group-title="MVMAX",US: FYI | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11426
+#EXTINF:-1 group-title="MVMAX",US: HBO (East) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11435
+#EXTINF:-1 group-title="MVMAX",US: HBO (West) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11436
+#EXTINF:-1 group-title="MVMAX",US: HBO 2 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11437
+#EXTINF:-1 group-title="MVMAX",US: NASA TV | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11620
+#EXTINF:-1 group-title="MVMAX",UK: Sky Pre Order Kids HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15841
+#EXTINF:-1 group-title="MVMAX",UK: Sky Pre Order 1 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15842
+#EXTINF:-1 group-title="MVMAX",UK: Sky Store Box Office 1
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15843
+#EXTINF:-1 group-title="MVMAX",UK: Sky Store Box Office 2
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15844
+#EXTINF:-1 group-title="MVMAX",UK: Sky Store Box Office 3
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15845
+#EXTINF:-1 group-title="MVMAX",UK: Sky Store Box Office 4
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15846
+#EXTINF:-1 group-title="MVMAX",UK: Sky Store Box Office 5
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15847
+#EXTINF:-1 group-title="MVMAX",CA: FX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6938
+#EXTINF:-1 group-title="MVMAX",CA: FXX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6939
+#EXTINF:-1 group-title="MVMAX",US: CINEMAX (West) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11351
+#EXTINF:-1 group-title="MVMAX",US: CINEMAX 5 STARMAX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11352
+#EXTINF:-1 group-title="MVMAX",US: CINEMAX ACTIONMAX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11353
+#EXTINF:-1 group-title="MVMAX",US: FX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11422
+#EXTINF:-1 group-title="MVMAX",US: FXM | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11423
+#EXTINF:-1 group-title="MVMAX",US: FXX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11425
+#EXTINF:-1 group-title="MVMAX",US: FYI | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11426
+#EXTINF:-1 group-title="MVMAX",US: HBO (East) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11435
+#EXTINF:-1 group-title="MVMAX",US: HBO 2 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11437
+#EXTINF:-1 group-title="MVMAX",US: STARZ ENCORE BLACK | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11543
+#EXTINF:-1 group-title="MVMAX",US: STARZ ENCORE CLASSIC | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11544
+#EXTINF:-1 group-title="MVMAX",US: STARZ ENCORE FAMILY | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11545
+#EXTINF:-1 group-title="MVMAX",US: STARZ ENCORE SUSPENSE | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11546
+#EXTINF:-1 group-title="MVMAX",US: STARZ ENCORE WESTERNS | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11547
+#EXTINF:-1 group-title="MVMAX",US: STARZ IN BLACK | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11548
+#EXTINF:-1 group-title="MVMAX",US: STARZ WEST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11549
+#EXTINF:-1 group-title="MVMAX",US: SYFY WEST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11550
+#EXTINF:-1 group-title="MVMAX",US: TNT (East) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11563
+#EXTINF:-1 group-title="MVMAX",US: TNT (West) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11564
+#EXTINF:-1 group-title="MVMAX",US: SYFY | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11593
+#EXTINF:-1 group-title="MVMAX",US: CINEMAX MOREMAX | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11605
+
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 10 (Phoenix) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11778
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 10 XTRA (Phoenix) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11779
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 11 (Charleston) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11780
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 11 (Green Bay) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11781
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 11 (Los Angeles) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11782
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 11 (Sta Barbara) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11783
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 11 (Tucson) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11784
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 12 (Portland) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11785
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 12 (Providence) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11786
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 12 (Salt Lake City) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11787
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 13 (Albuquerque) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11788
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 13 (Memphis) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11789
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 13 (Salt Lake City) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11790
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 13 (Seattle) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11791
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 13 (Tampa Bay) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11792
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 14 (El Paso) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11793
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 15 (Fargo) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11794
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 15 (Lafayette) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11795
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 15 (Lincoln) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11796
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 16 (Little Rock) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11797
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 17 (Des Moines) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11798
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 17 (Grand Rapids) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11799
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 17 (La Crosse) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11800
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 17 (Nashville) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11801
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 17 (West Michigan) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11802
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 18 (Davenport) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11803
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 19 (Cincinnati) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11804
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 19 (Youngstown) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11805
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 2 (Detroit) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11806
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 2 (Honolulu) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11807
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 2 (San Francisco) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11808
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 2 (St. Louis) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11809
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 20 (McAllen) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11810
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 20 (Washington) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11811
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 21 (Colorado Springs) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11812
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 22 (Pittsburgh) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11813
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 22 (South Bend) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11814
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 23 (Albany) |SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11815
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 23 (Cape Girardeau) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11816
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 23 (Portland) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11817
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 23 (Reno) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11818
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 23 (Tulsa) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11819
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 24 (Charleston) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11820
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 24 (Macon) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11821
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 24 (Milwaukee) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11822
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 24 (Richmond) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11823
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 24 (Wichita) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11824
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 25 (Boston) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11825
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 25 (Oklahoma) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11826
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 26 (Fresno) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11827
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 26 (Houston) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11828
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 27 (Dallas) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11829
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 27 (Roanoke) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11830
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 28 (Bloomington) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11831
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 28 (Columbus) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11832
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 28 (Durham) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11833
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 28 (Raleigh) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11834
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 28 (Savannah) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11835
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 28 (Spokane) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11836
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 29 (Buffalo) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11837
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 29 (Philadelphia) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11838
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 29 (San Antonio) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11839
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 29 (West Palm Beach) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11840
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 30 (Jacksonville) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11841
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 31 (Denver) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11842
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 31 (Rochester) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11843
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 32 (Chicago) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11844
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 33 (Shreveport) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11845
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 33 (Toledo) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11846
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 35 (Salinas) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11847
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 36 (Lumberton) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11848
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 36 (San Jose) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11849
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 38 (Corpus Christi) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11850
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 38 (Lansing) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11851
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 4 (Cape Coral) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11852
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 4 (Dallas) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11853
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 4 (Kansas) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11854
+#EXTINF:-1 group-title="FMVGROUP",US: Fox 4 More 27 (Dallas) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11855
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 40 (California) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11856
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 40 (Jackson) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11857
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 42 (Omaha) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11858
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 43 (Harrisburg) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11859
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 43 (Knoxville) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11860
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 43 (Virginia) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11861
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 44 (Baton Rouge) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11862
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 44 (Burlington) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11863
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 44 (Evansville) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11864
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 44 (Waco) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11865
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 45 (Baltimore) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11866
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 45 (Ohio) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11867
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 45 (Phoenix) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11868
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 46 (Charlotte) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11869
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 47 (Madison) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11870
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 49 (Louisville) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11871
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 49 (Osage Beach) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11872
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 49 (Tallahassee) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11873
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 5 (Atlanta) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11874
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 5 (New York) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11875
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 5 (San Diego) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11876
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 5 (Washington) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11877
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 5 PLUS (Washington DC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11878
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 50 (Raleigh) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11879
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 51 (Gainesville) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11880
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 51 (Longview) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11881
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 51 (Ocala) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11882
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 53 (Pittsburgh) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11883
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 54 (Augusta) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11884
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 54 (Huntsville) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11885
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 55 (Fort Wayne) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11886
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 55 (Illinois) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11887
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 55 (Rock Hill) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11888
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 56 (Hazleton) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11889
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 56 (Lexington) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11890
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 57 (Columbia) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11891
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 59 (Indianapolis) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11892
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 6 (Birmingham) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11893
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 6 (Milwaukee) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11894
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 61 (Hartford) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11895
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 62 (Youngstown) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11896
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 35 (Orlando) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11897
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 66 (Flint) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11898
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 68 (Syracuse) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11899
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 7 (Austin) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11900
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 7 (Miami) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11901
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 7 (Sioux Falls) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11902
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 8 (Cleveland) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11903
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 8 (Greensboro) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11904
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 8 (New Orleans) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11905
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 9 (Boise) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11906
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 9 (Chattanooga) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11907
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 9 (Minneapolis) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11908
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 9 (Secaucus) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11909
+#EXTINF:-1 group-title="FMVGROUP",US: FOX 9 Plus (Minneapolis) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11910
+#EXTINF:-1 group-title="FMVGROUP",US: FOX My 20 Vision (Houston) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11911
+
+#EXTINF:-1 group-title="SMAX",||FR|| BEIN SPORTS 1 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2770
+#EXTINF:-1 group-title="SMAX",||FR|| BEIN SPORTS 2 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2771
+#EXTINF:-1 group-title="SMAX",||FR|| BEIN SPORTS 3 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2772
+#EXTINF:-1 group-title="SMAX",||FR|| RMC SPORT 1 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2773
+#EXTINF:-1 group-title="SMAX",||FR|| RMC SPORT 2 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2774
+#EXTINF:-1 group-title="SMAX",||FR|| RMC SPORT 3 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2775
+#EXTINF:-1 group-title="SMAX",||FR|| RMC SPORT 4 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2776
+#EXTINF:-1 group-title="SMAX",||FR|| RMC SPORT 2 SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2777
+#EXTINF:-1 group-title="SMAX",||FR|| RMC SPORT 3 SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2778
+#EXTINF:-1 group-title="SMAX",||FR|| Bein sports 1 SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2779
+#EXTINF:-1 group-title="SMAX",||FR|| Bein sports 2 SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2780
+#EXTINF:-1 group-title="SMAX",||FR|| Bein sports 3 SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2781
+#EXTINF:-1 group-title="SMAX",||FR|| BEIN SPORTS MAX 4
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2782
+#EXTINF:-1 group-title="SMAX",||FR|| BEIN SPORTS MAX 5
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2783
+#EXTINF:-1 group-title="SMAX",||FR|| BEIN SPORT MAX 6 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2784
+#EXTINF:-1 group-title="SMAX",||FR|| BEIN SPORTS MAX 7
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2785
+#EXTINF:-1 group-title="SMAX",||FR|| BEIN SPORTS MAX 8
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2786
+#EXTINF:-1 group-title="SMAX",||FR|| BEIN SPORTS MAX 9
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2787
+#EXTINF:-1 group-title="SMAX",||FR|| BEIN SPORTS MAX 10
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2788
+#EXTINF:-1 group-title="SMAX",CA: TSN 1 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7067
+#EXTINF:-1 group-title="SMAX",CA: TSN 2 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7068
+#EXTINF:-1 group-title="SMAX",CA: TSN 3 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7069
+#EXTINF:-1 group-title="SMAX",CA: TSN 4 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7070
+#EXTINF:-1 group-title="SMAX",CA: TSN 5 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7071
+#EXTINF:-1 group-title="SMAX",HINDI STAR SPORTS 1
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/894
+#EXTINF:-1 group-title="SMAX",HINDI STAR SPORTS 2
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/895
+#EXTINF:-1 group-title="SMAX",HINDI STAR SELECT 2
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/896
+#EXTINF:-1 group-title="SMAX",HINDI STAR SELECT 1
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/897
+#EXTINF:-1 group-title="SMAX",US: NBC SPORTS NORTHWEST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11476
+#EXTINF:-1 group-title="SMAX",US: NBCSN Bay Area | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11479
+#EXTINF:-1 group-title="SMAX",US: NBCSN WASHINGTON | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11485
+#EXTINF:-1 group-title="SMAX",US: NBCSN | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11486
+#EXTINF:-1 group-title="SMAX",US: UFC TV | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11572
+#EXTINF:-1 group-title="SMAX",US: WWE NETWORK | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11585
+#EXTINF:-1 group-title="SMAX",CA: FIGHT NETWORK | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/6932
+
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 267*
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7006
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 368
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7007
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 422*
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7008
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 432
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7009
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 433
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7010
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 434
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7011
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 435
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7012
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 436
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7013
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 436
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7014
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 436
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7015
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 437
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7016
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 437
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7017
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 438
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7018
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 438
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7019
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 439
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7020
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 439
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7021
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 440
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7022
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 440
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7023
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 441
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7024
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 441
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7025
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 442
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7026
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 443
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7027
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 443
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7028
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 444
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7029
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 444
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7030
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 450
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7031
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 450
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7032
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 461
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7033
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 461
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7034
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 462
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7035
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 462
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7036
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 464
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7037
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 465
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7038
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 472
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7039
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 473
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7040
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 474
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7041
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 475
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7042
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 476
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7043
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 476
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7044
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 477
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7045
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 477
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7046
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 478
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7047
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 478
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7048
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 479
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7049
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 479
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7050
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 480
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7051
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 480*
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7052
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 481
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7053
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 482
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7054
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 482*
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7055 
+#EXTINF:-1,CA: SUPER SPORTS CH 483
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7056
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 483*
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7057
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 484
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7058
+#EXTINF:-1 group-title="SSPORT GROUP",CA: SUPER SPORTS CH 484*
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7059 
+#EXTINF:-1 group-title="SSPORT GROUP",CA: TSN 1 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7067
+#EXTINF:-1 group-title="SSPORT GROUP",CA: TSN 2 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7068
+#EXTINF:-1 group-title="SSPORT GROUP",CA: TSN 3 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7069
+#EXTINF:-1 group-title="SSPORT GROUP",CA: TSN 4 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7070
+#EXTINF:-1 group-title="SSPORT GROUP",CA: TSN 5 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/7071 
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| EUROSPORT 1
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2764
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| EUROSPORT 2
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2765 
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| RMC SPORT 1 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2773
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| RMC SPORT 2 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2774
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| RMC SPORT 3 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2775
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| RMC SPORT 4 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2776
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| RMC SPORT 2 SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2777
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| RMC SPORT 3 SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2778
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| Bein sports 1 SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2779
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| Bein sports 2 SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2780
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| Bein sports 3 SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2781
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| BEIN SPORTS MAX 4
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2782
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| BEIN SPORTS MAX 5
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2783
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| BEIN SPORT MAX 6 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2784
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| BEIN SPORTS MAX 7
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2785
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| BEIN SPORTS MAX 8
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2786
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| BEIN SPORTS MAX 9
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2787
+#EXTINF:-1 group-title="SSPORT GROUP",||FR|| BEIN SPORTS MAX 10
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2788 
+#EXTINF:-1 group-title="SSPORT GROUP",||ES|| MOVISTAR XTRA HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2119
+#EXTINF:-1 group-title="SSPORT GROUP",||ES|| LA LIGA TV
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2120
+#EXTINF:-1 group-title="SSPORT GROUP",||ES|| beIN SPORTS LA LIGA HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2123
+#EXTINF:-1 group-title="SSPORT GROUP",||ES|| BEIN LA LIGA HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2124
+#EXTINF:-1 group-title="SSPORT GROUP",||ES|| BEIN SPORTS HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2125
+#EXTINF:-1 group-title="SSPORT GROUP",||ES|| MOVISTAR MOTO GP HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2126
+#EXTINF:-1 group-title="SSPORT GROUP",ESMOVISTARGOLFHD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2127
+#EXTINF:-1 group-title="SSPORT GROUP",||ES|| MOVI STAR FUTBOL HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2128
+#EXTINF:-1 group-title="SSPORT GROUP",||ES|| MOVISTAR DEPORTES2 HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/2129 
+#EXTINF:-1 group-title="SSPORT GROUP",Hindi Sony ESPN
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/887
+#EXTINF:-1 group-title="SSPORT GROUP",WWE Network HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/888
+#EXTINF:-1 group-title="SSPORT GROUP",HINDI WILLOW
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/889
+#EXTINF:-1 group-title="SSPORT GROUP",HINDI TEN SPORTS
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/890
+#EXTINF:-1 group-title="SSPORT GROUP",HINDI TEN 1
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/891
+#EXTINF:-1 group-title="SSPORT GROUP",HINDI TEN 2
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/892
+#EXTINF:-1 group-title="SSPORT GROUP",HINDI TEN 3
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/893
+#EXTINF:-1 group-title="SSPORT GROUP",HINDI STAR SPORTS 1
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/894
+#EXTINF:-1 group-title="SSPORT GROUP",HINDI STAR SPORTS 2
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/895
+#EXTINF:-1 group-title="SSPORT GROUP",HINDI STAR SELECT 2
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/896
+#EXTINF:-1 group-title="SSPORT GROUP",HINDI STAR SELECT 1
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/897
+#EXTINF:-1 group-title="SSPORT GROUP",HINDI SONY SIX
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/898 
+#EXTINF:-1 group-title="SSPORT GROUP",PT: ELEVEN SPORTS 1 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15885
+#EXTINF:-1 group-title="SSPORT GROUP",PT: ELEVEN SPORTS 2 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15886
+#EXTINF:-1 group-title="SSPORT GROUP",PT: ELEVEN SPORTS 3 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15887
+#EXTINF:-1 group-title="SSPORT GROUP",PT: ELEVEN SPORTS 4 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15888
+#EXTINF:-1 group-title="SSPORT GROUP",PT: ELEVEN SPORTS 5 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15889
+#EXTINF:-1 group-title="SSPORT GROUP",PT: ELEVEN SPORTS 6 | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/15890
+
+#EXTINF:-1 group-title="FOXGROUP",US: FOX 11 (Los Angeles) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12045
+#EXTINF:-1 group-title="FOXGROUP",US: ABC 16 (Jackson MS) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12046
+#EXTINF:-1 group-title="FOXGROUP",US: FOX 21 (Greenville SC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12047
+#EXTINF:-1 group-title="FOXGROUP",US: FOX 7 WSVN (Miami) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12048
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS YES | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12049
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS CAROLINAS | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12050
+#EXTINF:-1 group-title="FOXGROUP",US: BeIN SPORTS EN ESPANOL | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12051
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS DEPORTES | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12052
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS ARIZONA | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12053
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS NORTH CAROLINA | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12054
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS CINCINNATI
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12055
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS DETROIT | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12056
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS GEORGIA | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12057
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS FLORIDA | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12058
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS HOUSTON | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12059
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS MIDWEST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12060
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS KANSAS CITY | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12061
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS NEW ORLEANS | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12062
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS NORTH | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12063
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS NORTH PLUS | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12064
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS OHIO PLUS | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12065
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS PRIME TICKET | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12066
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS WISCONSIN | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12067
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS SAN ANTONIO | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12068
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS SOUTH | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12069
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS SOUTHWEST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12070
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS SOUTHWEST PLUS | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12071
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS SOUTHEAST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12072
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS SPORTSTIME OHIO | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12073
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS SAN DIEGO | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12074
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS SUN | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12075
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS WEST | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12076
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS INDIANA PLUS | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12077
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS INDIANA | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12078
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS TENNESSEE | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12079
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS NETBASE | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12080
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS ARIZONA PLUS | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12081
+#EXTINF:-1 group-title="FOXGROUP",US: FOX SPORTS OKLAHOMA | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12082
+#EXTINF:-1 group-title="FOXGROUP",PH: ABS CBN NEWS CHANNEL | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/13184
+
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 10 (Columbia SC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11916
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 10 (Hampton VA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11917
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 10 (Knoxville TN) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11918
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 10 (Lansing MI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11919
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 10 (Philadelphia PA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11920
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 10 (Roanoke VA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11921
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 10 (Rochester NY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11922
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 11 (Atlanta) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11923
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 11 (Baltimore MD) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11924
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 11 (Minneapolis) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11925
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 11 (Pittsburgh) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11926
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 11 (San Francisco Bay Area) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11927
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 11 (San Francisco) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11928
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 12 (Jacksonville FL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11929
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 12 (Monthomery AL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11930
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 12 (Phoenix AZ) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11931
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 12 (Richmond VA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11932
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 12 (Winston Salem NC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11933
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 13 (Albany NY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11934
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 13 (Birmingham AL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11935
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 13 (Eau Claire WI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11936
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 13 (honolulu HI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11937
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 13 (Indianapolis IN) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11938
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 14 (Evansville IN) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11939
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 15 (Madison WI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11940
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 16 (South Bend IN) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11941
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 17 (Bakersfield CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11942
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 17 (Decatur IL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11943
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 18 (Lexington KY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11944
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 2 (Buffalo NY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11945
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 2 (Dayton OH) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11946
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 2 (Fort Myers FL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11947
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 2 (Houston TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11948
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 2 (Orlando) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11949
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 2 (Tulsa OK) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11950
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 2 (Winter Park FL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11951
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 21 (Fort Wayne IN) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11952
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 21 (Youngstown OH) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11953
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 22 (Springfield MA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11954
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 23 (Brownsville TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11955
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 23 (Tri Cities WA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11956
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 24 (Fresno CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11957
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 25 (Bloomington IL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11958
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 26 (Augusta GA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11959
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 26 (Green Bay WI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11960
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 28 (wilkes barre PA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11961
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 3 (Cleveland OH) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11962
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 3 (Huntington WV) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11963
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 3 (Jackson MS) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11964
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 3 (Louisville KY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11965
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 3 (Sacramento CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11966
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 3 (Savannah GA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11967
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 3 (Springfield MO) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11968
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 30 (Hartford CT) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11969
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 32 (Myrtle Beach SC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11970
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 36 (Austin TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11971
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 36 (Charlotte NC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11972
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 38 (Columbus GA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11973
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (Albuquerque NM) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11974
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (Columbus OH) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11975
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (Detroit) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11976
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (Greenville SC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11977
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (Hastings NE) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11978
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (Little Rock AR) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11979
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (Los Angeles CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11980
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (Milwaukee WI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11981
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (Nashville TN) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11982
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (New York NY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11983
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (New York) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11984
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (San Antonio TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11985
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (tucson AZ) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11986
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 4 (Washington DC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11987
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 41 (Kansas City MO) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11988
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 46 (Sioux City IA) | SD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11989
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 48 (Hunstville AL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11990
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (Chicago) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11991
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (Cincinnati) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11992
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (Colorado Springs CO) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11993
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (Dallas TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11994
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (Memphis TN) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11995
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (Plattsburgh NY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11996
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (Raleigh NC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11997
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (Salt Lake City) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11998
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (Seattle WA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11999
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (St. Louis MO) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12000
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 5 (West Palm Beach FL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12001
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 56 (Jacksonville TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12002
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Bluefield VA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12003
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Corpus Christi TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12004
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Davenport IA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12005
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Miami FL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12006
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (New Orleans LA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12007
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Omaha NE) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12008
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Paducah KY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12009
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Portland ME) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12010
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Santa Barbara CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12011
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Shreveport LA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12012
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (South Florida) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12013
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Spokane WA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12014
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Temple TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12015
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 6 (Wilmington NC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12016
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 62 (Boston MA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12017
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 7 (Boise ID) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12018
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 7 (Greenville NC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12019
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 7 (Panama City FL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12020
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 7 (San Diego CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12021
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 7 (Waterloo IA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12022
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 8 (Grand Rapids MI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12023
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 8 (Lancaster PA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12024
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 8 (Portland OR) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12025
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 8 (Portland) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12026
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 8 (Tampa FL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12027
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 9 (Denver) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12028
+#EXTINF:-1 group-title="NBCGROUP",US: NBC 9 (El Paso TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12029
+#EXTINF:-1 group-title="NBCGROUP",US: NBCSN CALIFORNIA | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12030
+#EXTINF:-1 group-title="NBCGROUP",US: NBCSN CHICAGO | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/12031
+
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 10 (Altoona PA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11661
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 10 (Corpus Christi) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11662
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 10 (Lafayette LA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11663
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 10 (Lincoln NE) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11664
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 10 (Springfield) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11665
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 10 (Tampa) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11666
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 10 (Waco TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11667
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 11 (Cadillac) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11668
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 11 (Colorado CO) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11669
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 11 (Dallas) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11670
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 11 (Fort Myers) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11671
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 11 (Houston) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11672
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 11 (Little Rock AR) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11673
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 11 (Savannah GA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11674
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 11 (Spartanburg SC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11675
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 11 (Toledo OH) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11676
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 11 (Tri Cities) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11677
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 12 (Augusta GA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11678
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 12 (Cape Girardeau MO) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11679
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 12 (Cincinnati) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11680
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 12 (E Providence) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11681
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 12 (Jackson MS) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11682
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 12 (Santa Maria CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11683
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 12 (Shreveport LA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11684
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 12 (West Palm Beach) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11685
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 12 (Wichita KS) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11686
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 13 (Albuquerque NM) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11687
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 13 (Baltimore) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11688
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 13 (Eugene OR) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11689
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 13 (Huntington WV) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11690
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 13 (Myrtle Beach) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11691
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 13 (Portland) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11692
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 13 (Sacramento CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11693
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 13 (Tucson AZ) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11694
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 15 (Fort Wayne) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11695
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 17 (Raleigh Durham) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11696
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 19 (Cleveland OH) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11697
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 19 (Columbia SC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11698
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (Boise ID) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11699
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (Cedar Rapids) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11700
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (Chicago) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11701
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (Greensboro) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11702
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (NEW YORK) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11703
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (Pittsburg) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11704
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (Reno) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11705
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (Salt Lake City) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11706
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (Spokane) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11707
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (Tallahassee FL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11708
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 21 (Dallas TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11709
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 21 (Harrisburg) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11710
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 22 (Scranton) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11711
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 27 (Lexington KY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11712
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 27 (Youngstown) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11713
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 29 (Bakersfield CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11714
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 3 (Burlington VT) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11715
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 3 (Champaign) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11716
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 3 (Charlotte) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11717
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 3 (Hartford) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11718
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 3 (Kalamazoo MI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11719
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 3 (Madison WI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11720
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 3 (Omaha NE) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11721
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 3 (Philadelphia) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11722
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 3 (Wilmington) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11723
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 31 (Central IL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11724
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 32 (Louisville KY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11725
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 33 (Flint MI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11726
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 38 (Boston MA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11727
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 4 (Buffalo NY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11728
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 4 (Colombus MS) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11729
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 4 (Denver) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11730
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 4 (El Paso TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11731
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 4 (Harlinger TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11732
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 4 (Miami) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11733
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 4 (Minneapolis) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11734
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 4 (New Orleans) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11735
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 4 (Rock Island) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11736
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 4 (St. Louis) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11737
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 42 (Austin TX) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11738
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 42 (Birmingham AL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11739
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 46 (Atlanta) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11740
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 46 (Salinas CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11741
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 47 (Fresno CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11742
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 47 (Jacksonville) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11743
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (Charleston SC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11744
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (Flint MI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11745
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (Green Bay WI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11746
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (Honolulu HI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11747
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (Kansas City) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11748
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (Mobile AL) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11749
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (Nashville) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11750
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (Phoenix) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11751
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (San Antonio) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11752
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (San Francisco CA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11753
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 5 (Syracuse) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11754
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 55 (Riverhead NY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11755
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 58 (Milwaukee) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11756
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 6 (Albany NY) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11757
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 6 (Lansing MI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11758
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 6 (Orlando) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11759
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 6 (Portland) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11760
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 6 (Tulsa OK) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11761
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 62 (Detroit) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11762
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 7 (Dayton OH) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11763
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 7 (Roanoke VA) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11764
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 7 (Seattle) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11765
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 8 (Chattanooga TN) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11766
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 8 (Des Moines) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11767
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 8 (Knoxville TN) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11768
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 8 (La Crosse WI) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11769
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 8 (Las Vegas) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11770
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 8 (Montgomery) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11771
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 8 (San Diego) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11772
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 9 (Greenville NC) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11773
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 2 (Los Angeles) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11774
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 9 (Oklahoma City OK) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11775
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 9 (Washington) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11776
+#EXTINF:-1 group-title="CBSGROUP",US: CBS 9 (Yakima) | HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/11777
