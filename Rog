@@ -1,0 +1,19 @@
+{
+  "app": "com.pa.rog",
+  "code": 200,
+  "duration": "1223ms",
+  "headers": {
+    "Server": "nginx/1.14.0 (Ubuntu)",
+    "Date": "Wed, 19 Aug 2020 17:26:32 GMT",
+    "Content-Type": "audio/mpegurl",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Disposition": "attachment; filename\u003dusee.m3u"
+  },
+  "message": "OK",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "103.77.107.86",
+  "remotePort": 443,
+  "sessionId": "9060ceb8-1111-4218-95c7-32b692700a52",
+  "time": "2020-08-20 00:26:29"
+}
