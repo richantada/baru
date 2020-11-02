@@ -1,0 +1,54 @@
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS (PRO)",Bein Sport 1 (Ais Play)
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS (PRO)",Bein Sport 2 (Ais Play)
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="SPORTS (PRO)",Sport Tv 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="SPORTS (PRO)",Sport Tv 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="SPORTS (PRO)",Sport Tv 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="SPORTS (PRO)",Sport Tv 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="SPORTS (PRO)",Sport Tv 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="btsport1" tvg-logo="https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg" group-title="SPORTS (PRO)",BT Sport 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="btsport2" tvg-logo="https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg" group-title="SPORTS (PRO)",BT Sport 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="SPORTS (PRO)",True Vision: FOX Sports 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="SPORTS (PRO)",True Vision: FOX Sports 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SPORTS (PRO)",True Vision: FOX Sports 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS (PRO)",EURO Sports 1
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS (PRO)",EURO Sports 2
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="truesport1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORTS (PRO)",TRUESPORTS 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="truesport2" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="SPORTS (PRO)",TRUESPORTS 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="truesport3" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="SPORTS (PRO)",TRUESPORTS 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="truesport3" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORTS (PRO)",TRUESPORTS 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="truesport3" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORTS (PRO)",TRUESPORTS 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="truesport3" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORTS (PRO)",TRUESPORTS 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="truesport3" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORTS (PRO)",TRUESPORTS 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="premierfootball1.id" tvg-name="premierfootball1" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS (PRO)",True Vision Original 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="premierfootball2.id" tvg-name="premierfootball2" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS (PRO)",True Vision Original 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="premierfootball3.id" tvg-name="premierfootball3" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS (PRO)",True Vision Original 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="premierfootball4.id" tvg-name="premierfootball4" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS (PRO)",True Vision Original 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="premierfootball5.id" tvg-name="premierfootball5" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS (PRO)",True Vision Original 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+
+
