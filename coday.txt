@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://riyancoday.xyz/coday.jpg",VIP By @RiyanCoday
-https://riyancoday.xyz/coday.ts
-// M3U8 By @RiyanCoday (t.me/c0day)
-
-//VIDIO PREMIUM by @RiyanCoday
 
 // LOCAL
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lqy4j4RuTxBWTwmiZok8d2IhkJc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-64c183.jpg" tvg-id="RIYAN.8850d5ee9a75cef8229d0da548ed88bd.SHINTA" tvg-name"Indosiar (VIDIO)" group-title="LOCAL",Indosiar (VIDIO)
