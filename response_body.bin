@@ -1,38 +1,4 @@
-#EXTM3U url-tvg="http://kedaiepg.atwebpages.com/epg.php"
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="LOCAL",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="KIDS",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening2.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="NEWS",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening3.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="MUSIC",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening4.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="SPORTS",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening5.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="MOVIES",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening6.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="HBO-FOX",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening7.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="KNOWLEDGE",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening8.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png"  group-title="ENTERTAIMENT",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening9.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="LIFESTYLE",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening10.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="RELIGI",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening11.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="RADIO",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening12.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="BEINSPORT HD",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening14.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="NASIONAL",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening15.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="LOKAL DAERAH",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening16.m3u8
-#EXTINF:-1 tvg-logo="http://kopiaja.my.id/img/logogroup.png" group-title="VOD - ACTION",WARKOPTEVE ( @warkopteve )
-https://kopiaja.my.id/opening17.m3u8
-
-
+#EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png"  group-title="LOCAL",RCTI
 https://kopiaja.my.id/m3u/vidio-rcti.m3u8
