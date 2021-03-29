@@ -1,9 +1,3 @@
-# simpan.cc hanya menyediakan tempat untuk menyimpan konten playlist.
-# Melanggar hak cipta kamu? Kirim email ke nanank@macan.live untuk menghilangkannya.
-# Infringing your rights? Send an email to nanank@macan.live to remove it.
-# simpan.cc hanya menyediakan tempat untuk menyimpan konten playlist.
-# Melanggar hak cipta kamu? Kirim email ke nanank@macan.live untuk menghilangkannya.
-# Infringing your rights? Send an email to nanank@macan.live to remove it.
 #EXTM3U
 
 
